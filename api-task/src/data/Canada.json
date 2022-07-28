@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/canada/7a0d6c36-3f81-4a88-9306-d5022d7092fb",
+    "name": "Canada",
+    "athletes": [
+        {
+            "name": "Heather Abadie",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Mariam Abdul-Rashid",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Javier Acevedo",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Eliezer Adjibi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Aaron Ahl",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Bolade Ajomale",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Keoma-Ali Al-Ahmadieh",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Elissa Alarie",
+            "sport": "Rugby Sevens",
+            "gender": "Female",
+            "age": "35"
+        },
+        {
+            "name": "Stephanie Aldea",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Jacob Alexander Torres",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Nicholas Allen",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Spencer Allen",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Patrick Anderson",
+            "sport": "3x3 Wheelchair Basketball",
+            "gender": "Male",
+            "age": "42"
+        },
+        {
+            "name": "Bailey Andison",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Rachel Andres",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "34"
+        }
+    ]
+}

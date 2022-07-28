@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/england/e501a6c5-f54e-484f-90e8-b66dd10f18be",
+    "name": "England",
+    "athletes": [
+        {
+            "name": "Mohamud Aadan",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "31"
+        },
+        {
+            "name": "Ola Abidogun",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Ondine Kathryn Achampong",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Henry Ackroyd",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Jono Adam",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Billy Adams",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Jamie Adamson",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Kare Adenegan",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Halimat Adio",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Harry Aikines-Aryeetey",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Holly Aitchison",
+            "sport": "Rugby Sevens",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Mohammed Harris Akbar",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Deborah Alawode",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "James Albery",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Sophie Alden",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": "23"
+        }
+    ]
+}

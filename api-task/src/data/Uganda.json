@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/uganda/618c56ee-c368-4eb6-b075-e005fb6a3d6b",
+    "name": "Uganda",
+    "athletes": [
+        {
+            "name": "Lubega Abdu-Noor",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Jamal Spartan Abdul",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Jesca Achan",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "30"
+        },
+        {
+            "name": "Benjamin Ebenezer Achuma",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Yasin Abdallah Adinan",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Haron Adoli",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Pius Adome",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Florence Adunia",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Lilian Ajio",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "37"
+        },
+        {
+            "name": "Mary Aleper",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Flavia Amaniyo",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Atuhaire Ogola Ambala",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Susan Aneno",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "25"
+        },
+        {
+            "name": "Samuel Ankunda",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "12"
+        },
+        {
+            "name": "Agnes Apio",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        }
+    ]
+}

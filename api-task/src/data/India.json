@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/india/80fff4a9-fd79-41f5-a485-078b149100f7",
+    "name": "India",
+    "athletes": [
+        {
+            "name": "Abdul Ahad -",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Abhishek -",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Akash -",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Akashdeep Singh -",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Akashdeep Singh -",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "17"
+        },
+        {
+            "name": "Aman -",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Amandeep Kaur -",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Amit -",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Ankita -",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Annu -",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Anupama -",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Chandrika -",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Chetna -",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Deepak -",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Deepika -",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "19"
+        }
+    ]
+}

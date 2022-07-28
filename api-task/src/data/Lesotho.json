@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/lesotho/4036aadc-0503-47bf-afed-c191a321a633",
+    "name": "Lesotho",
+    "athletes": [
+        {
+            "name": "Toka Badboy",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Teboho Khantsi",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "30"
+        },
+        {
+            "name": "Neheng Khatala",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "29"
+        },
+        {
+            "name": "Monaheng Khebe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "17"
+        },
+        {
+            "name": "Bokang Khoai",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "34"
+        },
+        {
+            "name": "Litsitso Khotlele",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "37"
+        },
+        {
+            "name": "Retselisitsoe Kolobe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Mojela Koneshe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Phomolo Daniel Lengola",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Kabelo Lesia",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Malefetsane Lesofe",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Mathakane Letsie",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "30"
+        },
+        {
+            "name": "Toka Litabe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Telang Mahanyane",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "30"
+        },
+        {
+            "name": "Tumelo Makae",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "25"
+        }
+    ]
+}

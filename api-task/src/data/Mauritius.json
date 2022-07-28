@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/mauritius/bb98fff6-29af-4925-a5f6-1d70a6db4330",
+    "name": "Mauritius",
+    "athletes": [
+        {
+            "name": "Hansley Jeffrey Patrice Adonis",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Franceska Agathe",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Jean Jerry Ziggy Agathe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Victor Ah Yong",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "17"
+        },
+        {
+            "name": "Marie Emmanuelle Anais Alphonse",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Marquis Amene",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Maena Andre",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": "15"
+        },
+        {
+            "name": "Anais Anne Lise Angeline",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Gregory Anodin",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Emmanuel Dylan Henri Antalika",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Amelie Anthony",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Melvin Appiah",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Vilina Appiah",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Annah Auckburaullee",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Amylee Sephora Aza",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "17"
+        }
+    ]
+}

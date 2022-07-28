@@ -1,0 +1,96 @@
+{
+	"pageUrl": "https://www.birmingham2022.com/teams/botswana/8c08344b-cd20-4068-b37b-6157ec1d369d",
+	"name": "Botswana",
+	"athletes": [
+		{
+			"name": "Tshwanelo Aabobe",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Male",
+			"age": "28"
+		},
+		{
+			"name": "Stephen Abosi",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Male",
+			"age": "28"
+		},
+		{
+			"name": "Nijel Amos",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Male",
+			"age": "27"
+		},
+		{
+			"name": "Thomphang Basele",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Female",
+			"age": "21"
+		},
+		{
+			"name": "Matlhogonolo Botlhole",
+			"sport": "Cycling - Road",
+			"gender": "Male",
+			"age": "20"
+		},
+		{
+			"name": "Christine Botlogetswe",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Female",
+			"age": "26"
+		},
+		{
+			"name": "Maxine Egner",
+			"sport": "Aquatics - Swimming and Para Swimming",
+			"gender": "Female",
+			"age": "17"
+		},
+		{
+			"name": "James Freeman",
+			"sport": "Aquatics - Swimming and Para Swimming",
+			"gender": "Male",
+			"age": "20"
+		},
+		{
+			"name": "Thatayaone Gaosekelwe",
+			"sport": "Judo",
+			"gender": "Male",
+			"age": "17"
+		},
+		{
+			"name": "Lydia Jele",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Female",
+			"age": "31"
+		},
+		{
+			"name": "Aratwa Fancinah Kasemang",
+			"sport": "Boxing",
+			"gender": "Female",
+			"age": "26"
+		},
+		{
+			"name": "Leungo Katse",
+			"sport": "Squash",
+			"gender": "Female",
+			"age": "17"
+		},
+		{
+			"name": "Boitshepiso Kelapile",
+			"sport": "Athletics and Para Athletics",
+			"gender": "Female",
+			"age": "19"
+		},
+		{
+			"name": "Keamogetse Sadie Kenosi",
+			"sport": "Boxing",
+			"gender": "Female",
+			"age": "24"
+		},
+		{
+			"name": "Kgotla Alphius N Kgaswane",
+			"sport": "Weightlifting",
+			"gender": "Male",
+			"age": "21"
+		}
+	]
+}

@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/turks-caicos-is-/3cc9e144-ccb5-4c8d-95d4-67d85c2026ec",
+    "name": "Turks & Caicos Is.",
+    "athletes": [
+        {
+            "name": "Emmanuel Agenor",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Rebecca Bernardin",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Chevorn Bishop",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Aleiandio Durham",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Kavin Ewing",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "51"
+        },
+        {
+            "name": "Wilkinson Fenelon",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Devante Gardiner",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Omard Gardiner",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "39"
+        },
+        {
+            "name": "Tanesia Sylvina Gardiner",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Angelo Garland",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Arleigha Hall",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Kivarno Handfield",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Wooslyn Harvey",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Yanique Haye-Smith",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Courtney Missick",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        }
+    ]
+}

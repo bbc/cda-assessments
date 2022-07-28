@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/belize/7ccc967b-b7a9-4801-ac61-bdd26c99f74a",
+    "name": "Belize",
+    "athletes": [
+        {
+            "name": "Brandon Adolphus",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Mark Anderson",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "30"
+        },
+        {
+            "name": "Carroll Azueta",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Ernesto Bradley",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Ashantie Carr",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Ashontie Carr",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Kerwin Castillo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Kaya Cattouse",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "32"
+        },
+        {
+            "name": "Tevin Chaplin",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Derrick Chavarria",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Joslyn Chavarria",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Patricia Chavarria",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "28"
+        },
+        {
+            "name": "Shawn Codd",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Joshua Fuller",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Kent Gabourel",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "41"
+        }
+    ]
+}

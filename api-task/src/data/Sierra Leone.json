@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/sierra-leone/6e7d8599-fccf-4528-b0e9-cfd8b2cf91d3",
+    "name": "Sierra Leone",
+    "athletes": [
+        {
+            "name": "Fatmata Awolo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Fatmata Bah",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Abdul Bangura",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Alfred Bangura",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Christian Bangura",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "37"
+        },
+        {
+            "name": "Ibrahim Karim Bangura",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Ishmail Bangura",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Jenifer Fatmata Bangura",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Sheku S Bangura",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Sonny Bangura",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Saidu Barrie",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Zainab Barrie",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "John Browne",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Mohamed Bundu",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Deedra Arvella Chestnut",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "25"
+        }
+    ]
+}

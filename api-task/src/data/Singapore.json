@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/singapore/8747d61b-1f98-4b44-8432-905af6fd7e3a",
+    "name": "Singapore",
+    "athletes": [
+        {
+            "name": "Chen Xiang Ang",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Hui Ying Ang",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Maximillian Wei Ang",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Mitchell Ang",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Su En Sarah Ang",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Shetty Aryanna Nish",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Female",
+            "age": "15"
+        },
+        {
+            "name": "Wai Iynn Au Yeong",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": "14"
+        },
+        {
+            "name": "Wai Yhann Au Yeong",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Jerome Clement Jin Ming Aw",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Kun Ting Beh",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Sharon Jia Hui Beh",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Muhammad Syazani Bin Abdul Wahid",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Muhammad Naqib Bin Asmin",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Arfan Bin Faisal",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Ahmad Arif Bin Ibrahim",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": "28"
+        }
+    ]
+}

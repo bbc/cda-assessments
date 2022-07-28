@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/tanzania/fb87d656-047f-4e07-b804-62d695eb2395",
+    "name": "Tanzania",
+    "athletes": [
+        {
+            "name": "Abdulrabi Alawi Abdulla",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Yusuf Lucasi Changalawe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Faraja Lazaro Damasi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Josephat Joshua Gisemo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Ali Khamis Gulam",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Hilal Hilal",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Alex Michael Isendi",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Winifrida Makenji",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Failuna Matanga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "29"
+        },
+        {
+            "name": "Kassim Mbundwike",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Hamisi Athumani Misai",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "41"
+        },
+        {
+            "name": "Andrew Thomas Mlugu",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Thomas Jordan Mwenda",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Yohana Assa Mwila",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": "37"
+        },
+        {
+            "name": "Vicent Joseph Ng'humbi",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "27"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/scotland/d58009a3-327e-4a6a-be55-a81ec0c09b7a",
+    "name": "Scotland",
+    "athletes": [
+        {
+            "name": "Kalea Abercromby Stagg",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Georgina Adam",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Georgia Adderley",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Sarah Adlington",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "35"
+        },
+        {
+            "name": "Nordine Adrif",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Aqeel Bashir Ahmed",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Krishawn Aiken",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Alice Glenna Aitchison",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Lisa Aitken",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Charlie Aldridge",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Isla Alejandro",
+            "sport": "Rugby Sevens",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Thomas Alexander",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Nikki Alexander-Lloyd",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "34"
+        },
+        {
+            "name": "Finlay Allan",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Angus Allison",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/zambia/806704ce-478a-456f-a8d1-79ab676cb48b",
+    "name": "Zambia",
+    "athletes": [
+        {
+            "name": "Mark Banda",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Melvin Banda",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Elisha Bwalya",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Oberd Chembe",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Manda Chilambwe",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "37"
+        },
+        {
+            "name": "Andrew Chilata",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Davy Chimbukulu",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Sharon Chimfwembe",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": "45"
+        },
+        {
+            "name": "Patrick Chinyemba",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Elizabeth Chipeleme",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "32"
+        },
+        {
+            "name": "Zulema Chisenga",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Jilowa Gift",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Edmond Hamayuwa",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Chidamba Hazemba",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Rita Kabinda",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "19"
+        }
+    ]
+}

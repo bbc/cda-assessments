@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/kenya/cad40e30-c98e-4727-a746-9ec98c82367e",
+    "name": "Kenya",
+    "athletes": [
+        {
+            "name": "Babra Diana Achieng",
+            "sport": "3x3 Basketball",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Christine Achieng' Omondi",
+            "sport": "3x3 Basketball",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Millicent Adhiambo",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Benson Salem Adoyo",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Kalvin Munangwe Afude",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "31"
+        },
+        {
+            "name": "Peter Mwaniki Aila",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Margaret Akidor",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Elizabeth Akinyi",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "28"
+        },
+        {
+            "name": "Stephany Rebecca Akinyi",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Juma Akoth",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "30"
+        },
+        {
+            "name": "Rahel Akoth Alar",
+            "sport": "3x3 Wheelchair Basketball",
+            "gender": "Female",
+            "age": "42"
+        },
+        {
+            "name": "Lubaina Ali",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Winrose Alivisa",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Martin Oduor Aluoch",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "35"
+        },
+        {
+            "name": "Jenny Compell Amadi",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": "14"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/bermuda/e279bc56-7b93-434b-bef7-2a469f71c21f",
+    "name": "Bermuda",
+    "athletes": [
+        {
+            "name": "Brandon B Adkins",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "15"
+        },
+        {
+            "name": "Suresh Black",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Caitlyn Bobb",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Alex Brown",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Noah Browne",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Tyler Butterfield",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": "38"
+        },
+        {
+            "name": "Caitlin Conyers",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "32"
+        },
+        {
+            "name": "Tiara Derosa",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Mikle Dill",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Stephan Dill",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Flora Duffy",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": "34"
+        },
+        {
+            "name": "Isabell Dutranoit",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Sakari Famous",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Jahniko Francis",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Micah Franklin",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "29"
+        }
+    ]
+}

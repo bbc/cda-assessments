@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/pakistan/a0733d06-4b3d-4e34-9229-ae8c0226d97a",
+    "name": "Pakistan",
+    "athletes": [
+        {
+            "name": "Mehreen .",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Azhar Abbas",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Mazhar Abbas",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Shajar Abbas",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Muhammad Abdullah",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Haroon Abid",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": ". Abuzar",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": ". Afraz",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Muhammad Afzal",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Male",
+            "age": "39"
+        },
+        {
+            "name": "Ajaz Ahmad",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Arbaz Ahmad",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Israr Ahmad",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Umair Ahmad",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "31"
+        },
+        {
+            "name": "Faizan Akbar",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Sehra Akram",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "26"
+        }
+    ]
+}

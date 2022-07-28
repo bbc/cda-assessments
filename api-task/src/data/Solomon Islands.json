@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/solomon-islands/b87b7ec0-d12b-46e7-9fec-33bcb346d27a",
+    "name": "Solomon Islands",
+    "athletes": [
+        {
+            "name": "Jason Aratara",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Cindy Rebiala Aungarima",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "32"
+        },
+        {
+            "name": "Wendy Lagwena Charles",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Hannah U'una Donga",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Martin Faeni",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Sharon Firisua",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "28"
+        },
+        {
+            "name": "Rose Gwali",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "35"
+        },
+        {
+            "name": "Edgar Richardson Iro",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Timson Jude Irowane",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Henry Kia",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Donald Laeta",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Pemberton Lele",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Paul Ma'unikeni",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Cosmol Maefolia",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Philip Masi",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": "17"
+        }
+    ]
+}

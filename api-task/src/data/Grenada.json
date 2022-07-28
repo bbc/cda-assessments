@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/grenada/f5cb3d02-7636-4492-9d4a-9bfd85bd9a7c",
+    "name": "Grenada",
+    "athletes": [
+        {
+            "name": "Andy Andall",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "37"
+        },
+        {
+            "name": "Kanika Beckles",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "30"
+        },
+        {
+            "name": "Jenebi Benoit",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Josh Boateng",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Anaika Alisha Charles",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Ishona Stacy-ann Charles",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "35"
+        },
+        {
+            "name": "Junior Charles",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Tilly Collymore",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "14"
+        },
+        {
+            "name": "Nelon Cyrus",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Delron Felix",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Gamali Felix",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Kurt Felix",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Shondel Fereira",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Michael Francois",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Zackary Gresham",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "17"
+        }
+    ]
+}

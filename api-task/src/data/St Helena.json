@@ -1,0 +1,72 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/st-helena/246f0d1f-a4a3-4866-88b1-465ebd4ba168",
+    "name": "St Helena",
+    "athletes": [
+        {
+            "name": "William Caswell",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "13"
+        },
+        {
+            "name": "Sean Crowie",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Poppy Davis-Coyle",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "14"
+        },
+        {
+            "name": "Tye Leo-Stroud",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "17"
+        },
+        {
+            "name": "Vivienne Ponsford",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Vernon Smeed",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "44"
+        },
+        {
+            "name": "Stefan Thomas",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "16"
+        },
+        {
+            "name": "Brooke Yon",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Duwaine Yon",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Joshua Yon",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Aiden Yon-Stevens",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "16"
+        }
+    ]
+}

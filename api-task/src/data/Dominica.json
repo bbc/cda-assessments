@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/dominica/f3735e11-9b0d-4a8b-a101-35c7a7578418",
+    "name": "Dominica",
+    "athletes": [
+        {
+            "name": "Melissa Alfred",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Shanee Angol",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Kohath Baron",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Kianne Benjamin",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Kevon Boyd",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Judah Corriette",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Mitchel Davis",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "30"
+        },
+        {
+            "name": "Neo Davis",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "17"
+        },
+        {
+            "name": "Yordanys Duranona Garcia",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Treneese Hamilton",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Tristan James",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Kurnish Jean Jacques",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Thea Lafond",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "27"
+        },
+        {
+            "name": "Felix Lawrence",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Warren Lawrence",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        }
+    ]
+}

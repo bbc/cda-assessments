@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/nigeria/b7ec14d6-3b1d-4eef-b006-e0b79d9db16f",
+    "name": "Nigeria",
+    "athletes": [
+        {
+            "name": "Eneojo Joseph Abah",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Abdulrahaman Abdullahi",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Aishat Toyosi Abdulraheem",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "15"
+        },
+        {
+            "name": "Afeez Alao Abdulrahman",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Oyeniyi Abejoye",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Bode Abiodun",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "41"
+        },
+        {
+            "name": "Mercy Abire",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Solomon Imoleayo Adebayo",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "30"
+        },
+        {
+            "name": "Tope Joshua Adebayo",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Jumoke Bukola Adekoye",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Mercy Bolafunoluwa Adekuoroye",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Odunayo Folasade Adekuoroye",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "28"
+        },
+        {
+            "name": "Korede Mojeed Adeniji",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Temitope Simbiat Adeshina",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Sikiru Adewale Adeyemi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "23"
+        }
+    ]
+}

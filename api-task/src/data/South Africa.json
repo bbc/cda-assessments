@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/south-africa/dca38f06-2dd4-4f6e-aab7-bab92ed8a3fc",
+    "name": "South Africa",
+    "athletes": [
+        {
+            "name": "Michael Abrahams",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "30"
+        },
+        {
+            "name": "Rusten Abrahams",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Amy Ackerman",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Simone Ackerman",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Kirsty Adams",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Luxolo Adams",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Darren Adonis",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Cecil Afrika",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Antonio Alkana",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "31"
+        },
+        {
+            "name": "Michaela Andrews",
+            "sport": "Cricket T20",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Davids Angelo",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Kurt-Lee Arendse",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Alichia Arries",
+            "sport": "Rugby Sevens",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Bianca Augustyn",
+            "sport": "Rugby Sevens",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Barend Badenhorst",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "26"
+        }
+    ]
+}

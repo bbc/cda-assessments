@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/bangladesh/fb78a6cb-7ac7-47ee-8500-843b2a8a9629",
+    "name": "Bangladesh",
+    "athletes": [
+        {
+            "name": "Junayna Ahmed",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Shishir Ahmed",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Most Ritu Akhtar",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Mabia Aktar",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Juthi Akter",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Mst Morium Akter",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Ropali Akter",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Shirin Akter",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "27"
+        },
+        {
+            "name": "Tamanna Akter",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Srity Akther",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": "27"
+        },
+        {
+            "name": "Md Mahabub Alam",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "16"
+        },
+        {
+            "name": "Md Hossan Ali",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Md Al Amin",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Ramhimlian Bawm",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "16"
+        },
+        {
+            "name": "Liton Biswas",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "17"
+        }
+    ]
+}

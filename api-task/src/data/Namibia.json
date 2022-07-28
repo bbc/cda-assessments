@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/namibia/8d09ddf3-19c9-4784-8345-3f915df15fb7",
+    "name": "Namibia",
+    "athletes": [
+        {
+            "name": "Jason Shannon Afrikaner",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "France Brave Niilenge Amukwa",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Morihei Friederich Anderson",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Alina Armas",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "38"
+        },
+        {
+            "name": "Shafaihuuna Devin Benhard",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Johanna Benson",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Mahhad Alexander Bock",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "27"
+        },
+        {
+            "name": "Caitlin Jane Hillhouse Botha",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Jean-Paul Burger",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "James Milne Cindano",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Male",
+            "age": "17"
+        },
+        {
+            "name": "Dirk Jacobus Coetzee",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Ingram Cuff",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "39"
+        },
+        {
+            "name": "David Dam",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Pieter de la Rey",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Tristan de Lange",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "24"
+        }
+    ]
+}

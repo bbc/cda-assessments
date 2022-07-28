@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/ghana/0c9ad3ed-1ee4-4449-9fae-907471ce9f80",
+    "name": "Ghana",
+    "athletes": [
+        {
+            "name": "Charles Abbiw",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Ahmad Abdul Samad",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Abdul Rahman Abdul Samed",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Derek Abrefa",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Mohammed Abubakar",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Eugene Dwomoh Acheampong",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "34"
+        },
+        {
+            "name": "Felix Acheampong",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "47"
+        },
+        {
+            "name": "Judith Acheampong",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Benjamin Kweku Acquah",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": "31"
+        },
+        {
+            "name": "Deborah Acquah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "25"
+        },
+        {
+            "name": "Juwaila Acquah",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "25"
+        },
+        {
+            "name": "Jonathan Buerteye Addo",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "42"
+        },
+        {
+            "name": "Yaw Samuel Addo",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Ishmael Addy",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": "37"
+        },
+        {
+            "name": "Bennedicta Adjei",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "28"
+        }
+    ]
+}

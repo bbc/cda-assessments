@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/mozambique/75dc00f9-86c2-438c-aed7-be26d73dfca8",
+    "name": "Mozambique",
+    "athletes": [
+        {
+            "name": "Carlos Acacio",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Cinthya Kaiana Silvestre Badru",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Valentim Cardoso da Costa",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        },
+        {
+            "name": "Tatiana Madeira da Fonseca",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": "42"
+        },
+        {
+            "name": "Patricio de Sousa Leao",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": "16"
+        },
+        {
+            "name": "Denise Donelli",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "25"
+        },
+        {
+            "name": "Kaio De Araujo Faftine",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "15"
+        },
+        {
+            "name": "Jacira Judite Da Costa Ferreira",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Larissa Ferreira Gil",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Rady Adosinda Gramane",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Natalia Intego",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Helena Ismael",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Veronica Vicente Jose",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Kyara Dalsuco Langa",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Matthew Lawrence",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "18"
+        }
+    ]
+}

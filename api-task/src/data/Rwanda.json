@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/rwanda/c3374e20-584c-409e-b02b-235416af7a81",
+    "name": "Rwanda",
+    "athletes": [
+        {
+            "name": "Alphonsine Agahozo",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "24"
+        },
+        {
+            "name": "Kavalo Patrick Akumuntu",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Jean Nepo Bigirimana",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Venuste Gatsinzi",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Fils Habanzintwari",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Jean Eric Habimana",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "20"
+        },
+        {
+            "name": "Seth Hakizimana",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Emeline Imanizabayo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "25"
+        },
+        {
+            "name": "Diane Ingabire",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Neza Violette Irakoze",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Celine Iranzi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "27"
+        },
+        {
+            "name": "Honorine Iribagiza",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Claudette Ishimwe",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Isihaka Isihaka",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Robert Kajuga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "36"
+        }
+    ]
+}

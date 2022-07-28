@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/jamaica/1bb33520-331c-491c-bd28-c1d934aaf318",
+    "name": "Jamaica",
+    "athletes": [
+        {
+            "name": "Rhodri James Erskine Adamson",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "28"
+        },
+        {
+            "name": "Nathon Allen",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Gezelle Monifha Allison",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "26"
+        },
+        {
+            "name": "Zaneta Alvaranga",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Julian Mya Amede Absolam",
+            "sport": "Gymnastics - Artistic",
+            "gender": "Female",
+            "age": "17"
+        },
+        {
+            "name": "Britany Anderson",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Kenroy Anderson",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "34"
+        },
+        {
+            "name": "Navasky Anderson",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Joel Angus",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Nathan Annakie",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Simone Alexandra Asque",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Oshane Bailey",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Kemar Bailey-Cole",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Gabrianna Banks",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Zandrion Barnes",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "20"
+        }
+    ]
+}

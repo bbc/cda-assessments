@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/cameroon/c632ec46-0614-434b-b347-ab12cd7328f2",
+    "name": "Cameroon",
+    "athletes": [
+        {
+            "name": "Germaine Abessolo Bivina",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "31"
+        },
+        {
+            "name": "Cedric Abossolo",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Zedong Adrin Virgil",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "25"
+        },
+        {
+            "name": "Madeleine Caren Ltc Akoumba Ze",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Paul Jouel Alima Fouda",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Simone Edwige Amandi Ngono",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "30"
+        },
+        {
+            "name": "Maeva Princia Gertrude Anamba",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": "16"
+        },
+        {
+            "name": "Linda Angounou",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "29"
+        },
+        {
+            "name": "Ayuk Otay Arrey Sophina",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "27"
+        },
+        {
+            "name": "Michel Henri Assembe",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Benoit Oscar Asso'o Emane Yetmou",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "33"
+        },
+        {
+            "name": "Conrat Frederic Atangana",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": "34"
+        },
+        {
+            "name": "Guillaume Junior Atangana",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Charles Christole Atangana Ntsama",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "29"
+        },
+        {
+            "name": "Aime Blaise Atchoukeu Mbithe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "32"
+        }
+    ]
+}

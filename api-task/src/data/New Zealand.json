@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/new-zealand/edf2a651-c26e-4d0c-8b52-4f34d6a04f21",
+    "name": "New Zealand",
+    "athletes": [
+        {
+            "name": "Joshua Michael Aitcheson",
+            "sport": "3x3 Basketball",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Jessica Anderson",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Kate Anderson",
+            "sport": "Cricket T20",
+            "gender": "Female",
+            "age": "25"
+        },
+        {
+            "name": "Ellesse Andrews",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Kody Andrews",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Sydnee Andrews",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "19"
+        },
+        {
+            "name": "Shane Archbold",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": "32"
+        },
+        {
+            "name": "Bella Armstrong",
+            "sport": "Cricket T20",
+            "gender": "Female",
+            "age": "22"
+        },
+        {
+            "name": "Joel Arscott",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": "22"
+        },
+        {
+            "name": "Samuel Aruwa",
+            "sport": "3x3 Basketball",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Sarah Asmussen",
+            "sport": "Cricket T20",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Imogen Ayris",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Sheldon Bagrie-Howley",
+            "sport": "Lawn Bowls and Para Lawn Bowls",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Quintin Bailey",
+            "sport": "3x3 Basketball",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Kurt Baker",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": "33"
+        }
+    ]
+}

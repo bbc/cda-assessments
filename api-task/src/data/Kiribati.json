@@ -1,0 +1,54 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/kiribati/8c07424e-fef9-4264-a1f0-5fb737dad867",
+    "name": "Kiribati",
+    "athletes": [
+        {
+            "name": "Betero Aaree",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Timon Aaree",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Toaua Bangke",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Kinaua Biribo",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "28"
+        },
+        {
+            "name": "Ruben Katoatau",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Lataisi Mwea",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "21"
+        },
+        {
+            "name": "Tevii Steven",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "23"
+        },
+        {
+            "name": "Eriu Temakau",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "19"
+        }
+    ]
+}

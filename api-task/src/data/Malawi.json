@@ -1,0 +1,96 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/malawi/73e31de8-4d76-4acb-ac62-5cf033ac6d9b",
+    "name": "Malawi",
+    "athletes": [
+        {
+            "name": "Asher Alinafe Banda",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": "16"
+        },
+        {
+            "name": "Beauty Banda",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "32"
+        },
+        {
+            "name": "Shabel Bengo",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "18"
+        },
+        {
+            "name": "Vera Benjamin",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Harriet Bonface",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": "28"
+        },
+        {
+            "name": "Elias Bonzo",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Tayamika Chang'anamuno",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": "21"
+        },
+        {
+            "name": "Austin Chikwapula",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": "19"
+        },
+        {
+            "name": "Jane Chimaliro",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "36"
+        },
+        {
+            "name": "Flora Chipeta",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "20"
+        },
+        {
+            "name": "Allan Ngitsi Chirwa",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": "26"
+        },
+        {
+            "name": "Nalicy Chirwa",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": "23"
+        },
+        {
+            "name": "Molly Chisambiro",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "27"
+        },
+        {
+            "name": "Abdullah Shaibu Chitepete",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": "24"
+        },
+        {
+            "name": "Martha Dambo",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": "28"
+        }
+    ]
+}
