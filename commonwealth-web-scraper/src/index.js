@@ -1,27 +1,15 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 
 (async () => {
-
-
-  const browser = await puppeteer.launch({
-    // headless: false,
-    // slowMo: 500
-  })
-
-  // const page = await browser.newPage()
-  // await page.goto(commonwealthGamesSiteUrl)
+  const browser = await puppeteer.launch()
 
   const teams = await getTeams(browser)
-  // const teamsWithAthletes = teams.forEach((team) => await getTeamAthletes(browser, team))
 
   for (const team of teams) {
-    const athletes = await getTeamAthletes(browser, team)
-    console.log(athletes, 'sss<')
+    team.athletes = await getTeamAthletes(browser, team)
+    fs.writeFileSync(`../api-task/src/data/${team.name}.json`, JSON.stringify(team), { flag: 'w+' });
   }
-
-  const teamList = []
-
-
 
   await browser.close()
 })();
@@ -61,13 +49,3 @@ const getTeamAthletes = async (browser, team) => {
     return athletes
   })
 }
-
-
-
-// logging
-  // teamsPage.on('console', async (msg) => {
-  //   const msgArgs = msg.args()
-  //   for (let i = 0 i < msgArgs.length ++i) {
-  //     console.log(await msgArgs[i].jsonValue())
-  //   }
-  // })
