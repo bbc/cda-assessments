@@ -1,5 +1,5 @@
 const request = require('supertest')
-const { default: expressServer, resetResults } = require('..')
+const { default: expressServer, resetResults } = require('../server')
 const { loadTeams } = require('../utilities/loadTeams')
 
 const fetchTop10 = (server) => {
@@ -22,28 +22,21 @@ describe('Commonwealth Results', () => {
             await loadTeams(server)
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
-            expect(top10._body[0].name).toEqual('South Africa')
+            expect(top10._body[0].name).toEqual('Australia')
         })
 
         test('second team', async () => {
             await loadTeams(server)
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
-            expect(top10._body[1].name).toEqual('India')
+            expect(top10._body[1].name).toEqual('England')
         })
 
-        test('third team', async () => {
+        test('fourth team', async () => {
             await loadTeams(server)
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
-            expect(top10._body[2].name).toEqual('Nigeria')
-        })
-
-        test('bottom team', async () => {
-            await loadTeams(server)
-            const top10 = await fetchTop10(server)
-            expect(top10._body).not.toBeNull()
-            expect(top10._body[9].name).toEqual('Botswana')
+            expect(top10._body[3].name).toEqual('Canada')
         })
     })
 
@@ -64,13 +57,13 @@ describe('Commonwealth Results', () => {
                     "name": "Pieter Coetze",
                     "sport": "Aquatics - Swimming and Para Swimming",
                     "event": "Men's 50m Backstroke",
-                    "medal": "Silver"
+                    "medal": "SILVER"
                 },
                 {
                     "name": "Charne Griesel",
                     "sport": "Judo",
                     "event": "Women -52 kg",
-                    "medal": "Bronze"
+                    "medal": "BRONZE"
                 },
             ]))
         })
