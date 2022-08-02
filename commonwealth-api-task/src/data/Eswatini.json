@@ -1,0 +1,244 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/eswatini/fe5810c3-449d-4efb-9fb4-b1e92b7b5727",
+    "name": "Eswatini",
+    "id": 3,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Benele Simphiwe Dlamini",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43429.jpg"
+        },
+        {
+            "name": "Nokwanda Nosipho Dlamini",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44140.jpg"
+        },
+        {
+            "name": "Simanga Dlamini",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/42705.jpg"
+        },
+        {
+            "name": "Siwakhile Dlamini",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41795.jpg"
+        },
+        {
+            "name": "Thabiso Selby Dlamini",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57772.jpg"
+        },
+        {
+            "name": "Zweli Comfort Dlamini",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57833.jpg"
+        },
+        {
+            "name": "Lihle Nicholus Ginindza",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59446.jpg"
+        },
+        {
+            "name": "Hayley Hoy",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 13,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/42550.jpg"
+        },
+        {
+            "name": "Cameron Thomas Jele",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/42713.jpg"
+        },
+        {
+            "name": "Kwanele Jele",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44150.jpg"
+        },
+        {
+            "name": "Sabelo  Mancoba Lukhele",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62331.jpg"
+        },
+        {
+            "name": "Andile Lusenga",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/42948.jpg"
+        },
+        {
+            "name": "Bongiwe Mahlalela",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43422.jpg"
+        },
+        {
+            "name": "Ayanda Malaza",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44118.jpg"
+        },
+        {
+            "name": "Sibusiso Matsenjwa",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39167.jpg"
+        },
+        {
+            "name": "Mayibongwe Mpendulo Mdluli",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62849.jpg"
+        },
+        {
+            "name": "Sikhanyiso Mkhwanazi",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44126.jpg"
+        },
+        {
+            "name": "Lwazi Menziwokuhle Msibi",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43426.jpg"
+        },
+        {
+            "name": "Nonhlanhla Erikah Seyama",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/42774.jpg"
+        },
+        {
+            "name": "Muzi Shabangu",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44152.jpg"
+        },
+        {
+            "name": "Andiswa Machawe Sibandze",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57870.jpg"
+        },
+        {
+            "name": "Mciniseli Vilakati",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44134.jpg"
+        },
+        {
+            "name": "Dinize Wilsch",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "F",
+            "age": 44,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44145.jpg"
+        },
+        {
+            "name": "Sambulo Sisimo Xaba",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44521.jpg"
+        },
+        {
+            "name": "Robyn Young",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41679.jpg"
+        }
+    ],
+    "medalWinners": []
+}

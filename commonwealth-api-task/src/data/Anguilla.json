@@ -1,0 +1,138 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/anguilla/2ca98d6d-f4a6-4f15-b72c-40e70eb80a29",
+    "name": "Anguilla",
+    "id": 28,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Delroy Carty",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64889.jpg"
+        },
+        {
+            "name": "Mauriel Carty",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64397.jpg"
+        },
+        {
+            "name": "Davin Fleming",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64403.jpg"
+        },
+        {
+            "name": "Aiden Hazzard",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64398.jpg"
+        },
+        {
+            "name": "Hasani Hennis",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64400.jpg"
+        },
+        {
+            "name": "Alex Lake",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64402.jpg"
+        },
+        {
+            "name": "Danny Lloyd Laud",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 40,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64393.jpg"
+        },
+        {
+            "name": "Tri-Tania Lowe",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67168.jpg"
+        },
+        {
+            "name": "Japheth Olton",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64395.jpg"
+        },
+        {
+            "name": "Curlun Richardson",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64396.jpg"
+        },
+        {
+            "name": "Zambezi Richardson",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64401.jpg"
+        },
+        {
+            "name": "Saymon Rijo",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64399.jpg"
+        },
+        {
+            "name": "Terrone Webster",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64404.jpg"
+        }
+    ],
+    "medalWinners": []
+}

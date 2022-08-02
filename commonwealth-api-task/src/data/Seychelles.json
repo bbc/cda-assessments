@@ -1,0 +1,442 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/seychelles/4da09e64-c88e-46f6-b2f9-14d8c2072e88",
+    "name": "Seychelles",
+    "id": 13,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Marcus Allen Adela",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 39,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32607.jpg"
+        },
+        {
+            "name": "Angelique Adeline",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41601.jpg"
+        },
+        {
+            "name": "Denzel Adem",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41079.jpg"
+        },
+        {
+            "name": "Keddy Evans Agnes",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32590.jpg"
+        },
+        {
+            "name": "Clementina Ciana Agricole",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32106.jpg"
+        },
+        {
+            "name": "Ned Azemia",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/85847.jpg"
+        },
+        {
+            "name": "Mathieu Bachmann",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33092.jpg"
+        },
+        {
+            "name": "Simon Bachmann",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33137.jpg"
+        },
+        {
+            "name": "Dorian Banane",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41107.jpg"
+        },
+        {
+            "name": "Stephen Alberto Belle",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41137.jpg"
+        },
+        {
+            "name": "Anniesa Benstrong",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43776.jpg"
+        },
+        {
+            "name": "David Boniface",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41604.jpg"
+        },
+        {
+            "name": "Fatima Boniface",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41111.jpg"
+        },
+        {
+            "name": "Shain Barnsley Boniface",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32598.jpg"
+        },
+        {
+            "name": "Jovanie Darius Antoine Bouzin",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 44,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32592.jpg"
+        },
+        {
+            "name": "Christy Bristol",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41089.jpg"
+        },
+        {
+            "name": "Natasha Chetty",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32463.jpg"
+        },
+        {
+            "name": "Rick Yves Confiance",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32778.jpg"
+        },
+        {
+            "name": "Mick Crea",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/85842.jpg"
+        },
+        {
+            "name": "Sharry Dodin",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32468.jpg"
+        },
+        {
+            "name": "Dominic Dugasse",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55520.jpg"
+        },
+        {
+            "name": "Khema Elizabeth",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32427.jpg"
+        },
+        {
+            "name": "Mario Joseph Ernesta",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/144436.jpg"
+        },
+        {
+            "name": "Tyler Fred",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32409.jpg"
+        },
+        {
+            "name": "Leeroy Henriette",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32458.jpg"
+        },
+        {
+            "name": "Michael Jumaye",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43601.jpg"
+        },
+        {
+            "name": "Isabelle Labuschagne",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57923.jpg"
+        },
+        {
+            "name": "Romentha Larue",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32757.jpg"
+        },
+        {
+            "name": "Xerxes Larue",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33164.jpg"
+        },
+        {
+            "name": "Louise le Berrigo",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32275.jpg"
+        },
+        {
+            "name": "Juliette Ruby Rita Malvina",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41133.jpg"
+        },
+        {
+            "name": "Miguel Sebastien Mathieu",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41134.jpg"
+        },
+        {
+            "name": "Joshua Miller",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32411.jpg"
+        },
+        {
+            "name": "Iven Moise",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32445.jpg"
+        },
+        {
+            "name": "Adam Moncherry",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32415.jpg"
+        },
+        {
+            "name": "Yohan Monthy",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32617.jpg"
+        },
+        {
+            "name": "Hilary Nourrice",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41609.jpg"
+        },
+        {
+            "name": "Aaliyah Palestrini",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57880.jpg"
+        },
+        {
+            "name": "Felicity Passon",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27100.jpg"
+        },
+        {
+            "name": "Damien Payet",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32407.jpg"
+        },
+        {
+            "name": "Fabio Taryll Liam Roselie",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32593.jpg"
+        },
+        {
+            "name": "Dylan Sicobo",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41130.jpg"
+        },
+        {
+            "name": "Laura Sinon",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/85840.jpg"
+        },
+        {
+            "name": "Therese Soukup",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41643.jpg"
+        },
+        {
+            "name": "Godfrey Sultan",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41125.jpg"
+        },
+        {
+            "name": "Alain Vidot",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32408.jpg"
+        },
+        {
+            "name": "Jean Michel Vidot",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28433.jpg"
+        }
+    ],
+    "medalWinners": []
+}

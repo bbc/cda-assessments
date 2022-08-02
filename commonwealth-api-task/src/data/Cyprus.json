@@ -1,0 +1,1366 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/cyprus/92dab8a5-196b-4617-b95c-ae4b58e19e30",
+    "name": "Cyprus",
+    "id": 49,
+    "medals": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2
+    },
+    "athletes": [
+        {
+            "name": "Afroditi Agathokleous",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60849.jpg"
+        },
+        {
+            "name": "Alexandros Agrotis",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66209.jpg"
+        },
+        {
+            "name": "Konstantinos Alexiadis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66744.jpg"
+        },
+        {
+            "name": "Paraskevi Andreou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66655.jpg"
+        },
+        {
+            "name": "Mariota Angelopoulou",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66185.jpg"
+        },
+        {
+            "name": "Georgios Angonas",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64981.jpg"
+        },
+        {
+            "name": "Giannis Antoniou",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67086.jpg"
+        },
+        {
+            "name": "Kalia Antoniou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59950.jpg"
+        },
+        {
+            "name": "Nikolas Antoniou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59994.jpg"
+        },
+        {
+            "name": "Panayiotis Antoniou",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66127.jpg"
+        },
+        {
+            "name": "Rafail Antoniou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66548.jpg"
+        },
+        {
+            "name": "Sofia Asvesta",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66926.jpg"
+        },
+        {
+            "name": "Odysseas Atmatzidis",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "Stavros Avgoustinou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66888.jpg"
+        },
+        {
+            "name": "Tatiana Bachurina",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65088.jpg"
+        },
+        {
+            "name": "Georgios Balarjishvili",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67062.jpg"
+        },
+        {
+            "name": "Paraskevas Batzavalis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66663.jpg"
+        },
+        {
+            "name": "Cathrine Beatty",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": null
+        },
+        {
+            "name": "Alex Beechey",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66687.jpg"
+        },
+        {
+            "name": "Panayiota Chapoupi",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "F",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66126.jpg"
+        },
+        {
+            "name": "Despoina Charalambous",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66520.jpg"
+        },
+        {
+            "name": "Thalia Charalambous",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66653.jpg"
+        },
+        {
+            "name": "Michalis Chari",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64983.jpg"
+        },
+        {
+            "name": "Charalampos Choiras",
+            "sports": [
+                "Wrestling"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64760.jpg"
+        },
+        {
+            "name": "Petros Christodoulides",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67056.jpg"
+        },
+        {
+            "name": "Panagiotis Christodoulidis",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66145.jpg"
+        },
+        {
+            "name": "Alexandros Christodoulou",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59885.jpg"
+        },
+        {
+            "name": "Eleni Christodoulou",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66237.jpg"
+        },
+        {
+            "name": "Natalia Christofi",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66648.jpg"
+        },
+        {
+            "name": "Antri Christoforou",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66203.jpg"
+        },
+        {
+            "name": "Stella Christoforou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66897.jpg"
+        },
+        {
+            "name": "Georgios Chrysostomou",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66170.jpg"
+        },
+        {
+            "name": "Alexandros Dimitriou",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66149.jpg"
+        },
+        {
+            "name": "Christos Dimitriou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66871.jpg"
+        },
+        {
+            "name": "Evangelina Dimitriou",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65200.jpg"
+        },
+        {
+            "name": "Andreas Doulappas",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66142.jpg"
+        },
+        {
+            "name": "Christiana Maria Eleftheriou",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65201.jpg"
+        },
+        {
+            "name": "Iosif Elia",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64975.jpg"
+        },
+        {
+            "name": "Sharpel Elia",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": null
+        },
+        {
+            "name": "Christiana Ellina",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66833.jpg"
+        },
+        {
+            "name": "Maria Erokhina",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60462.jpg"
+        },
+        {
+            "name": "Natalia Evangelidou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66682.jpg"
+        },
+        {
+            "name": "Filippa Fotopoulou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66660.jpg"
+        },
+        {
+            "name": "Olivia Fotopoulou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66484.jpg"
+        },
+        {
+            "name": "Nikolas Fragkou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66885.jpg"
+        },
+        {
+            "name": "Paschalis Fragkou",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66133.jpg"
+        },
+        {
+            "name": "Christoforos Genethli",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66542.jpg"
+        },
+        {
+            "name": "Odysseas Georgakis",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67082.jpg"
+        },
+        {
+            "name": "Dafni Georgiou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66667.jpg"
+        },
+        {
+            "name": "Ilias Georgiou",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64977.jpg"
+        },
+        {
+            "name": "Marios Georgiou",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64976.jpg"
+        },
+        {
+            "name": "Alexandros Gregoriou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62010.jpg"
+        },
+        {
+            "name": "Tryfonas Hadjichristoforou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60780.jpg"
+        },
+        {
+            "name": "Anna Hadjiloizou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59934.jpg"
+        },
+        {
+            "name": "Stefanie Haholiades",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60808.jpg"
+        },
+        {
+            "name": "Dagmara Handzlik",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66695.jpg"
+        },
+        {
+            "name": "Laura Hernandez",
+            "sports": [
+                "Gymnastics - Rhythmic"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65307.jpg"
+        },
+        {
+            "name": "Hristo Angelov Hristonov",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64970.jpg"
+        },
+        {
+            "name": "Filippos Iakovidis",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60658.jpg"
+        },
+        {
+            "name": "Markos Iakovidis",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60702.jpg"
+        },
+        {
+            "name": "Nicolas Ioannides",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62138.jpg"
+        },
+        {
+            "name": "Styliana Ioannidou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66512.jpg"
+        },
+        {
+            "name": "Michalis Isaias",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67595.jpg"
+        },
+        {
+            "name": "Panteleimon Kailis",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": null
+        },
+        {
+            "name": "Maria Kamenou",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66130.jpg"
+        },
+        {
+            "name": "Alexios Kaouslidis",
+            "sports": [
+                "Wrestling"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64763.jpg"
+        },
+        {
+            "name": "Chrysoula Karamanou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60797.jpg"
+        },
+        {
+            "name": "Eva Kattirtzi",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66225.jpg"
+        },
+        {
+            "name": "Petros Kesov",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67084.jpg"
+        },
+        {
+            "name": "Amine Khadiri",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66593.jpg"
+        },
+        {
+            "name": "Andreas Kokkinos",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28458.jpg"
+        },
+        {
+            "name": "Emilia Kolokotroni",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66620.jpg"
+        },
+        {
+            "name": "Giorgos Koniarakis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66491.jpg"
+        },
+        {
+            "name": "Manolina Konstantinou",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66180.jpg"
+        },
+        {
+            "name": "Vasilios Konstantinou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66626.jpg"
+        },
+        {
+            "name": "Zoi Konstantopoulou",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66191.jpg"
+        },
+        {
+            "name": "Eleftherios Kontonikola",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66835.jpg"
+        },
+        {
+            "name": "Giorgos Korotzidis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66945.jpg"
+        },
+        {
+            "name": "Nikolas Kosta",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60629.jpg"
+        },
+        {
+            "name": "Rountolf Kourtidis",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67077.jpg"
+        },
+        {
+            "name": "Michalis Krasias",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67589.jpg"
+        },
+        {
+            "name": "Elvis Elli Kryukov",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66464.jpg"
+        },
+        {
+            "name": "Chrystalla Kyriakou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66471.jpg"
+        },
+        {
+            "name": "Neofytos Kyriakou",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64978.jpg"
+        },
+        {
+            "name": "Androniki Lada",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66517.jpg"
+        },
+        {
+            "name": "Antonios Liotatis",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66151.jpg"
+        },
+        {
+            "name": "Loukas Louka",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67068.jpg"
+        },
+        {
+            "name": "Carmen Macheriotou",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "F",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66138.jpg"
+        },
+        {
+            "name": "Agathi Manoli",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60645.jpg"
+        },
+        {
+            "name": "Christos Manoli",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60350.jpg"
+        },
+        {
+            "name": "Loukas Marinos",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59943.jpg"
+        },
+        {
+            "name": "Maria Markou",
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": null
+        },
+        {
+            "name": "Antonis Martasidis",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64590.jpg"
+        },
+        {
+            "name": "Dato Matsoukatov",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67075.jpg"
+        },
+        {
+            "name": "Neofyta Mavrikiou",
+            "sports": [
+                "Gymnastics - Rhythmic"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65308.jpg"
+        },
+        {
+            "name": "Foteini Meletie",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64962.jpg"
+        },
+        {
+            "name": "Andreas Miltiadis",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
+        },
+        {
+            "name": "Marinos Mitellas",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60096.jpg"
+        },
+        {
+            "name": "Sofoklis Mougis",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60131.jpg"
+        },
+        {
+            "name": "Stefani Nicolaou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60844.jpg"
+        },
+        {
+            "name": "Nikolas Nikolaidis",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60160.jpg"
+        },
+        {
+            "name": "Christiana Nikolaidou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59954.jpg"
+        },
+        {
+            "name": "Antonio Nikolaou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60391.jpg"
+        },
+        {
+            "name": "Grigoris Nikolaou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66481.jpg"
+        },
+        {
+            "name": "Erika Nystrom",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66162.jpg"
+        },
+        {
+            "name": "Konstantinos Onoufriou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60237.jpg"
+        },
+        {
+            "name": "Rafail Pafios",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59906.jpg"
+        },
+        {
+            "name": "Kyriakos Pampaka",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66674.jpg"
+        },
+        {
+            "name": "Nektaria Panagi",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66640.jpg"
+        },
+        {
+            "name": "Meropi Panagiotou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66495.jpg"
+        },
+        {
+            "name": "Panayiotis Panaretos",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62019.jpg"
+        },
+        {
+            "name": "Andreas Pantziaros",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60733.jpg"
+        },
+        {
+            "name": "Panagiotis Pappous",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60079.jpg"
+        },
+        {
+            "name": "Apostolos Parellis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66502.jpg"
+        },
+        {
+            "name": "Antonis Patsalides",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60384.jpg"
+        },
+        {
+            "name": "Konstantinos Pavlides",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "Stavri Pericleous",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66134.jpg"
+        },
+        {
+            "name": "Dimitris Petri",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66148.jpg"
+        },
+        {
+            "name": "Gloria Gavriella Philassides",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65030.jpg"
+        },
+        {
+            "name": "Christos Philokyprou",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66199.jpg"
+        },
+        {
+            "name": "Sokratis Pilakouris",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64984.jpg"
+        },
+        {
+            "name": "Anastasia Pingou",
+            "sports": [
+                "Gymnastics - Rhythmic"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65305.jpg"
+        },
+        {
+            "name": "Alexandros Poursanidis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66569.jpg"
+        },
+        {
+            "name": "Kirill Rudenko",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": null
+        },
+        {
+            "name": "Christos Savva",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64973.jpg"
+        },
+        {
+            "name": "Spyros Savva",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66677.jpg"
+        },
+        {
+            "name": "Valentina Savva",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66691.jpg"
+        },
+        {
+            "name": "Valeria Siakidou Papakyriakou",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66192.jpg"
+        },
+        {
+            "name": "Viktoria Skittidi",
+            "sports": [
+                "Gymnastics - Rhythmic"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65304.jpg"
+        },
+        {
+            "name": "Anna Sokolova",
+            "sports": [
+                "Gymnastics - Rhythmic"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65303.jpg"
+        },
+        {
+            "name": "Nikolas Spyrou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62076.jpg"
+        },
+        {
+            "name": "Stavros Spyrou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66505.jpg"
+        },
+        {
+            "name": "Giorgos Stavrou",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59785.jpg"
+        },
+        {
+            "name": "Nikandros Stylianou",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66637.jpg"
+        },
+        {
+            "name": "Christos Tamanis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66876.jpg"
+        },
+        {
+            "name": "Anastasia Theocharous",
+            "sports": [
+                "Gymnastics - Artistic"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67591.jpg"
+        },
+        {
+            "name": "Giorgos Therapontos",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60152.jpg"
+        },
+        {
+            "name": "Polyxeni Toumazou",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60652.jpg"
+        },
+        {
+            "name": "Milan Trajkovic",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66605.jpg"
+        },
+        {
+            "name": "Thomas Tsiopanis",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62128.jpg"
+        },
+        {
+            "name": "Andreas Varnava",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62083.jpg"
+        },
+        {
+            "name": "Andreas Yiafas",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66137.jpg"
+        },
+        {
+            "name": "Marios Yiangou",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64969.jpg"
+        },
+        {
+            "name": "Charalambos Zorbis",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66157.jpg"
+        }
+    ],
+    "medalWinners": [
+        {
+            "name": "Sokratis Pilakouris",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's Rings",
+            "medal": "SILVER"
+        },
+        {
+            "name": "Georgios Balarjishvili",
+            "sport": "Judo",
+            "event": "Men -66 kg",
+            "medal": "GOLD"
+        },
+        {
+            "name": "Marios Georgiou",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's All-Around",
+            "medal": "BRONZE"
+        },
+        {
+            "name": "Marios Georgiou",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's Team",
+            "medal": "BRONZE"
+        },
+        {
+            "name": "Ilias Georgiou",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's Team",
+            "medal": "BRONZE"
+        },
+        {
+            "name": "Sokratis Pilakouris",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's Team",
+            "medal": "BRONZE"
+        },
+        {
+            "name": "Georgios Angonas",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's Team",
+            "medal": "BRONZE"
+        },
+        {
+            "name": "Michalis Chari",
+            "sport": "Gymnastics - Artistic",
+            "event": "Men's Team",
+            "medal": "BRONZE"
+        }
+    ]
+}

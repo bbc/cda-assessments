@@ -1,0 +1,794 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/samoa/65cde6af-c079-4478-9025-ed24512b1e1e",
+    "name": "Samoa",
+    "id": 68,
+    "medals": {
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Vaovasa Afa Sua",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63182.jpg"
+        },
+        {
+            "name": "Marion Faustino Ah Tong",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Kolone Alefosio",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Maulalo Willie Alofipo",
+            "sports": [
+                "Wrestling"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53139.jpg"
+        },
+        {
+            "name": "Tomasi Junior Alosio Logotuli",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/109417.jpg"
+        },
+        {
+            "name": "Vaafauese Apelu Maliko",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63173.jpg"
+        },
+        {
+            "name": "Ati Junior Ati",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/109481.jpg"
+        },
+        {
+            "name": "Aneriueta Avaotuna",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62389.jpg"
+        },
+        {
+            "name": "Olivia Borg",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Jeremy Dodson",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": null
+        },
+        {
+            "name": "El-Shaddai Talitimu Jr Eniata",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "Jasmine Esekia",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Paul Faalogo",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": null
+        },
+        {
+            "name": "Leute Faamanu Mataipule",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 42,
+            "image": null
+        },
+        {
+            "name": "Miracle Faiilagi",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Faafoi Falaniko",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62779.jpg"
+        },
+        {
+            "name": "Moomoo Falaniko",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": null
+        },
+        {
+            "name": "Ed Teofilo Fidow",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/109416.jpg"
+        },
+        {
+            "name": "Neria Fomai",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/109414.jpg"
+        },
+        {
+            "name": "Jelani Teuila Freesir-Wetzell",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": null
+        },
+        {
+            "name": "Kokoro Frost",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "Tamahiri Gasolo",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": null
+        },
+        {
+            "name": "Seanoa Hall",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Jack Hitila Opeloge",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Shreen Hunt",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "William Angliss Hunt",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": null
+        },
+        {
+            "name": "Pesamino Iakopo",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Vaipava Nevo Ioane",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": null
+        },
+        {
+            "name": "Johnny Key",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": null
+        },
+        {
+            "name": "Potu Leavasa",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
+        },
+        {
+            "name": "Setefano Leavasa",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Neueli Leitufia",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62902.jpg"
+        },
+        {
+            "name": "Bradford Pou Lemalufaitoaga",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62318.jpg"
+        },
+        {
+            "name": "Elisapeta Leti",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": null
+        },
+        {
+            "name": "Jirhel Peter Levy",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "Phillip Luki",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
+        },
+        {
+            "name": "Malo Luteru",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Kelvin Tuiala Masoe",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Melani Matavao",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62876.jpg"
+        },
+        {
+            "name": "Theodore Mc Farland",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": null
+        },
+        {
+            "name": "Levi Milford",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60153.jpg"
+        },
+        {
+            "name": "Thomas Frazer Auega Morriss",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": null
+        },
+        {
+            "name": "Alamanda Lolo Motuga",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/109415.jpg"
+        },
+        {
+            "name": "Owen Niue",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62919.jpg"
+        },
+        {
+            "name": "Taunuu Niulevaea",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63151.jpg"
+        },
+        {
+            "name": "Steve Onosai",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63116.jpg"
+        },
+        {
+            "name": "Don Opeloge",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Motu Opetai",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62891.jpg"
+        },
+        {
+            "name": "Utuva Palota",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Daniel Patelesio",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Iakopo Petelo Mapu",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": null
+        },
+        {
+            "name": "Ato Leau Plodzicki-Faoagali",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Rhapsody Keneti Jr Pouoa",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": null
+        },
+        {
+            "name": "Jancen Poutoa",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Soteria Pulumu",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": null
+        },
+        {
+            "name": "Iafeta Purcell",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62809.jpg"
+        },
+        {
+            "name": "Alex Rose",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": null
+        },
+        {
+            "name": "Indiha Saotui-Huta",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Livingstonerick Savaiinaea",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "Easter Savelio",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": null
+        },
+        {
+            "name": "Paul Scanlan",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63084.jpg"
+        },
+        {
+            "name": "Brandon Schuster",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": null
+        },
+        {
+            "name": "Des Sepulona Faoa",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Uaina Sione",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63166.jpg"
+        },
+        {
+            "name": "Paul Slater",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": null
+        },
+        {
+            "name": "Tofatuimoana Solia",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": null
+        },
+        {
+            "name": "Ofa Sopoaga",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Lushavel Stickland",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": null
+        },
+        {
+            "name": "Feagaiga Stowers",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Reyna Naletisa Taamu",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": null
+        },
+        {
+            "name": "John Lautafi Tafi",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
+        },
+        {
+            "name": "William Tai Tin",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": null
+        },
+        {
+            "name": "Taitaifono Tamati",
+            "sports": [
+                "Wrestling"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53096.jpg"
+        },
+        {
+            "name": "Bright Tapeneko",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Pelosi Taupo",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": null
+        },
+        {
+            "name": "David Junior Tavita Faiaia",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": null
+        },
+        {
+            "name": "Nu'u Tuilefano",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": null
+        },
+        {
+            "name": "Petelo Tuiloma Lautusi",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
+        },
+        {
+            "name": "Donny Tuimaseve",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62027.jpg"
+        },
+        {
+            "name": "Perise Tumutumu",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": null
+        },
+        {
+            "name": "Fogamanono Tusiga",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": null
+        },
+        {
+            "name": "Nofoitumua Uelese",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": null
+        },
+        {
+            "name": "Wongsin Uilau Mariner",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Rebirth Vaaga",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": null
+        },
+        {
+            "name": "Jireh Otto Micky Westerlund",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/111859.jpg"
+        },
+        {
+            "name": "Jacob Muriaina Whitaker",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/109413.jpg"
+        }
+    ],
+    "medalWinners": [
+        {
+            "name": "Vaipava Nevo Ioane",
+            "sport": "Weightlifting",
+            "event": "Men's 67kg",
+            "medal": "SILVER"
+        }
+    ]
+}

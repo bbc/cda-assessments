@@ -1,0 +1,284 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/vanuatu/251b6673-d83c-46b5-9b3a-a8c89ae26ccf",
+    "name": "Vanuatu",
+    "id": 72,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Roanna Abel",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/103922.jpg"
+        },
+        {
+            "name": "Stivano Banga",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/108083.jpg"
+        },
+        {
+            "name": "Rodney Ben",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67100.jpg"
+        },
+        {
+            "name": "Namri Berri",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67093.jpg"
+        },
+        {
+            "name": "Simon Charley",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/150038.jpg"
+        },
+        {
+            "name": "James Chilia",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/108080.jpg"
+        },
+        {
+            "name": "Maxence Cugola",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67107.jpg"
+        },
+        {
+            "name": "Hugo Cumbo",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67108.jpg"
+        },
+        {
+            "name": "Chloe David",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67109.jpg"
+        },
+        {
+            "name": "Claudie David",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67110.jpg"
+        },
+        {
+            "name": "Elie Enock",
+            "sports": [
+                "Para Powerlifting",
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67096.jpg"
+        },
+        {
+            "name": "Amata Fiakaifonu",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67102.jpg"
+        },
+        {
+            "name": "Loti Joe",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67090.jpg"
+        },
+        {
+            "name": "Mariel Kalomor",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67103.jpg"
+        },
+        {
+            "name": "Georges Langa",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67098.jpg"
+        },
+        {
+            "name": "Majabelle Lawac",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67089.jpg"
+        },
+        {
+            "name": "Joe Mahit",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67105.jpg"
+        },
+        {
+            "name": "Daniel Matal",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67101.jpg"
+        },
+        {
+            "name": "Tracey Mawa",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/103953.jpg"
+        },
+        {
+            "name": "Marius Metois",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67106.jpg"
+        },
+        {
+            "name": "Miller Pata",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67087.jpg"
+        },
+        {
+            "name": "Ajah Pritchard-Lolo",
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67095.jpg"
+        },
+        {
+            "name": "Stephanie Qwea",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/103951.jpg"
+        },
+        {
+            "name": "Rodney Talo",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67099.jpg"
+        },
+        {
+            "name": "Veronica Tari",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67104.jpg"
+        },
+        {
+            "name": "Luduine Tebeim",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67092.jpg"
+        },
+        {
+            "name": "Obediah Timbaci",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/103915.jpg"
+        },
+        {
+            "name": "Sherysyn Toko",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67088.jpg"
+        },
+        {
+            "name": "Elstrom Wanemut",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67111.jpg"
+        },
+        {
+            "name": "Chantale Leow Willie",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/67091.jpg"
+        }
+    ],
+    "medalWinners": []
+}
