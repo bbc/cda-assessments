@@ -10,477 +10,720 @@
     "athletes": [
         {
             "name": "Mark Banda",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37470.jpg"
         },
         {
             "name": "Melvin Banda",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70424.jpg"
         },
         {
             "name": "Elisha Bwalya",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70431.jpg"
         },
         {
             "name": "Oberd Chembe",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37532.jpg"
         },
         {
             "name": "Manda Chilambwe",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51424.jpg"
         },
         {
             "name": "Andrew Chilata",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38958.jpg"
         },
         {
             "name": "Davy Chimbukulu",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70418.jpg"
         },
         {
             "name": "Sharon Chimfwembe",
-            "sport": "Squash",
-            "gender": "Female",
-            "age": 45
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 45,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52069.jpg"
         },
         {
             "name": "Patrick Chinyemba",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25110.jpg"
         },
         {
             "name": "Elizabeth Chipeleme",
-            "sport": "Badminton",
-            "gender": "Female",
-            "age": 32
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37425.jpg"
         },
         {
             "name": "Zulema Chisenga",
-            "sport": "Squash",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52053.jpg"
         },
         {
             "name": "Jilowa Gift",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69844.jpg"
         },
         {
             "name": "Edmond Hamayuwa",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70426.jpg"
         },
         {
             "name": "Chidamba Hazemba",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36946.jpg"
         },
         {
             "name": "Rita Kabinda",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56130.jpg"
         },
         {
             "name": "Samuel Kabwe",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52021.jpg"
         },
         {
             "name": "Parkson Kalanga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36930.jpg"
         },
         {
             "name": "Kundanji Kalengo",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51403.jpg"
         },
         {
             "name": "Israel Kalumba",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70417.jpg"
         },
         {
             "name": "Japhet Kalusa",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69734.jpg"
         },
         {
             "name": "Zacharia Kanyimbo",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69841.jpg"
         },
         {
             "name": "Juliana Kasonka",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25111.jpg"
         },
         {
             "name": "Andrew Kaswanga",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25087.jpg"
         },
         {
             "name": "Lassam Katongo",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 34
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39172.jpg"
         },
         {
             "name": "Lumeka Katundu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 30
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25096.jpg"
         },
         {
             "name": "Lawrence Kaushiku",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70438.jpg"
         },
         {
             "name": "Davies Kawemba",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38283.jpg"
         },
         {
             "name": "Bright Kayula",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69724.jpg"
         },
         {
             "name": "Butemwa Koloko",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70427.jpg"
         },
         {
             "name": "Richard Lubanza",
-            "sport": "Para Powerlifting",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43644.jpg"
         },
         {
             "name": "Kennedy Luchembe",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25095.jpg"
         },
         {
             "name": "Redson Lukwesa",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70446.jpg"
         },
         {
             "name": "Hellen Makumba",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25099.jpg"
         },
         {
             "name": "Quincy Malekani",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63276.jpg"
         },
         {
             "name": "Margret Mambwe",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37041.jpg"
         },
         {
             "name": "Grace Manyele",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69835.jpg"
         },
         {
             "name": "Mike Masabo",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70450.jpg"
         },
         {
             "name": "Rachel Masuku",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/108968.jpg"
         },
         {
             "name": "Brian Mbalwe",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70434.jpg"
         },
         {
             "name": "Daniel Mbewe",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25100.jpg"
         },
         {
             "name": "Kaluba Mbewe",
-            "sport": "Squash",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52064.jpg"
         },
         {
             "name": "Preston Mhango",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51459.jpg"
         },
         {
             "name": "Sheleni Michello",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69898.jpg"
         },
         {
             "name": "Niddy Mingilishi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25098.jpg"
         },
         {
             "name": "Zach Moyo",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 15
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38894.jpg"
         },
         {
             "name": "Laston Mukosa",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70439.jpg"
         },
         {
             "name": "Rodgers Mukupa",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69748.jpg"
         },
         {
             "name": "Brenda Mulenga",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69837.jpg"
         },
         {
             "name": "Chongo Mulenga",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37419.jpg"
         },
         {
             "name": "David Mulenga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36938.jpg"
         },
         {
             "name": "Kalombo Mulenga",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25104.jpg"
         },
         {
             "name": "Steven Mungandu",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25106.jpg"
         },
         {
             "name": "George Mwaba",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38780.jpg"
         },
         {
             "name": "Matthews Mwango",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37079.jpg"
         },
         {
             "name": "Thomas Mwankenja",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70440.jpg"
         },
         {
             "name": "Revival Mwiinga Mweemba",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36953.jpg"
         },
         {
             "name": "Alex Mwewa",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70436.jpg"
         },
         {
             "name": "Kumaren Naidu",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25088.jpg"
         },
         {
             "name": "Susan Nawakwi",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56094.jpg"
         },
         {
             "name": "Rhoda Njobvu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25089.jpg"
         },
         {
             "name": "Felistus Nkandu",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/120852.jpg"
         },
         {
             "name": "Chisanga Nkoma",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70433.jpg"
         },
         {
             "name": "Patrick Kakozi Nyambe",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36939.jpg"
         },
         {
             "name": "Tilka Paljk",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25083.jpg"
         },
         {
             "name": "Elizabeth Phiri",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52283.jpg"
         },
         {
             "name": "Jade Anita Phiri",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25093.jpg"
         },
         {
             "name": "Mia Phiri",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25092.jpg"
         },
         {
             "name": "Andrew Pyele",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38275.jpg"
         },
         {
             "name": "Muzala Samukonga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36927.jpg"
         },
         {
             "name": "Abygirl Sepiso",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52104.jpg"
         },
         {
             "name": "Sydney Siame",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25090.jpg"
         },
         {
             "name": "Everlyn Siamupangila",
-            "sport": "Badminton",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37443.jpg"
         },
         {
             "name": "Ogar Siamupangila",
-            "sport": "Badminton",
-            "gender": "Female",
-            "age": 33
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37432.jpg"
         },
         {
             "name": "Langani Siziba",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/69783.jpg"
         },
         {
             "name": "Taonga Soko",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25107.jpg"
         },
         {
             "name": "Margret Tembo",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38951.jpg"
         },
         {
             "name": "Jason Thole",
-            "sport": "Rugby Sevens",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70428.jpg"
         },
         {
             "name": "Stephen Zimba",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25084.jpg"
         },
         {
             "name": "Simon Zulu",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/25086.jpg"
         }
     ],
     "medalWinners": []

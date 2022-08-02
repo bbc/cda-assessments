@@ -1,0 +1,327 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/guernsey/fe390117-5c0a-4df5-96d4-273f6c10a512",
+    "name": "Guernsey",
+    "id": 52,
+    "medals": {
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Andrew Barker",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39870.jpg"
+        },
+        {
+            "name": "Jonathan Beck",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38144.jpg"
+        },
+        {
+            "name": "Lucy Beere",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 39,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39030.jpg"
+        },
+        {
+            "name": "Joe Chadwick",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39378.jpg"
+        },
+        {
+            "name": "Alastair Chalmers",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39032.jpg"
+        },
+        {
+            "name": "Cameron Chalmers",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37374.jpg"
+        },
+        {
+            "name": "Marc Cox",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39924.jpg"
+        },
+        {
+            "name": "Sam Culverwell",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38738.jpg"
+        },
+        {
+            "name": "Peter Curtis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39933.jpg"
+        },
+        {
+            "name": "Abi Galpin",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37367.jpg"
+        },
+        {
+            "name": "Charlie-Joe Hallett",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38682.jpg"
+        },
+        {
+            "name": "Ronny Hallett",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38676.jpg"
+        },
+        {
+            "name": "Stuart Hardy",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37469.jpg"
+        },
+        {
+            "name": "Elena Johnson",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37387.jpg"
+        },
+        {
+            "name": "Laura le Cras",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38265.jpg"
+        },
+        {
+            "name": "Billy le Poullain",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37526.jpg"
+        },
+        {
+            "name": "Chloe le Tissier",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38101.jpg"
+        },
+        {
+            "name": "Joshua Lewis",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39925.jpg"
+        },
+        {
+            "name": "Samuel Lowe",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38687.jpg"
+        },
+        {
+            "name": "Rosemary Ogier",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 66,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39035.jpg"
+        },
+        {
+            "name": "Todd Priaulx",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38323.jpg"
+        },
+        {
+            "name": "Ailish Rabey",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39337.jpg"
+        },
+        {
+            "name": "Orla Rabey",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39343.jpg"
+        },
+        {
+            "name": "James Roe",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38385.jpg"
+        },
+        {
+            "name": "Michael Serafin",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38387.jpg"
+        },
+        {
+            "name": "Matthew Solway",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38328.jpg"
+        },
+        {
+            "name": "Molly Staples",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38270.jpg"
+        },
+        {
+            "name": "Alex Tapp",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37520.jpg"
+        },
+        {
+            "name": "Thomas Teasdale",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58898.jpg"
+        },
+        {
+            "name": "Tatiana Tostevin",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38300.jpg"
+        },
+        {
+            "name": "Emily Trebert",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37393.jpg"
+        },
+        {
+            "name": "Sebastian Tremlett",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38706.jpg"
+        },
+        {
+            "name": "Oriana Wheeler",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38288.jpg"
+        }
+    ],
+    "medalWinners": [
+        {
+            "name": "Lucy Beere",
+            "sport": "Lawn Bowls and Para Lawn Bowls",
+            "event": "Women's Singles",
+            "medal": "SILVER"
+        }
+    ]
+}

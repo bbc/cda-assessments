@@ -1,0 +1,256 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/st-lucia/1435ef7d-9bad-4e4e-ae3d-01a5284407df",
+    "name": "St Lucia",
+    "id": 44,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Julien Alfred",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53120.jpg"
+        },
+        {
+            "name": "Kimani Alphonse",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53114.jpg"
+        },
+        {
+            "name": "Sandisha Antoine",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53119.jpg"
+        },
+        {
+            "name": "Michael Biscette",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53133.jpg"
+        },
+        {
+            "name": "D'andre Blanchard",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53123.jpg"
+        },
+        {
+            "name": "De Andre Calderon",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58995.jpg"
+        },
+        {
+            "name": "Mikaili Charlemagne",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53248.jpg"
+        },
+        {
+            "name": "Stephan Charles",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53117.jpg"
+        },
+        {
+            "name": "Tristan Dorville",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53250.jpg"
+        },
+        {
+            "name": "Delan Edwin",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53129.jpg"
+        },
+        {
+            "name": "Micky Ferdinand",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53131.jpg"
+        },
+        {
+            "name": "Naima Hazell",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53124.jpg"
+        },
+        {
+            "name": "Mechaela Hyacinth",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53128.jpg"
+        },
+        {
+            "name": "Michael Joseph",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53121.jpg"
+        },
+        {
+            "name": "Arthur Langelier",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53111.jpg"
+        },
+        {
+            "name": "Lenyn Kish Leonce",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53125.jpg"
+        },
+        {
+            "name": "Armani Modeste",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53130.jpg"
+        },
+        {
+            "name": "Terrel Monplaisir",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53249.jpg"
+        },
+        {
+            "name": "Kyghan Mortley",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53126.jpg"
+        },
+        {
+            "name": "Reuben Nichols",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53191.jpg"
+        },
+        {
+            "name": "Jayhan Jamaud Odlum-Smith",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53247.jpg"
+        },
+        {
+            "name": "Marvric Pamphile",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53116.jpg"
+        },
+        {
+            "name": "Leran Regis",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53127.jpg"
+        },
+        {
+            "name": "Albert Reynolds",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53115.jpg"
+        },
+        {
+            "name": "Jeanelle Scheper",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53109.jpg"
+        },
+        {
+            "name": "Randy Serville",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53132.jpg"
+        },
+        {
+            "name": "Jean-Luc Zephir",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53266.jpg"
+        }
+    ],
+    "medalWinners": []
+}

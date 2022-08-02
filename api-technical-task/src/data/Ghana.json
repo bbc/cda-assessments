@@ -10,1167 +10,1762 @@
     "athletes": [
         {
             "name": "Charles Abbiw",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66899.jpg"
         },
         {
             "name": "Ahmad Abdul Samad",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66543.jpg"
         },
         {
             "name": "Abdul Rahman Abdul Samed",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65388.jpg"
         },
         {
             "name": "Derek Abrefa",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66208.jpg"
         },
         {
             "name": "Mohammed Abubakar",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59618.jpg"
         },
         {
             "name": "Eugene Acheampong",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 34
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66869.jpg"
         },
         {
             "name": "Felix Acheampong",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 47
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 47,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52271.jpg"
         },
         {
             "name": "Judith Acheampong",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66308.jpg"
         },
         {
             "name": "Benjamin Kweku Acquah",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66877.jpg"
         },
         {
             "name": "Deborah Acquah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64306.jpg"
         },
         {
             "name": "Juwaila Acquah",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57078.jpg"
         },
         {
             "name": "Jonathan Buerteye Addo",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 42
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 42,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64936.jpg"
         },
         {
             "name": "Yaw Samuel Addo",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70587.jpg"
         },
         {
             "name": "Ishmael Addy",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": null
         },
         {
             "name": "Bennedicta Adjei",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58174.jpg"
         },
         {
             "name": "Nubia Adjei",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51616.jpg"
         },
         {
             "name": "Richard Adjei",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70562.jpg"
         },
         {
             "name": "Eva Adom -Amankwaa",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 32
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66332.jpg"
         },
         {
             "name": "Samuel Afari",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70554.jpg"
         },
         {
             "name": "Lydia Afriyie",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57370.jpg"
         },
         {
             "name": "Samuel Agbeli",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/133679.jpg"
         },
         {
             "name": "Hilda Agbottah",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66233.jpg"
         },
         {
             "name": "Barnabas Aggerh",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64461.jpg"
         },
         {
             "name": "Dominic Agudoo",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": null
         },
         {
             "name": "Zeo Agudoo",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/133654.jpg"
         },
         {
             "name": "Kate Agyemang",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64279.jpg"
         },
         {
             "name": "Victor Ahiavor",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/125575.jpg"
         },
         {
             "name": "Linus Fiifi Aidoo",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 45
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 45,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64937.jpg"
         },
         {
             "name": "Elikem Akaba",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 35
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70555.jpg"
         },
         {
             "name": "Emmanuel Akaba",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70553.jpg"
         },
         {
             "name": "Paul Akan",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59331.jpg"
         },
         {
             "name": "Charity Akoto",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54025.jpg"
         },
         {
             "name": "Godwin Nii Alabi",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66228.jpg"
         },
         {
             "name": "Rashid Alhassan",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66480.jpg"
         },
         {
             "name": "Latifa Ali",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64622.jpg"
         },
         {
             "name": "Theophilus Allotey",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
         },
         {
             "name": "Kelvin Evans Alphous",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66606.jpg"
         },
         {
             "name": "Alex Amankwa",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64413.jpg"
         },
         {
             "name": "Maxwell Akakpo Amekudzi",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": null
         },
         {
             "name": "Joseph Paul Amoah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64292.jpg"
         },
         {
             "name": "Cecilia Amoako",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57393.jpg"
         },
         {
             "name": "Isaac Amoako",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66333.jpg"
         },
         {
             "name": "John Ampomah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64390.jpg"
         },
         {
             "name": "William Amponsah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64614.jpg"
         },
         {
             "name": "Clement Anafo",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64932.jpg"
         },
         {
             "name": "Emmanuel Ankomah",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70564.jpg"
         },
         {
             "name": "Jonathan Ankrah",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 15
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66690.jpg"
         },
         {
             "name": "Millicent Ankude",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66340.jpg"
         },
         {
             "name": "Linda Annor",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 33
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66249.jpg"
         },
         {
             "name": "Josephine Anokye",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64464.jpg"
         },
         {
             "name": "Sarfo Ansah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64377.jpg"
         },
         {
             "name": "Doris Antwi",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53928.jpg"
         },
         {
             "name": "Vida Antwi",
-            "sport": "Para Powerlifting",
-            "gender": "Female",
-            "age": 39
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "F",
+            "age": 39,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52269.jpg"
         },
         {
             "name": "Emmanuel Kwesi Arthur",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 36
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65400.jpg"
         },
         {
             "name": "Desmond Aryee",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64450.jpg"
         },
         {
             "name": "Juliana Otcherewaa Aryee",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59334.jpg"
         },
         {
             "name": "Stephen Ofosu Asamoah",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66931.jpg"
         },
         {
             "name": "Emmanuel Asante",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66212.jpg"
         },
         {
             "name": "Frederick Assor",
-            "sport": "Cycling - Track and Para Track",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Cycling - Track and Para Track"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65410.jpg"
         },
         {
             "name": "Dallas Awenyese",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
         },
         {
             "name": "Rahinatu Awudu",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59328.jpg"
         },
         {
             "name": "Belinda Awuku",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59347.jpg"
         },
         {
             "name": "Evans Ayih",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70596.jpg"
         },
         {
             "name": "Benjamin Azamati",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64370.jpg"
         },
         {
             "name": "Bridget Azumah",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54013.jpg"
         },
         {
             "name": "Celia Baah-Danso",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": null
         },
         {
             "name": "Michael Baiden",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70559.jpg"
         },
         {
             "name": "Augustine Baidoo",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": null
         },
         {
             "name": "Racheal Bamfo",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 31
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53999.jpg"
         },
         {
             "name": "Mavis Berko",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57399.jpg"
         },
         {
             "name": "Mary Boakye",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/149131.jpg"
         },
         {
             "name": "Serwaa Boakye",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53993.jpg"
         },
         {
             "name": "Anthony Boafo Boakye Dankwa",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": null
         },
         {
             "name": "Bernice Borquaye",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 37
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66141.jpg"
         },
         {
             "name": "Nkegbe Botsyo",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 42
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 42,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52590.jpg"
         },
         {
             "name": "Benjamin Botwe",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": null
         },
         {
             "name": "Michael Botwe",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 15
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66694.jpg"
         },
         {
             "name": "Abigail Boye",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 32
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54019.jpg"
         },
         {
             "name": "Safia Bright",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64362.jpg"
         },
         {
             "name": "Ernestina Coffie",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57420.jpg"
         },
         {
             "name": "Emmanuel Commey",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66217.jpg"
         },
         {
             "name": "Joseph Commey",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70588.jpg"
         },
         {
             "name": "Hagiet Copson",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70565.jpg"
         },
         {
             "name": "Luke Damalie",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66912.jpg"
         },
         {
             "name": "Matthew Damalie",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66941.jpg"
         },
         {
             "name": "Nii Duodu Dimpson",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 45
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 45,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64935.jpg"
         },
         {
             "name": "Henry Djangmah",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 42
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 42,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65414.jpg"
         },
         {
             "name": "Eleazer Dodoo",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66503.jpg"
         },
         {
             "name": "Christopher Dogbe",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70557.jpg"
         },
         {
             "name": "Samuel Essilfie",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59322.jpg"
         },
         {
             "name": "Lambert Fiazuku",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": null
         },
         {
             "name": "Matilda Fodu",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66255.jpg"
         },
         {
             "name": "Kaya Forson",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51561.jpg"
         },
         {
             "name": "Zaira Forson",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51571.jpg"
         },
         {
             "name": "Cecilia Frema",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 31
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66193.jpg"
         },
         {
             "name": "Ibrahim Fuseini",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": null
         },
         {
             "name": "Edwin Kwabla Gadayi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64302.jpg"
         },
         {
             "name": "Godwin Galley",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 34
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66494.jpg"
         },
         {
             "name": "Asana Gbatti",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57379.jpg"
         },
         {
             "name": "Jemimah Gyamfi",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57346.jpg"
         },
         {
             "name": "Beatrice Gyasi",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 35
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 35,
+            "image": null
         },
         {
             "name": "Tahiru Haruna",
-            "sport": "Para Powerlifting",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52274.jpg"
         },
         {
             "name": "Florence Heridor",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 37
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track"
+            ],
+            "gender": "F",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/135942.jpg"
         },
         {
             "name": "Halutie Hor",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64457.jpg"
         },
         {
             "name": "Abdul-Hameed Ibrahim",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59350.jpg"
         },
         {
             "name": "Sandor Abdullah Iddris",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66469.jpg"
         },
         {
             "name": "Abeku Jackson",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51593.jpg"
         },
         {
             "name": "Kow Jackson",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64185.jpg"
         },
         {
             "name": "Rashaka Katadat",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59325.jpg"
         },
         {
             "name": "Alfred Kotey",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70589.jpg"
         },
         {
             "name": "Rachel Adei Kotey",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": null
         },
         {
             "name": "Cynthia Kwabi",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66327.jpg"
         },
         {
             "name": "Abigail Kwarteng",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64466.jpg"
         },
         {
             "name": "Benjamin Kwofie",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70561.jpg"
         },
         {
             "name": "Emmanuella Yaa Kyere",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66339.jpg"
         },
         {
             "name": "Blessing Labanti",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 14
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 14,
+            "image": null
         },
         {
             "name": "Felix Lartey",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66305.jpg"
         },
         {
             "name": "Jessie Lartey Lartey",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70594.jpg"
         },
         {
             "name": "Derick Lee",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66925.jpg"
         },
         {
             "name": "Dominic Maccarthy",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64467.jpg"
         },
         {
             "name": "Abraham Mensah",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70585.jpg"
         },
         {
             "name": "Rudolf Mensah",
-            "sport": "Cycling - Track and Para Track",
-            "gender": "Male",
-            "age": 43
+            "sports": [
+                "Cycling - Track and Para Track"
+            ],
+            "gender": "M",
+            "age": 43,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65997.jpg"
         },
         {
             "name": "Prospera Nantuo",
-            "sport": "Badminton",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66609.jpg"
         },
         {
             "name": "Vivian Narkuor",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53979.jpg"
         },
         {
             "name": "Emmanuel Nartey",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 38
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66452.jpg"
         },
         {
             "name": "George Nii Noertey",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": -1
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": -1,
+            "image": null
         },
         {
             "name": "Raymond Normeshie",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 43
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 43,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66518.jpg"
         },
         {
             "name": "Alfred Ntiamoah",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66894.jpg"
         },
         {
             "name": "Winnifred Ntumi",
-            "sport": "Weightlifting",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52764.jpg"
         },
         {
             "name": "Ibrahim Gado Nuhu",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 14
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 14,
+            "image": null
         },
         {
             "name": "Rafiatu Nuhu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64468.jpg"
         },
         {
             "name": "Atsu Nyamadi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64371.jpg"
         },
         {
             "name": "Isaac Obeng",
-            "sport": "Para Powerlifting",
-            "gender": "Male",
-            "age": 38
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "M",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52277.jpg"
         },
         {
             "name": "Patrick Yaw Obeng",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 45
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 45,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52279.jpg"
         },
         {
             "name": "Francis Nii Addo Obeng-Shang",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 13
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 13,
+            "image": null
         },
         {
             "name": "Grace Obour",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64459.jpg"
         },
         {
             "name": "Dorothy Efua Obuobi",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": null
         },
         {
             "name": "Nii Nortey Solomon Ocquaye",
-            "sport": "Weightlifting",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52754.jpg"
         },
         {
             "name": "Joseph Oduro Manu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64605.jpg"
         },
         {
             "name": "Duisberg Offei",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66834.jpg"
         },
         {
             "name": "Emmanuel Ofori",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66222.jpg"
         },
         {
             "name": "Mark Ofosu",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52034.jpg"
         },
         {
             "name": "Dede Okine",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58237.jpg"
         },
         {
             "name": "Emmanuel Nii Tettey Oku",
-            "sport": "Para Powerlifting",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51925.jpg"
         },
         {
             "name": "Gifty Kwakyewaa Oku",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/149311.jpg"
         },
         {
             "name": "Abdul Wahib Omar",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70593.jpg"
         },
         {
             "name": "Elizabeth Opoku",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57405.jpg"
         },
         {
             "name": "Ernest Opoku",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66905.jpg"
         },
         {
             "name": "Cosmos Oppong",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 35
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66198.jpg"
         },
         {
             "name": "Ebenezer Osabutey",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52717.jpg"
         },
         {
             "name": "Elvis Osei",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66686.jpg"
         },
         {
             "name": "Forrester Christopher Osei",
-            "sport": "Weightlifting",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52758.jpg"
         },
         {
             "name": "Mohammed Osumanu",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66935.jpg"
         },
         {
             "name": "Eleanor Otoo",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/133851.jpg"
         },
         {
             "name": "Mark Owiredu-Gyening",
-            "sport": "Squash",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64929.jpg"
         },
         {
             "name": "Gad Owusu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64606.jpg"
         },
         {
             "name": "Roberta Owusu",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58144.jpg"
         },
         {
             "name": "Sandra Mensimah Owusu",
-            "sport": "Weightlifting",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52762.jpg"
         },
         {
             "name": "Martin Owusu Antwi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64470.jpg"
         },
         {
             "name": "Margaret Owusuwaa",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57385.jpg"
         },
         {
             "name": "Mercy Jane Adorkor Pappoe",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52654.jpg"
         },
         {
             "name": "Papa Yaw Dwumoh Poku-Dwumoh",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51658.jpg"
         },
         {
             "name": "Ernest Mawutor Quarcoo",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": null
         },
         {
             "name": "Racheal Quarcoo",
-            "sport": "Badminton",
-            "gender": "Female",
-            "age": 12
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 12,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66696.jpg"
         },
         {
             "name": "Rudduck Quarcoo",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": null
         },
         {
             "name": "Abubakari Kwesi Quartey",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
         },
         {
             "name": "Emmanuel Otokunor Sackey",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65406.jpg"
         },
         {
             "name": "Sean Safo-Antwi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64607.jpg"
         },
         {
             "name": "Jacob Saikum",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66245.jpg"
         },
         {
             "name": "Juliana Sakat",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64473.jpg"
         },
         {
             "name": "Bernard Sam",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66135.jpg"
         },
         {
             "name": "Gideon Sama",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66489.jpg"
         },
         {
             "name": "Shakul Samed",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/107163.jpg"
         },
         {
             "name": "Abdul-Rasheed Saminu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/149188.jpg"
         },
         {
             "name": "Martha Sarfoa",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54009.jpg"
         },
         {
             "name": "Ornella Sathoud",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 34
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 34,
+            "image": null
         },
         {
             "name": "Erica Sedzro",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/135941.jpg"
         },
         {
             "name": "Adizatu Sulemana",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53987.jpg"
         },
         {
             "name": "Christopher Bennet Symonds",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 48
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 48,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66090.jpg"
         },
         {
             "name": "Solomon Tagoe",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
         },
         {
             "name": "Unilez Takyi",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51602.jpg"
         },
         {
             "name": "Aaron Dromo Tamakloe",
-            "sport": "Badminton",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66619.jpg"
         },
         {
             "name": "Sulemanu Tetteh",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": null
         },
         {
             "name": "Francis Tettey",
-            "sport": "Hockey",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/70560.jpg"
         },
         {
             "name": "Gabriel Tettey",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": null
         },
         {
             "name": "Rachel Oboshie Torgbor",
-            "sport": "Table Tennis and Para Table Tennis",
-            "gender": "Female",
-            "age": 37
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66304.jpg"
         },
         {
             "name": "Cindy Etornam Esi Tornyenyor",
-            "sport": "Badminton",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66622.jpg"
         },
         {
             "name": "Eric Tsatsu",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59342.jpg"
         },
         {
             "name": "Abdul Razak Umar",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": null
         },
         {
             "name": "Nafisatu Umaru",
-            "sport": "Hockey",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Hockey"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53963.jpg"
         },
         {
             "name": "Bismark Yartey",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/66521.jpg"
         },
         {
             "name": "Emmanuel Yeboah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64299.jpg"
         },
         {
             "name": "Niklas David Yeboah",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51627.jpg"
         },
         {
             "name": "Rose Amoanimaa Yeboah",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64471.jpg"
         }
     ],
     "medalWinners": []

@@ -10,171 +10,255 @@
     "athletes": [
         {
             "name": "Abdulrabi Alawi Abdulla",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54050.jpg"
         },
         {
             "name": "Yusuf Lucasi Changalawe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/45237.jpg"
         },
         {
             "name": "Faraja Lazaro Damasi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62146.jpg"
         },
         {
             "name": "Josephat Joshua Gisemo",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61998.jpg"
         },
         {
             "name": "Ali Khamis Gulam",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62132.jpg"
         },
         {
             "name": "Hilal Hilal",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63068.jpg"
         },
         {
             "name": "Alex Michael Isendi",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/45323.jpg"
         },
         {
             "name": "Winifrida Makenji",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62810.jpg"
         },
         {
             "name": "Failuna Matanga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61993.jpg"
         },
         {
             "name": "Kassim Mbundwike",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/45314.jpg"
         },
         {
             "name": "Hamisi Athumani Misai",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 41
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 41,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62332.jpg"
         },
         {
             "name": "Andrew Thomas Mlugu",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55501.jpg"
         },
         {
             "name": "Thomas Jordan Mwenda",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54206.jpg"
         },
         {
             "name": "Yohana Assa Mwila",
-            "sport": "Para Powerlifting",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53897.jpg"
         },
         {
             "name": "Vicent Joseph Ng'humbi",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/54057.jpg"
         },
         {
             "name": "Bakari Abdurahman Ngapa",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55494.jpg"
         },
         {
             "name": "Joseph Tiophil Panga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62780.jpg"
         },
         {
             "name": "Raphael Daud Raphael",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62942.jpg"
         },
         {
             "name": "Andrew Boniphace Rhobi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61925.jpg"
         },
         {
             "name": "Jackline Sakilu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 35
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61983.jpg"
         },
         {
             "name": "Collins Saliboko",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63092.jpg"
         },
         {
             "name": "Alphonce Felix Simbu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61960.jpg"
         },
         {
             "name": "Augustino Paulo Sulle",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62520.jpg"
         },
         {
             "name": "Fabiano Nelson Sulle",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61949.jpg"
         },
         {
             "name": "Natalia Elisante Sulle",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 33
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61956.jpg"
         },
         {
             "name": "Kayla Temba",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63018.jpg"
         },
         {
             "name": "Sarah Kalikwela Tibazarwa",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63058.jpg"
         },
         {
             "name": "Ainess Jasson Tibishubwamu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62167.jpg"
         }
     ],
     "medalWinners": [
@@ -182,7 +266,7 @@
             "name": "Alphonce Felix Simbu",
             "sport": "Athletics and Para Athletics",
             "event": "Men's Marathon",
-            "medal": "Silver"
+            "medal": "SILVER"
         }
     ]
 }

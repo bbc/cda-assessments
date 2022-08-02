@@ -10,237 +10,366 @@
     "athletes": [
         {
             "name": "Toka Badboy",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33316.jpg"
         },
         {
             "name": "Teboho Khantsi",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38673.jpg"
         },
         {
             "name": "Neheng Khatala",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/29188.jpg"
         },
         {
             "name": "Monaheng Khebe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 17
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57391.jpg"
         },
         {
             "name": "Bokang Khoai",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 34
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56515.jpg"
         },
         {
             "name": "Litsitso Khotlele",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 37
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33453.jpg"
         },
         {
             "name": "Retselisitsoe Kolobe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57424.jpg"
         },
         {
             "name": "Mojela Koneshe",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33325.jpg"
         },
         {
             "name": "Phomolo Daniel Lengola",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57481.jpg"
         },
         {
             "name": "Kabelo Lesia",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55637.jpg"
         },
         {
             "name": "Malefetsane Lesofe",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/98799.jpg"
         },
         {
             "name": "Mathakane Letsie",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 30
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55721.jpg"
         },
         {
             "name": "Toka Litabe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57885.jpg"
         },
         {
             "name": "Telang Mahanyane",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57451.jpg"
         },
         {
             "name": "Tumelo Makae",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33422.jpg"
         },
         {
             "name": "Kabelo Makatile",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63064.jpg"
         },
         {
             "name": "Mokulubete Makatisi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33322.jpg"
         },
         {
             "name": "Tsepo Mathibelle",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55646.jpg"
         },
         {
             "name": "Qhobosheane Mohlerepe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55776.jpg"
         },
         {
             "name": "Tlholohelo Mokhesi",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55809.jpg"
         },
         {
             "name": "Moroke Mokhotho",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 31
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/53954.jpg"
         },
         {
             "name": "Thabo Molefe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57445.jpg"
         },
         {
             "name": "Phetetso Monese",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38666.jpg"
         },
         {
             "name": "Motlokoa Nkhabutlane",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 37
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33329.jpg"
         },
         {
             "name": "Namakoe Nkhasi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33337.jpg"
         },
         {
             "name": "Lebenya Nkoka",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 39
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 39,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55656.jpg"
         },
         {
             "name": "Machachamise Ntsinyi",
-            "sport": "Weightlifting",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57933.jpg"
         },
         {
             "name": "Arena Pakela",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55783.jpg"
         },
         {
             "name": "Kokole Paneng",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 34
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57417.jpg"
         },
         {
             "name": "Tebello Ramakongoana",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63039.jpg"
         },
         {
             "name": "Ramohanoe Eric Ramohanoe",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38660.jpg"
         },
         {
             "name": "Nkhahle Thapelo Sebota",
-            "sport": "Weightlifting",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62033.jpg"
         },
         {
             "name": "Lerato Sechele",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33342.jpg"
         },
         {
             "name": "Mathealira Seholoholo",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 30
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57436.jpg"
         },
         {
             "name": "Tsepang Sello",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33354.jpg"
         },
         {
             "name": "Mamakoli Senauoane",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33349.jpg"
         },
         {
             "name": "Tsepo Setona",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/57462.jpg"
         },
         {
             "name": "Khoarahlane Seutloali",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32257.jpg"
         },
         {
             "name": "Manqabang Tsibela",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63001.jpg"
         }
     ],
     "medalWinners": []

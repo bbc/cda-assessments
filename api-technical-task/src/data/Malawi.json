@@ -10,375 +10,561 @@
     "athletes": [
         {
             "name": "Asher Alinafe Banda",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34025.jpg"
         },
         {
             "name": "Beauty Banda",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 32
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38224.jpg"
         },
         {
             "name": "Shabel Bengo",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39015.jpg"
         },
         {
             "name": "Vera Benjamin",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33793.jpg"
         },
         {
             "name": "Harriet Bonface",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32641.jpg"
         },
         {
             "name": "Elias Bonzo",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33999.jpg"
         },
         {
             "name": "Tayamika Chang'anamuno",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34054.jpg"
         },
         {
             "name": "Austin Chikwapula",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33767.jpg"
         },
         {
             "name": "Jane Chimaliro",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 36
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35429.jpg"
         },
         {
             "name": "Flora Chipeta",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38997.jpg"
         },
         {
             "name": "Allan Ngitsi Chirwa",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36948.jpg"
         },
         {
             "name": "Nalicy Chirwa",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37027.jpg"
         },
         {
             "name": "Molly Chisambiro",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35522.jpg"
         },
         {
             "name": "Abdullah Shaibu Chitepete",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35380.jpg"
         },
         {
             "name": "Martha Dambo",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35501.jpg"
         },
         {
             "name": "Shira Dimba",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35657.jpg"
         },
         {
             "name": "Wyson Dylesi",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 22
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33760.jpg"
         },
         {
             "name": "Thandie Mwale Galleta",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39003.jpg"
         },
         {
             "name": "Florence Gamuka",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50343.jpg"
         },
         {
             "name": "Filipe Gomes",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33954.jpg"
         },
         {
             "name": "Joanna Dzirimbire Kachilika",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 37
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58166.jpg"
         },
         {
             "name": "Alinafe Kamwala",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59313.jpg"
         },
         {
             "name": "Chikondi Samuel Kathewera",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33788.jpg"
         },
         {
             "name": "Cynthia Khunga",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50416.jpg"
         },
         {
             "name": "Tsinde Andrew Kumbatira",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43645.jpg"
         },
         {
             "name": "Bridget Kumwenda",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 30
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35422.jpg"
         },
         {
             "name": "Mwai Jasinta Kumwenda",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 32
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38996.jpg"
         },
         {
             "name": "Patson Ledson",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40779.jpg"
         },
         {
             "name": "Stern Liffa",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32623.jpg"
         },
         {
             "name": "Daniel Stanley Lombola",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34011.jpg"
         },
         {
             "name": "Brenda Luwanda",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39007.jpg"
         },
         {
             "name": "Takondwa Lwazi",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 29
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36925.jpg"
         },
         {
             "name": "Jessica Makwenda",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33962.jpg"
         },
         {
             "name": "Tendai Masamba",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36928.jpg"
         },
         {
             "name": "Mphatso Mateuzu",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33991.jpg"
         },
         {
             "name": "Natasha Maya",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34007.jpg"
         },
         {
             "name": "Jessie Anne Mazengera",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 32
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38992.jpg"
         },
         {
             "name": "Luwis Zakeyu Mbewe",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41650.jpg"
         },
         {
             "name": "Harvey Mkacha",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33987.jpg"
         },
         {
             "name": "Rose Mkanda",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35652.jpg"
         },
         {
             "name": "Madalitso Mkandawire",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39008.jpg"
         },
         {
             "name": "Abubakar Mkwanda",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36943.jpg"
         },
         {
             "name": "Hope Mndala",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39005.jpg"
         },
         {
             "name": "Muhammad Ali Moosa",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34026.jpg"
         },
         {
             "name": "Chifuniro Moses",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39006.jpg"
         },
         {
             "name": "Farook Mponda",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 17
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37009.jpg"
         },
         {
             "name": "Ayiche Mtambalika",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36955.jpg"
         },
         {
             "name": "Caroline Brighton Mtukule",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 35
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39014.jpg"
         },
         {
             "name": "Snowden Munyanje",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35393.jpg"
         },
         {
             "name": "Joyce Mvula",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35467.jpg"
         },
         {
             "name": "Grace Mwafulirwa",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 34
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58149.jpg"
         },
         {
             "name": "Colleta Mwalilino",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39010.jpg"
         },
         {
             "name": "Chikondi Keneth Mwanyali",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36995.jpg"
         },
         {
             "name": "Mphatso Nadolo",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37024.jpg"
         },
         {
             "name": "Sunganani Namakonje",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/37036.jpg"
         },
         {
             "name": "Loreen Ngwira",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 28
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35474.jpg"
         },
         {
             "name": "Mary Nyirenda",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35512.jpg"
         },
         {
             "name": "Ammara Pinto",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33957.jpg"
         },
         {
             "name": "Maggie Sikwese",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 31
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/35479.jpg"
         },
         {
             "name": "Sindi Simtowe",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 34
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38995.jpg"
         },
         {
             "name": "Asimenye Simwaka",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36952.jpg"
         },
         {
             "name": "Towera Angela Vinkhumbo",
-            "sport": "Netball",
-            "gender": "Female",
-            "age": 30
+            "sports": [
+                "Netball"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36932.jpg"
         }
     ],
     "medalWinners": []

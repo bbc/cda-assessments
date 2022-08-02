@@ -1,0 +1,112 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/norfolk-island/fd439c4b-232c-46cb-a08d-6d707a72ccc9",
+    "name": "Norfolk Island",
+    "id": 66,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Carmen Anderson",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 66,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52316.jpg"
+        },
+        {
+            "name": "John Christian",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 71,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52364.jpg"
+        },
+        {
+            "name": "Ellie Dixon",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/149684.jpg"
+        },
+        {
+            "name": "Ryan Dixon",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 43,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52367.jpg"
+        },
+        {
+            "name": "Hadyn Evans",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 59,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52368.jpg"
+        },
+        {
+            "name": "Trevor Gow",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 62,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52363.jpg"
+        },
+        {
+            "name": "Petal Jones",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 58,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52317.jpg"
+        },
+        {
+            "name": "Essie Sanchez",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 63,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52321.jpg"
+        },
+        {
+            "name": "Tim Sheridan",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 62,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52366.jpg"
+        },
+        {
+            "name": "Shae Wilson",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52320.jpg"
+        },
+        {
+            "name": "Tracey Wora",
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52319.jpg"
+        }
+    ],
+    "medalWinners": []
+}

@@ -1,0 +1,787 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/guyana/9dbee5b7-eff0-4361-8e31-bfd7429c16c6",
+    "name": "Guyana",
+    "id": 39,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Aliyah Abrams",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40815.jpg"
+        },
+        {
+            "name": "Jasmine Abrams",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40808.jpg"
+        },
+        {
+            "name": "Harold Augustus Adams",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34121.jpg"
+        },
+        {
+            "name": "Lancelot Levar Adonis",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38404.jpg"
+        },
+        {
+            "name": "Joel Alleyne",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33537.jpg"
+        },
+        {
+            "name": "Keevin Allicock",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33488.jpg"
+        },
+        {
+            "name": "Michael Alphonso",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32350.jpg"
+        },
+        {
+            "name": "Desmond Cort Amsterdam",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33535.jpg"
+        },
+        {
+            "name": "Jamal Angus",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38406.jpg"
+        },
+        {
+            "name": "Joanna Archer",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/100537.jpg"
+        },
+        {
+            "name": "Emanuel Archibald",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40821.jpg"
+        },
+        {
+            "name": "Alexander Arjoon",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33936.jpg"
+        },
+        {
+            "name": "Leslain Baird",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43128.jpg"
+        },
+        {
+            "name": "Devaun Barrington",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41337.jpg"
+        },
+        {
+            "name": "Jeremy Lester Nakosi Bascom",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41440.jpg"
+        },
+        {
+            "name": "Jasmine Billingy",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 11,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33701.jpg"
+        },
+        {
+            "name": "Latisha Alicia Blair",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28900.jpg"
+        },
+        {
+            "name": "Jody-Ann Blake",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33735.jpg"
+        },
+        {
+            "name": "Chantoba Bright",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38859.jpg"
+        },
+        {
+            "name": "Shemar Britton",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33687.jpg"
+        },
+        {
+            "name": "Godfrey Edwards Broomes",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38401.jpg"
+        },
+        {
+            "name": "Arinze Chance",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43064.jpg"
+        },
+        {
+            "name": "Daniel Claxton",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28485.jpg"
+        },
+        {
+            "name": "Travis Collins",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": null
+        },
+        {
+            "name": "Avery Anthony Corbin",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38408.jpg"
+        },
+        {
+            "name": "Juvonna Cornette",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/139364.jpg"
+        },
+        {
+            "name": "Romello Onaldo Crawford",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33935.jpg"
+        },
+        {
+            "name": "Natalie Cummings",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33536.jpg"
+        },
+        {
+            "name": "Troy Doris",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40818.jpg"
+        },
+        {
+            "name": "Chelsea Edghill",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33693.jpg"
+        },
+        {
+            "name": "Nicolette Fernandes",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32376.jpg"
+        },
+        {
+            "name": "Taylor Fernandes",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/100548.jpg"
+        },
+        {
+            "name": "Andrea Foster",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40860.jpg"
+        },
+        {
+            "name": "Andrew Fowler",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28487.jpg"
+        },
+        {
+            "name": "Christopher Franklin",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33538.jpg"
+        },
+        {
+            "name": "Mary Fung-A-Fat",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32515.jpg"
+        },
+        {
+            "name": "Winston George",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38856.jpg"
+        },
+        {
+            "name": "Elliott Gonsalves",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28481.jpg"
+        },
+        {
+            "name": "Ethan Nicholas Gonsalves",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28490.jpg"
+        },
+        {
+            "name": "Priscilla Greaves",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33685.jpg"
+        },
+        {
+            "name": "Christopher Anthony Griffith",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/42971.jpg"
+        },
+        {
+            "name": "Peabo Brenton Hamilton",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38612.jpg"
+        },
+        {
+            "name": "Noelex Holder",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38855.jpg"
+        },
+        {
+            "name": "Natricia Hooper",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40870.jpg"
+        },
+        {
+            "name": "Maiya Sarah Francois Ifill",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28022.jpg"
+        },
+        {
+            "name": "Samuel Ince-Carvalhal",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32526.jpg"
+        },
+        {
+            "name": "Kristian Jeffrey",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33275.jpg"
+        },
+        {
+            "name": "Jamual Brian John",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/43022.jpg"
+        },
+        {
+            "name": "Elishaba Johnson",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40840.jpg"
+        },
+        {
+            "name": "Andrew Wayne Jordan",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28489.jpg"
+        },
+        {
+            "name": "Phibian Andrew Joseph",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38813.jpg"
+        },
+        {
+            "name": "Jullius Kesney",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/139175.jpg"
+        },
+        {
+            "name": "Ashley Khalil",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32373.jpg"
+        },
+        {
+            "name": "Jason-Ray Khalil",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32356.jpg"
+        },
+        {
+            "name": "Colin Lewis",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34220.jpg"
+        },
+        {
+            "name": "Shareefah Lewis",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 12,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33925.jpg"
+        },
+        {
+            "name": "Trenace Lowe",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/100523.jpg"
+        },
+        {
+            "name": "Patrice Ruth Mahaica",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28483.jpg"
+        },
+        {
+            "name": "Paul Mahaica",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28482.jpg"
+        },
+        {
+            "name": "Jenea Mc Cammon",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40789.jpg"
+        },
+        {
+            "name": "Raekwon Jibril Noel",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28023.jpg"
+        },
+        {
+            "name": "James Clarence Osborne",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38353.jpg"
+        },
+        {
+            "name": "Aleka Kylela Persaud",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28020.jpg"
+        },
+        {
+            "name": "Kenisha Phillips",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/139052.jpg"
+        },
+        {
+            "name": "Sean Anthony Phillips",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38817.jpg"
+        },
+        {
+            "name": "Quamel Prince",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/40799.jpg"
+        },
+        {
+            "name": "Joseph Anthony Rahaman",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 40,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38614.jpg"
+        },
+        {
+            "name": "Narayan Tolamani Ramdhani",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27802.jpg"
+        },
+        {
+            "name": "Priyanna Devirani Ramdhani",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27814.jpg"
+        },
+        {
+            "name": "Ariel Rodrigues",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58554.jpg"
+        },
+        {
+            "name": "Gibran Hussein Sarfaraz",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 43,
+            "image": null
+        },
+        {
+            "name": "Dwayne Andre Schroeder",
+            "sports": [
+                "Rugby Sevens"
+            ],
+            "gender": "M",
+            "age": 38,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/38402.jpg"
+        },
+        {
+            "name": "Leon Seaton",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28486.jpg"
+        },
+        {
+            "name": "Akeem Stewart",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/139055.jpg"
+        },
+        {
+            "name": "Fitzroy Ron Thom",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28901.jpg"
+        },
+        {
+            "name": "Thuraia Thomas",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/139050.jpg"
+        },
+        {
+            "name": "Timothy Gordon Thompson",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34180.jpg"
+        },
+        {
+            "name": "Sekhel Tzedeq",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28325.jpg"
+        },
+        {
+            "name": "Jonathan van Lange",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33532.jpg"
+        },
+        {
+            "name": "Nicholas Verwey",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32567.jpg"
+        },
+        {
+            "name": "Daniel Williams",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/139161.jpg"
+        },
+        {
+            "name": "Akeila Wiltshire",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32379.jpg"
+        },
+        {
+            "name": "Larissa Wiltshire",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32518.jpg"
+        },
+        {
+            "name": "Shomari Wiltshire",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32346.jpg"
+        },
+        {
+            "name": "Miguel Wong",
+            "sports": [
+                "Table Tennis and Para Table Tennis"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33680.jpg"
+        },
+        {
+            "name": "Vladimir Woodroffe",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/28317.jpg"
+        }
+    ],
+    "medalWinners": []
+}

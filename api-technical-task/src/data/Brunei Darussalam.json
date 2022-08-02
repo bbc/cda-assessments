@@ -10,117 +10,174 @@
     "athletes": [
         {
             "name": "Bahren Abdul Rahman",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 42
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 42,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59818.jpg"
         },
         {
             "name": "Muhammad Danial Irfan Abdul Rahman",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60347.jpg"
         },
         {
             "name": "Ampuan Ahad Ampuan Kasim",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 62
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 62,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59745.jpg"
         },
         {
             "name": "Esmawandy Brahim",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 41
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 41,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59989.jpg"
         },
         {
             "name": "Mohammad Nashrul Haji Abu Bakar",
-            "sport": "Weightlifting",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Weightlifting"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62896.jpg"
         },
         {
             "name": "Haji Amli Haji Gafar",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 53
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 53,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60073.jpg"
         },
         {
             "name": "Shelvie Elyanna Haji Sallahuddin",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60594.jpg"
         },
         {
             "name": "Haji Osman Haji Yahya",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 64
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 64,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60083.jpg"
         },
         {
             "name": "Mohd Hazmi Hj Idris",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 35
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59902.jpg"
         },
         {
             "name": "Naipsayah Jamal",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 63
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 63,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60127.jpg"
         },
         {
             "name": "Nurul Nazzirah Jefri",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60646.jpg"
         },
         {
             "name": "Muhammad Haziq Junaidi",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60460.jpg"
         },
         {
             "name": "Amaliah Matali",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 44
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 44,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60092.jpg"
         },
         {
             "name": "Norafizah Matossen",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60654.jpg"
         },
         {
             "name": "Mohammad Abdul Raziq Md Sabri",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60356.jpg"
         },
         {
             "name": "Dayang Isah Muntol",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 69
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 69,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59829.jpg"
         },
         {
             "name": "Hajah Ajijah Muntol",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Female",
-            "age": 72
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "F",
+            "age": 72,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59137.jpg"
         },
         {
             "name": "Abdul Fattahulmu'iz Nor Muhamad Fazri",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60310.jpg"
         },
         {
             "name": "Pg Hj Tengah Pg Hj Tajudin",
-            "sport": "Lawn Bowls and Para Lawn Bowls",
-            "gender": "Male",
-            "age": 69
+            "sports": [
+                "Lawn Bowls and Para Lawn Bowls"
+            ],
+            "gender": "M",
+            "age": 69,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60150.jpg"
         }
     ],
     "medalWinners": []

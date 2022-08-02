@@ -1,0 +1,316 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/antigua-barbuda/93aa5c62-0056-4045-8cc2-19355302ba84",
+    "name": "Antigua & Barbuda",
+    "id": 29,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Yakita Aska",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55071.jpg"
+        },
+        {
+            "name": "Daniel Bailey",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61274.jpg"
+        },
+        {
+            "name": "Dahlia Barnes",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58877.jpg"
+        },
+        {
+            "name": "Jyme Bridges",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44861.jpg"
+        },
+        {
+            "name": "Daniel Bryan",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64458.jpg"
+        },
+        {
+            "name": "Ghere Coates",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44828.jpg"
+        },
+        {
+            "name": "Adrian Constant",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61257.jpg"
+        },
+        {
+            "name": "Cairon Davis",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61245.jpg"
+        },
+        {
+            "name": "Conor Delanbanque",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44562.jpg"
+        },
+        {
+            "name": "Olivia Fuller",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58701.jpg"
+        },
+        {
+            "name": "Emmanuel Gayral",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44768.jpg"
+        },
+        {
+            "name": "Coull Graham",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61278.jpg"
+        },
+        {
+            "name": "Cejhae Greene",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44125.jpg"
+        },
+        {
+            "name": "Tyke Hawkins",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61213.jpg"
+        },
+        {
+            "name": "Jarett Isaac",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61261.jpg"
+        },
+        {
+            "name": "Jared Jarvis",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61290.jpg"
+        },
+        {
+            "name": "Soniya Jones",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58841.jpg"
+        },
+        {
+            "name": "Josanne Lewis",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64451.jpg"
+        },
+        {
+            "name": "Joella Lloyd",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58833.jpg"
+        },
+        {
+            "name": "Noah Mascoll-Gomes",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58757.jpg"
+        },
+        {
+            "name": "Barak Matthew",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64462.jpg"
+        },
+        {
+            "name": "Bianca Mitchell",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/152605.jpg"
+        },
+        {
+            "name": "Stefano Mitchell",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58671.jpg"
+        },
+        {
+            "name": "Taeco O'Garro",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61281.jpg"
+        },
+        {
+            "name": "Richard Richardson",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61286.jpg"
+        },
+        {
+            "name": "Samantha Roberts",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58698.jpg"
+        },
+        {
+            "name": "Alston Ryan",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55055.jpg"
+        },
+        {
+            "name": "Kagra Ryan",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55067.jpg"
+        },
+        {
+            "name": "Darion Skerritt",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61292.jpg"
+        },
+        {
+            "name": "Kalique St. Jean",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64465.jpg"
+        },
+        {
+            "name": "Ethan Stubbs-Green",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/152596.jpg"
+        },
+        {
+            "name": "Chavaughn Walsh",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61267.jpg"
+        },
+        {
+            "name": "Jadon Wuilliez",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/58816.jpg"
+        }
+    ],
+    "medalWinners": []
+}

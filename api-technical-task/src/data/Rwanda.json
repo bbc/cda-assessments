@@ -10,249 +10,392 @@
     "athletes": [
         {
             "name": "Alphonsine Agahozo",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50340.jpg"
         },
         {
             "name": "Kavalo Patrick Akumuntu",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/103449.jpg"
         },
         {
             "name": "Jean Nepo Bigirimana",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56579.jpg"
         },
         {
             "name": "Venuste Gatsinzi",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44377.jpg"
         },
         {
             "name": "Fils Habanzintwari",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44393.jpg"
         },
         {
             "name": "Jean Eric Habimana",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56126.jpg"
         },
         {
             "name": "Seth Hakizimana",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60089.jpg"
         },
         {
             "name": "Emeline Imanizabayo",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62047.jpg"
         },
         {
             "name": "Diane Ingabire",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59736.jpg"
         },
         {
             "name": "Neza Violette Irakoze",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63154.jpg"
         },
         {
             "name": "Celine Iranzi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59314.jpg"
         },
         {
             "name": "Honorine Iribagiza",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63038.jpg"
         },
         {
             "name": "Claudette Ishimwe",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50478.jpg"
         },
         {
             "name": "Isihaka Isihaka",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50354.jpg"
         },
         {
             "name": "Robert Kajuga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 36
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59364.jpg"
         },
         {
             "name": "Eloi Maniraguha",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 26
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50312.jpg"
         },
         {
             "name": "Olive Manirakiza",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63191.jpg"
         },
         {
             "name": "Eric Manizabayo",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60135.jpg"
         },
         {
             "name": "Moise Mugisha",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55532.jpg"
         },
         {
             "name": "Samuel Mugisha",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/45569.jpg"
         },
         {
             "name": "Eric Muhoza",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56160.jpg"
         },
         {
             "name": "Clementine Mukandanga",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 36
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 36,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59356.jpg"
         },
         {
             "name": "Benitha Mukandayisenga",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44372.jpg"
         },
         {
             "name": "Josiane Mukashema",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56264.jpg"
         },
         {
             "name": "Adeline Musabyeyezu",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 30
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62379.jpg"
         },
         {
             "name": "Jean Baptiste Ngurinzira",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62142.jpg"
         },
         {
             "name": "Yves Nimubona",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": null
         },
         {
             "name": "Cedrick Niyibizi",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50419.jpg"
         },
         {
             "name": "Emmanuel Niyibizi",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/51569.jpg"
         },
         {
             "name": "Samuel Niyonkuru",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59648.jpg"
         },
         {
             "name": "Olivier Ntagengwa",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/103968.jpg"
         },
         {
             "name": "Paul Ntigirinzigo",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62036.jpg"
         },
         {
             "name": "Valentine Nzayisenga",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59667.jpg"
         },
         {
             "name": "Stiven Rukundinka",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 19
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/50438.jpg"
         },
         {
             "name": "Justin Sengiyumva",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": null
         },
         {
             "name": "Jacqueline Tuyishime",
-            "sport": "Cycling - Road",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59741.jpg"
         },
         {
             "name": "Etienne Tuyizere",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/56575.jpg"
         },
         {
             "name": "Byiza Renus Uhiriwe",
-            "sport": "Cycling - Road",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/45496.jpg"
         },
         {
             "name": "Claire Uwitonze",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59380.jpg"
         },
         {
             "name": "Jeanne Gentille Uwizeyimana",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": null
         },
         {
             "name": "Munezero Valentine",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/44359.jpg"
         }
     ],
     "medalWinners": []

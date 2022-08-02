@@ -10,309 +10,462 @@
     "athletes": [
         {
             "name": "Carlos Acacio",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 33
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 33,
+            "image": null
         },
         {
             "name": "Cinthya Kaiana Silvestre Badru",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32103.jpg"
         },
         {
             "name": "Helena Ismael BAGAO",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": null
         },
         {
             "name": "Valentim Cardoso da Costa",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33658.jpg"
         },
         {
-            "name": "Tatiana Madeira da Fonseca",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Female",
-            "age": 42
+            "name": "Tatiana  Madeira da Fonseca",
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "F",
+            "age": 42,
+            "image": null
         },
         {
             "name": "Patricio de Sousa Leao",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": null
         },
         {
             "name": "Denise Donelli",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 25
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": null
         },
         {
             "name": "Kaio De Araujo Faftine",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": null
         },
         {
             "name": "Jacira Judite Da Costa Ferreira",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 24
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32075.jpg"
         },
         {
             "name": "Larissa Ferreira Gil",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": null
         },
         {
             "name": "Rady Adosinda Gramane",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24186.jpg"
         },
         {
             "name": "Natalia Intego",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 20
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": null
         },
         {
             "name": "Veronica Vicente Jose",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/100812.jpg"
         },
         {
             "name": "Kyara Dalsuco Langa",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": null
         },
         {
             "name": "Matthew Lawrence",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27759.jpg"
         },
         {
             "name": "Caio Miguel Chaby Lobo",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/45576.jpg"
         },
         {
             "name": "Kevin Vazikakis Loforte",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32101.jpg"
         },
         {
             "name": "Valdo Alves De Sousa Lourenco",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Male",
-            "age": 29
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/36973.jpg"
         },
         {
             "name": "Benilde Regina Fernando Macaringue",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": null
         },
         {
             "name": "Creve Armando Machava",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 25
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27700.jpg"
         },
         {
             "name": "Alex Macuacua",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 17
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/122339.jpg"
         },
         {
             "name": "Ancha Ernesto Mandlate",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/49631.jpg"
         },
         {
             "name": "Leocadia Jose Manhica",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 22
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33959.jpg"
         },
         {
             "name": "Anaidino Martinho",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 24
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33668.jpg"
         },
         {
             "name": "Alicia Mateus",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27771.jpg"
         },
         {
             "name": "Narciso Matos",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32082.jpg"
         },
         {
             "name": "Jessica Moiane",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 23
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33813.jpg"
         },
         {
             "name": "Jorge Monjane",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
         },
         {
             "name": "Mercia Mucheza",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": null
         },
         {
             "name": "Vanessa Muianga",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 26
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33805.jpg"
         },
         {
             "name": "Jennie Muneme",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 17
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32072.jpg"
         },
         {
             "name": "Domingas Sheidy Paulo Munhemeze",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27764.jpg"
         },
         {
             "name": "Edio Mussacate",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 16
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27709.jpg"
         },
         {
             "name": "Tiago Osorio Muxanga",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
         },
         {
             "name": "Alson Elisio Muzime",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 20
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32110.jpg"
         },
         {
             "name": "Mauro Nassone",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32066.jpg"
         },
         {
             "name": "Adelvino Nguvo",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 28
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33558.jpg"
         },
         {
             "name": "Justino Pale",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Male",
-            "age": 18
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33648.jpg"
         },
         {
             "name": "Alcinda Helena Panguane",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": 27
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "F",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/26663.jpg"
         },
         {
             "name": "Yusra Da Silva Ribeiro",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 16
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": null
         },
         {
             "name": "Paulo Ribeiro Junior",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 15
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32067.jpg"
         },
         {
             "name": "Steven Sabino",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Male",
-            "age": 15
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": null
         },
         {
             "name": "Armando Rugoberto Sigauque",
-            "sport": "Boxing",
-            "gender": "Male",
-            "age": 21
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": null
         },
         {
             "name": "Ana Sinaportar",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 21
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33810.jpg"
         },
         {
             "name": "Ayton Siquir",
-            "sport": "Judo",
-            "gender": "Male",
-            "age": 23
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32064.jpg"
         },
         {
             "name": "Angela Dercia Tembe",
-            "sport": "Beach Volleyball",
-            "gender": "Female",
-            "age": 19
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": null
         },
         {
             "name": "Justino Tovela",
-            "sport": "Beach Volleyball",
-            "gender": "Male",
-            "age": 32
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": null
         },
         {
             "name": "Shenidy Luana Carlos Tsemane",
-            "sport": "Judo",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Judo"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32079.jpg"
         },
         {
             "name": "Astrid Eva van Hoorn",
-            "sport": "Athletics and Para Athletics",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/49594.jpg"
         },
         {
             "name": "Duncan Neville Wyness",
-            "sport": "Triathlon and Para Triathlon",
-            "gender": "Male",
-            "age": 46
+            "sports": [
+                "Triathlon and Para Triathlon"
+            ],
+            "gender": "M",
+            "age": 46,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/34000.jpg"
         },
         {
             "name": "Filipa Alexandra Xavier",
-            "sport": "Aquatics - Swimming and Para Swimming",
-            "gender": "Female",
-            "age": 15
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": null
         }
     ],
     "medalWinners": []
