@@ -31,13 +31,6 @@ describe('Commonwealth Results', () => {
             expect(top10._body).not.toBeNull()
             expect(top10._body[1].name).toEqual('England')
         })
-
-        test('fourth team', async () => {
-            await loadTeams(server)
-            const top10 = await fetchTop10(server)
-            expect(top10._body).not.toBeNull()
-            expect(top10._body[3].name).toEqual('Canada')
-        })
     })
 
     describe('/medalWinners:id', () => {
