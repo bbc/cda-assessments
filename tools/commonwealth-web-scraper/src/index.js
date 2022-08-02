@@ -20,7 +20,7 @@ const { default: axios } = require('axios');
       team.athletes = await getTeamAthletes(browser, team)
       team.medalWinners = await getTeamMedalWinners(browser, team)
 
-      fs.writeFileSync(`../api-technical-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
+      fs.writeFileSync(`../../commonwealth-api-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
       // }
     }
 
