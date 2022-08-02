@@ -1,28 +1,34 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const { default: axios } = require('axios');
+
 
 (async () => {
-  const browser = await puppeteer.launch({
-    // headless: false, slowMo: 100
-  })
+  try {
+    const browser = await puppeteer.launch({
+      // headless: false, slowMo: 100
+    })
 
-  const teams = await getTeams(browser)
+    const teams = await getTeams(browser)
 
-  let index = 1
-  for (const team of teams) {
-    team.id = index
-    index++
-
-    team.medals = await getTeamMedals(browser, team)
-    if (team.name !== 'Botswana' && team.name !== 'Bangladesh' && team.name !== 'Anguilla' && team.name !== 'Cyprus' && team.name !== 'Australia') {
+    let index = 1
+    for (const team of teams) {
+      team.id = index
+      index++
+      // if (team.name === 'Australia') {
+      team.medals = await getTeamMedals(browser, team)
       team.athletes = await getTeamAthletes(browser, team)
-    }
-    team.medalWinners = await getTeamMedalWinners(browser, team)
+      team.medalWinners = await getTeamMedalWinners(browser, team)
 
-    fs.writeFileSync(`../api-technical-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
+      fs.writeFileSync(`../api-technical-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
+      // }
+    }
+
+    await browser.close()
+  } catch (e) {
+    console.log(e)
   }
 
-  await browser.close()
 })();
 
 const getTeams = async (browser) => {
@@ -62,92 +68,122 @@ const getTeamMedals = async (browser, team) => {
 }
 
 const getTeamMedalWinners = async (browser, team) => {
-  const page = await browser.newPage()
-  await page.goto(team.pageUrl)
+  // const page = await browser.newPage()
+  // await page.goto(team.pageUrl)
 
 
-  await closeCookieBanner(page)
-  await page.waitForTimeout(500)
-  try {
-    await page.click('.athletes-list.medalist button.load-more-button')
-  } catch (e) {
+  // await closeCookieBanner(page)
+  // await page.waitForTimeout(500)
+  // try {
+  //   await page.click('.athletes-list.medalist button.load-more-button')
+  // } catch (e) {
 
-  }
+  // }
 
-  const selectorForLoadMoreButton = '.athletes-list.medalist button.load-more-button.is-loading'
-  let loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton)
+  // const selectorForLoadMoreButton = '.athletes-list.medalist button.load-more-button.is-loading'
+  // let loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton)
 
-  while (loadMoreVisible) {
-    await scrollIntoView(page, selectorForLoadMoreButton)
-    loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton);
-  }
+  // while (loadMoreVisible) {
+  //   await scrollIntoView(page, selectorForLoadMoreButton)
+  //   loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton);
+  // }
 
-  const medalists = await page.evaluate(() => {
-    const medalistsList = document.querySelector('section.athletes-list.medalist')
-    if (!medalistsList) return []
-    const medalistsRows = medalistsList.querySelectorAll('.athletes-list__row--body')
+  // const medalists = await page.evaluate(() => {
+  //   const medalistsList = document.querySelector('section.athletes-list.medalist')
+  //   if (!medalistsList) return []
+  //   const medalistsRows = medalistsList.querySelectorAll('.athletes-list__row--body')
 
-    let medalists = []
-    medalistsRows.forEach((medalistRow) => {
-      const cellData = medalistRow.querySelectorAll('td')
+  //   let medalists = []
+  //   medalistsRows.forEach((medalistRow) => {
+  //     const cellData = medalistRow.querySelectorAll('td')
 
-      let medal
-      if (cellData[4].innerText === "B") medal = "Bronze"
-      if (cellData[4].innerText === "S") medal = "Silver"
-      if (cellData[4].innerText === "G") medal = "Gold"
+  //     let medal
+  //     if (cellData[4].innerText === "B") medal = "Bronze"
+  //     if (cellData[4].innerText === "S") medal = "Silver"
+  //     if (cellData[4].innerText === "G") medal = "Gold"
 
-      medalists.push({
-        name: cellData[1].innerText.replace('\n', ' '),
-        sport: cellData[2].innerText,
-        event: cellData[3].innerText,
-        medal
-      })
-    })
-    return medalists
+  //     medalists.push({
+  //       name: cellData[1].innerText.replace('\n', ' '),
+  //       sport: cellData[2].innerText,
+  //       event: cellData[3].innerText,
+  //       medal
+  //     })
+  //   })
+  //   return medalists
+  // })
+  // await page.close()
+  // return medalists
+
+  const teamId = team.pageUrl.substring(team.pageUrl.lastIndexOf('/') + 1)
+
+  const medalists = await fetchAllMedalists(0, [], teamId)
+  return medalists.map((medalist) => {
+    return {
+      name: medalist.athleteName,
+      sport: medalist.discipline.description,
+      event: medalist.eventDescription,
+      medal: medalist.medalType
+    }
   })
-  await page.close()
+
   return medalists
+
 }
 
 const getTeamAthletes = async (browser, team) => {
-  const page = await browser.newPage()
-  await page.goto(team.pageUrl)
 
-  await closeCookieBanner(page)
-  await page.waitForTimeout(500)
-  try {
-    await page.click('.athletes-list button.load-more-button')
-  } catch (e) {
+  // Bug with load more buttons on the website, making scraping like this difficult
+  // const page = await browser.newPage()
+  // await page.goto(team.pageUrl)
 
-  }
+  // await closeCookieBanner(page)
+  // await page.waitForTimeout(500)
+  // try {
+  //   await page.click('.athletes-list button.load-more-button')
+  // } catch (e) {
 
-  const selectorForLoadMoreButton = '.athletes-list button.load-more-button.is-loading'
-  let loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton)
+  // }
 
-  while (loadMoreVisible) {
-    await scrollIntoView(page, selectorForLoadMoreButton)
-    loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton);
-  }
+  // const selectorForLoadMoreButton = '.athletes-list button.load-more-button.is-loading'
+  // let loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton)
 
-  const athletes = await page.evaluate(() => {
-    const athleteList = document.querySelector('section.athletes-list')
-    if (!athleteList) return []
-    const athleteRows = athleteList.querySelectorAll('.athletes-list__row--body')
+  // while (loadMoreVisible) {
+  //   await scrollIntoView(page, selectorForLoadMoreButton)
+  //   loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton);
+  // }
 
-    let athletes = []
-    athleteRows.forEach((athleteRow) => {
-      const cellData = athleteRow.querySelectorAll('td')
-      athletes.push({
-        name: cellData[0].innerText.replace('\n', ' '),
-        sport: cellData[1].innerText,
-        gender: cellData[2].innerText,
-        age: parseInt(cellData[3].innerText)
-      })
-    })
-    return athletes
+  // const athletes = await page.evaluate(() => {
+  //   const athleteList = document.querySelector('section.athletes-list')
+  //   if (!athleteList) return []
+  //   const athleteRows = athleteList.querySelectorAll('.athletes-list__row--body')
+
+  //   let athletes = []
+  //   athleteRows.forEach((athleteRow) => {
+  //     const cellData = athleteRow.querySelectorAll('td')
+  //     athletes.push({
+  //       name: cellData[0].innerText.replace('\n', ' '),
+  //       sport: cellData[1].innerText,
+  //       gender: cellData[2].innerText,
+  //       age: parseInt(cellData[3].innerText)
+  //     })
+  //   })
+  //   return athletes
+  // })
+  // await page.close()
+  // return athletes
+
+  const teamId = team.pageUrl.substring(team.pageUrl.lastIndexOf('/') + 1)
+
+  const athletes = await fetchAllAthletes(0, [], teamId)
+  return athletes.map((athlete) => {
+    return {
+      name: athlete.givenName + ' ' + athlete.familyName,
+      sports: athlete.disciplines.map((discipline) => discipline.description),
+      gender: athlete.genderCode,
+      age: athlete.age,
+      image: athlete.accreditationImage
+    }
   })
-  await page.close()
-  return athletes
 }
 
 const isElementVisible = async (page, cssSelector) => {
@@ -174,4 +210,29 @@ const closeCookieBanner = async (page) => {
   try {
     await page.click('.js-accept-all-close')
   } catch (e) { }
+}
+
+const fetchAllMedalists = async (pageNumber = 0, result = [], teamId) => {
+  const page = await axios.get(`https://api.birmingham2022.com/cwg-schedule/v1/cwg/teams/${teamId}/medalist/?page=${pageNumber}&size=40`)
+
+  result = result.concat(page.data.medalists)
+
+  if (pageNumber === page.data.pageInfo.numPages) {
+    return result
+  } else {
+    return fetchAllMedalists(pageNumber + 1, result, teamId);
+  }
+}
+
+
+const fetchAllAthletes = async (pageNumber = 0, result = [], teamId) => {
+  const page = await axios.get(`https://api.birmingham2022.com/cwg-schedule/v1/teams/${teamId}/athletes/?page=${pageNumber}&size=40`)
+
+  result = result.concat(page.data.athletes)
+
+  if (pageNumber === page.data.pageInfo.numPages) {
+    return result
+  } else {
+    return fetchAllAthletes(pageNumber + 1, result, teamId);
+  }
 }
