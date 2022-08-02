@@ -8,13 +8,18 @@ const fs = require('fs');
 
   const teams = await getTeams(browser)
 
+  let index = 1
   for (const team of teams) {
+    team.id = index
+    index++
+
     team.medals = await getTeamMedals(browser, team)
-    team.athletes = await getTeamAthletes(browser, team)
+    if (team.name !== 'Botswana' && team.name !== 'Bangladesh' && team.name !== 'Anguilla' && team.name !== 'Cyprus' && team.name !== 'Australia') {
+      team.athletes = await getTeamAthletes(browser, team)
+    }
     team.medalWinners = await getTeamMedalWinners(browser, team)
 
     fs.writeFileSync(`../api-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
-
   }
 
   await browser.close()
@@ -25,7 +30,7 @@ const getTeams = async (browser) => {
   const page = await browser.newPage()
   await page.goto(teamsPageURL)
 
-  return await page.evaluate(() => {
+  const teams = await page.evaluate(() => {
     const teams = []
     const teamsList = document.querySelector('section.teams-list')
     teamsList.querySelectorAll('a.teams-list__link').forEach((teamElement) => {
@@ -33,23 +38,27 @@ const getTeams = async (browser) => {
     })
     return teams
   })
+  page.close()
+  return teams
 }
 
 const getTeamMedals = async (browser, team) => {
   const page = await browser.newPage()
   await page.goto(team.pageUrl)
 
-  return await page.evaluate(() => {
+  const medals = await page.evaluate(() => {
     const medalCells = document.querySelectorAll('.medals-list__cell--medal')
 
     let medals = {
-      gold: medalCells[0].innerText,
-      silver: medalCells[1].innerText,
-      bronze: medalCells[2].innerText
+      gold: parseInt(medalCells[0].innerText),
+      silver: parseInt(medalCells[1].innerText),
+      bronze: parseInt(medalCells[2].innerText)
     }
 
     return medals
   })
+  await page.close()
+  return medals
 }
 
 const getTeamMedalWinners = async (browser, team) => {
@@ -73,7 +82,7 @@ const getTeamMedalWinners = async (browser, team) => {
     loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton);
   }
 
-  return await page.evaluate(() => {
+  const medalists = await page.evaluate(() => {
     const medalistsList = document.querySelector('section.athletes-list.medalist')
     if (!medalistsList) return []
     const medalistsRows = medalistsList.querySelectorAll('.athletes-list__row--body')
@@ -96,6 +105,8 @@ const getTeamMedalWinners = async (browser, team) => {
     })
     return medalists
   })
+  await page.close()
+  return medalists
 }
 
 const getTeamAthletes = async (browser, team) => {
@@ -118,8 +129,9 @@ const getTeamAthletes = async (browser, team) => {
     loadMoreVisible = await isElementVisible(page, selectorForLoadMoreButton);
   }
 
-  return await page.evaluate(() => {
-    const athleteList = document.querySelector('section.athlete-list')
+  const athletes = await page.evaluate(() => {
+    const athleteList = document.querySelector('section.athletes-list')
+    if (!athleteList) return []
     const athleteRows = athleteList.querySelectorAll('.athletes-list__row--body')
 
     let athletes = []
@@ -129,11 +141,13 @@ const getTeamAthletes = async (browser, team) => {
         name: cellData[0].innerText.replace('\n', ' '),
         sport: cellData[1].innerText,
         gender: cellData[2].innerText,
-        age: cellData[3].innerText
+        age: parseInt(cellData[3].innerText)
       })
     })
     return athletes
   })
+  await page.close()
+  return athletes
 }
 
 const isElementVisible = async (page, cssSelector) => {
