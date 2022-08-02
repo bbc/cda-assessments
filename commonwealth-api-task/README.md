@@ -12,7 +12,7 @@ GET `/top10` - gets a list of the top 10 countries according to medals won
 
 ## Setup
 
-## Requiremenets
+## Requirements
 
 - node 14+ (see https://nodejs.org/en/download/)
 
