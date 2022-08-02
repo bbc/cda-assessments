@@ -19,7 +19,7 @@ const fs = require('fs');
     }
     team.medalWinners = await getTeamMedalWinners(browser, team)
 
-    fs.writeFileSync(`../api-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
+    fs.writeFileSync(`../api-technical-task/src/data/${team.name}.json`, JSON.stringify(team, null, 4), { flag: 'w+' });
   }
 
   await browser.close()
