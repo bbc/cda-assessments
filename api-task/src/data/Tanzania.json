@@ -1,96 +1,188 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/tanzania/fb87d656-047f-4e07-b804-62d695eb2395",
     "name": "Tanzania",
+    "id": 16,
+    "medals": {
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Abdulrabi Alawi Abdulla",
             "sport": "Judo",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Yusuf Lucasi Changalawe",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Faraja Lazaro Damasi",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Josephat Joshua Gisemo",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Ali Khamis Gulam",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Hilal Hilal",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Alex Michael Isendi",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Winifrida Makenji",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Failuna Matanga",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Kassim Mbundwike",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Hamisi Athumani Misai",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "41"
+            "age": 41
         },
         {
             "name": "Andrew Thomas Mlugu",
             "sport": "Judo",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Thomas Jordan Mwenda",
             "sport": "Judo",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Yohana Assa Mwila",
             "sport": "Para Powerlifting",
             "gender": "Male",
-            "age": "37"
+            "age": 37
         },
         {
             "name": "Vicent Joseph Ng'humbi",
             "sport": "Judo",
             "gender": "Male",
-            "age": "27"
+            "age": 27
+        },
+        {
+            "name": "Bakari Abdurahman Ngapa",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Joseph Tiophil Panga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Raphael Daud Raphael",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Andrew Boniphace Rhobi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Jackline Sakilu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 35
+        },
+        {
+            "name": "Collins Saliboko",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Alphonce Felix Simbu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Augustino Paulo Sulle",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Fabiano Nelson Sulle",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Natalia Elisante Sulle",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 33
+        },
+        {
+            "name": "Kayla Temba",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Sarah Kalikwela Tibazarwa",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Ainess Jasson Tibishubwamu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 27
+        }
+    ],
+    "medalWinners": [
+        {
+            "name": "Alphonce Felix Simbu",
+            "sport": "Athletics and Para Athletics",
+            "event": "Men's Marathon",
+            "medal": "Silver"
         }
     ]
 }

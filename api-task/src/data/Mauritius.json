@@ -1,96 +1,764 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/mauritius/bb98fff6-29af-4925-a5f6-1d70a6db4330",
     "name": "Mauritius",
+    "id": 8,
+    "medals": {
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
     "athletes": [
         {
             "name": "Hansley Jeffrey Patrice Adonis",
             "sport": "Judo",
             "gender": "Male",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Franceska Agathe",
             "sport": "Judo",
             "gender": "Female",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Jean Jerry Ziggy Agathe",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Victor Ah Yong",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Marie Emmanuelle Anais Alphonse",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Marquis Amene",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Maena Andre",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Female",
-            "age": "15"
+            "age": 15
         },
         {
             "name": "Anais Anne Lise Angeline",
             "sport": "Triathlon and Para Triathlon",
             "gender": "Female",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Gregory Anodin",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Emmanuel Dylan Henri Antalika",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Amelie Anthony",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Melvin Appiah",
             "sport": "Badminton",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Vilina Appiah",
             "sport": "Badminton",
             "gender": "Female",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Annah Auckburaullee",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Amylee Sephora Aza",
             "sport": "Wrestling",
             "gender": "Female",
-            "age": "17"
+            "age": 17
+        },
+        {
+            "name": "Muhammad Baboolall",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Jean Guyliane Joris Bandou",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Henry Bernard Baptiste",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Gabrielle Bathfield",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Louis Daniel Begue",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Tiya Bhurtun",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 13
+        },
+        {
+            "name": "Gary Noa Jerrel Bibi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Lorna Tara Jinee Bodha",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Alexandre Jean Bernard Bongout",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Liza Bonne",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Jerome Caprice",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 38
+        },
+        {
+            "name": "Jean Ian Carre",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Brian Chan Yook Fo",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Niven Chemben",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Jonathan Chung Yee",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Juliane Clair",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Merven Clair",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Jean John Colin",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Louis Richarno Colin",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 34
+        },
+        {
+            "name": "Cedric Fabrice Coret",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Marc Jonathan Coret",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Adel Cupidon",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Rakshita Shweta Priyanka Daby",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Aurelien de Comarmond",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Lucie De marigny - lagesse",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Ryan Desscann",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "Sandhana Desscann",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Kobita Dookhee",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Mohammad Dookun",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Jonathan Drack",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Tracy Durhone",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Willem Gwendal Emile",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Gregory Ernest",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Noemie Evenor",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Remi Feuillet",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Winsley Gangaya",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Ines Gebert",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Alexandre Gentil",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Remy Gerard",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Sulakhsna Gunoo Gunoo",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Aurelie Halbwachs",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 35
+        },
+        {
+            "name": "Oumehani Hosenally",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Tessa Ip Hen Cheung",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Nandeshwaree Jalim",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Elie Jonathan Denis Jonathan",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Khelwin Juboo",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Ruqayyah Kinoo",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Alicia Kimberley Kok Shun",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Jean Gael Laurent L'Entete",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Raphaelle Lamusse",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Jeremie Lararaudeuse",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Kimberley le Court de Billot",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Timothy Leberl",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Christianne Legentil",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Ketty Lent",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Nathalie Marie Jacqueline Letendrie Laurette",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 33
+        },
+        {
+            "name": "Jemimah Leung For Sang",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Thomas Leung For Sang",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Nicolas Li Yun Fong",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 39
+        },
+        {
+            "name": "Yannick Lincoln",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 39
+        },
+        {
+            "name": "Aatish Lubah",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Jacques Teddy Jonathan Mademaine",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Henri Rosario Marianne",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 42
+        },
+        {
+            "name": "Jean Frederic Marianne",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Kensley Anthony Marie",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 44
+        },
+        {
+            "name": "Mathieu Marquet",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Katie Mauthoor",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 41
+        },
+        {
+            "name": "Alexandre Mayer",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Joseph Patrick Gregory Mayer",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Marie Lydia Oceanne Moirt",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Priscilla Morand",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Ganesha Mungrah",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Luc Thierry Alexandre Nadal",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Melissa Nigathe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Khemtish Rai Nundah",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Mehfooz Oozeer",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Jean Christophe Stephan Otendy",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Bradley Ovide",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Dinesh Jevin Pandoo",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Katouskia Pariadhaven",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Julien Georges Paul",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Marie Perrier",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Sebastien Perrinne",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Luciano Emmanuel Pascal Philippe",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Jason Pontoise",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Liliane Potiron",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Dezardin Prosper",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Tejraj Pultoo",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Marie Hanitra Roilya Ranaivosoa",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Cedric Ravet",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 35
+        },
+        {
+            "name": "Dylan Redy",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Nathacha Rigobert-Long",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 41
+        },
+        {
+            "name": "Jean Luc Rosalba",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Selma Rosun",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 30
+        },
+        {
+            "name": "Christopher Rougier Lagane",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Zaynah Sadoolah",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Zayyan Sk. Hossein",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "Christopher Sophie",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Joseph Kennedy St Pierre",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Julie Staub",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": 35
+        },
+        {
+            "name": "Alison Marie Leroy Sunee",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Adrien Toulet",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 15
+        },
+        {
+            "name": "Jean Jordy Vadamootoo",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Jean Bertrand Samuel Vielleuse",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Marie Celeste Andrea Vilbrun",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Bradley Vincent",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Karen Yee Kin Sien",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Akhilen Yogarajah",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 26
+        }
+    ],
+    "medalWinners": [
+        {
+            "name": "Christianne Legentil",
+            "sport": "Judo",
+            "event": "Women -57 kg",
+            "medal": "Bronze"
+        },
+        {
+            "name": "Marie Hanitra Roilya Ranaivosoa",
+            "sport": "Weightlifting",
+            "event": "Women's 49kg",
+            "medal": "Silver"
         }
     ]
 }

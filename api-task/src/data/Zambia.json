@@ -1,96 +1,487 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/zambia/806704ce-478a-456f-a8d1-79ab676cb48b",
     "name": "Zambia",
+    "id": 19,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Mark Banda",
             "sport": "Badminton",
             "gender": "Male",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Melvin Banda",
             "sport": "Rugby Sevens",
             "gender": "Male",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Elisha Bwalya",
             "sport": "Rugby Sevens",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Oberd Chembe",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "32"
+            "age": 32
         },
         {
             "name": "Manda Chilambwe",
             "sport": "Squash",
             "gender": "Male",
-            "age": "37"
+            "age": 37
         },
         {
             "name": "Andrew Chilata",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Davy Chimbukulu",
             "sport": "Rugby Sevens",
             "gender": "Male",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Sharon Chimfwembe",
             "sport": "Squash",
             "gender": "Female",
-            "age": "45"
+            "age": 45
         },
         {
             "name": "Patrick Chinyemba",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Elizabeth Chipeleme",
             "sport": "Badminton",
             "gender": "Female",
-            "age": "32"
+            "age": 32
         },
         {
             "name": "Zulema Chisenga",
             "sport": "Squash",
             "gender": "Female",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Jilowa Gift",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Edmond Hamayuwa",
             "sport": "Rugby Sevens",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Chidamba Hazemba",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Rita Kabinda",
             "sport": "Judo",
             "gender": "Female",
-            "age": "19"
+            "age": 19
+        },
+        {
+            "name": "Samuel Kabwe",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Parkson Kalanga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Kundanji Kalengo",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Israel Kalumba",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Japhet Kalusa",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Zacharia Kanyimbo",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Juliana Kasonka",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Andrew Kaswanga",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Lassam Katongo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 34
+        },
+        {
+            "name": "Lumeka Katundu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 30
+        },
+        {
+            "name": "Lawrence Kaushiku",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Davies Kawemba",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Bright Kayula",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Butemwa Koloko",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Richard Lubanza",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Kennedy Luchembe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Redson Lukwesa",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Hellen Makumba",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Quincy Malekani",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Margret Mambwe",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Grace Manyele",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Mike Masabo",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Rachel Masuku",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Brian Mbalwe",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Daniel Mbewe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Kaluba Mbewe",
+            "sport": "Squash",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Preston Mhango",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Sheleni Michello",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Niddy Mingilishi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Zach Moyo",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 15
+        },
+        {
+            "name": "Laston Mukosa",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Rodgers Mukupa",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Brenda Mulenga",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Chongo Mulenga",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "David Mulenga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Kalombo Mulenga",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Steven Mungandu",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "George Mwaba",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Matthews Mwango",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Thomas Mwankenja",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Revival Mwiinga Mweemba",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Alex Mwewa",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Kumaren Naidu",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Susan Nawakwi",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Rhoda Njobvu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Felistus Nkandu",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Chisanga Nkoma",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Patrick Kakozi Nyambe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Tilka Paljk",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Elizabeth Phiri",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Jade Anita Phiri",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Mia Phiri",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Andrew Pyele",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Muzala Samukonga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Abygirl Sepiso",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Sydney Siame",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Everlyn Siamupangila",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Ogar Siamupangila",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 33
+        },
+        {
+            "name": "Langani Siziba",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Taonga Soko",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Margret Tembo",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Jason Thole",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Stephen Zimba",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Simon Zulu",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 20
         }
-    ]
+    ],
+    "medalWinners": []
 }

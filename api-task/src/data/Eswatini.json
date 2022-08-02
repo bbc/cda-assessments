@@ -1,96 +1,163 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/eswatini/fe5810c3-449d-4efb-9fb4-b1e92b7b5727",
     "name": "Eswatini",
+    "id": 3,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Benele Simphiwe Dlamini",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Nokwanda Nosipho Dlamini",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Simanga Dlamini",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Siwakhile Dlamini",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "16"
+            "age": 16
         },
         {
             "name": "Thabiso Selby Dlamini",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Zweli Comfort Dlamini",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Lihle Nicholus Ginindza",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Hayley Hoy",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "13"
+            "age": 13
         },
         {
             "name": "Cameron Thomas Jele",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "15"
+            "age": 15
         },
         {
             "name": "Kwanele Jele",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Sabelo Mancoba Lukhele",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Andile Lusenga",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Bongiwe Mahlalela",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Ayanda Malaza",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Sibusiso Matsenjwa",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "33"
+            "age": 33
+        },
+        {
+            "name": "Mayibongwe Mpendulo Mdluli",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Sikhanyiso Mkhwanazi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Lwazi Menziwokuhle Msibi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Nonhlanhla Erikah Seyama",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Muzi Shabangu",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Andiswa Machawe Sibandze",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Mciniseli Vilakati",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Dinize Wilsch",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 44
+        },
+        {
+            "name": "Sambulo Sisimo Xaba",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Robyn Young",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 21
         }
-    ]
+    ],
+    "medalWinners": []
 }

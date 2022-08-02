@@ -1,96 +1,295 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/seychelles/4da09e64-c88e-46f6-b2f9-14d8c2072e88",
     "name": "Seychelles",
+    "id": 13,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Marcus Allen Adela",
             "sport": "Squash",
             "gender": "Male",
-            "age": "39"
+            "age": 39
         },
         {
             "name": "Angelique Adeline",
             "sport": "Beach Volleyball",
             "gender": "Female",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Denzel Adem",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Keddy Evans Agnes",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Clementina Ciana Agricole",
             "sport": "Weightlifting",
             "gender": "Female",
-            "age": "33"
+            "age": 33
         },
         {
             "name": "Ned Azemia",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Mathieu Bachmann",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Simon Bachmann",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Dorian Banane",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Male",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Stephen Alberto Belle",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Anniesa Benstrong",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Female",
-            "age": "30"
+            "age": 30
         },
         {
             "name": "David Boniface",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Fatima Boniface",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Female",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Shain Barnsley Boniface",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Jovanie Darius Antoine Bouzin",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "44"
+            "age": 44
+        },
+        {
+            "name": "Christy Bristol",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Natasha Chetty",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Rick Yves Confiance",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Mick Crea",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Sharry Dodin",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Dominic Dugasse",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 36
+        },
+        {
+            "name": "Khema Elizabeth",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Mario Joseph Ernesta",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Tyler Fred",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Leeroy Henriette",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Michael Jumaye",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Isabelle Labuschagne",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 14
+        },
+        {
+            "name": "Romentha Larue",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Xerxes Larue",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Louise le Berrigo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Juliette Ruby Rita Malvina",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 37
+        },
+        {
+            "name": "Miguel Sebastien Mathieu",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Joshua Miller",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "Iven Moise",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Adam Moncherry",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Yohan Monthy",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Hilary Nourrice",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 30
+        },
+        {
+            "name": "Aaliyah Palestrini",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Felicity Passon",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Damien Payet",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Fabio Taryll Liam Roselie",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Dylan Sicobo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Laura Sinon",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Therese Soukup",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Godfrey Sultan",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 36
+        },
+        {
+            "name": "Alain Vidot",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "Jean Michel Vidot",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
         }
-    ]
+    ],
+    "medalWinners": []
 }

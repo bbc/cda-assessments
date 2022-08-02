@@ -1,96 +1,247 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/lesotho/4036aadc-0503-47bf-afed-c191a321a633",
     "name": "Lesotho",
+    "id": 6,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Toka Badboy",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Teboho Khantsi",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "30"
+            "age": 30
         },
         {
             "name": "Neheng Khatala",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Monaheng Khebe",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Bokang Khoai",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "34"
+            "age": 34
         },
         {
             "name": "Litsitso Khotlele",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "37"
+            "age": 37
         },
         {
             "name": "Retselisitsoe Kolobe",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Mojela Koneshe",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Phomolo Daniel Lengola",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Kabelo Lesia",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Malefetsane Lesofe",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Mathakane Letsie",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "30"
+            "age": 30
         },
         {
             "name": "Toka Litabe",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Telang Mahanyane",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "30"
+            "age": 30
         },
         {
             "name": "Tumelo Makae",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "25"
+            "age": 25
+        },
+        {
+            "name": "Kabelo Makatile",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Mokulubete Makatisi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Tsepo Mathibelle",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Qhobosheane Mohlerepe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Tlholohelo Mokhesi",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Moroke Mokhotho",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Thabo Molefe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Phetetso Monese",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 37
+        },
+        {
+            "name": "Motlokoa Nkhabutlane",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 37
+        },
+        {
+            "name": "Namakoe Nkhasi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Lebenya Nkoka",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 39
+        },
+        {
+            "name": "Machachamise Ntsinyi",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Arena Pakela",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Kokole Paneng",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 34
+        },
+        {
+            "name": "Tebello Ramakongoana",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Ramohanoe Eric Ramohanoe",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Nkhahle Thapelo Sebota",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Lerato Sechele",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Mathealira Seholoholo",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Tsepang Sello",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Mamakoli Senauoane",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Tsepo Setona",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Khoarahlane Seutloali",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Manqabang Tsibela",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 17
         }
-    ]
+    ],
+    "medalWinners": []
 }

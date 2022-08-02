@@ -1,96 +1,259 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/rwanda/c3374e20-584c-409e-b02b-235416af7a81",
     "name": "Rwanda",
+    "id": 12,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Alphonsine Agahozo",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Kavalo Patrick Akumuntu",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Jean Nepo Bigirimana",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "19"
+            "age": 19
         },
         {
             "name": "Venuste Gatsinzi",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Fils Habanzintwari",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Jean Eric Habimana",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Seth Hakizimana",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Emeline Imanizabayo",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Diane Ingabire",
             "sport": "Cycling - Road",
             "gender": "Female",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Neza Violette Irakoze",
             "sport": "Cycling - Road",
             "gender": "Female",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Celine Iranzi",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Honorine Iribagiza",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Claudette Ishimwe",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "16"
+            "age": 16
         },
         {
             "name": "Isihaka Isihaka",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Robert Kajuga",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "36"
+            "age": 36
+        },
+        {
+            "name": "Eloi Maniraguha",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Olive Manirakiza",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Eric Manizabayo",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Moise Mugisha",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Samuel Mugisha",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Eric Muhoza",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Clementine Mukandanga",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 36
+        },
+        {
+            "name": "Benitha Mukandayisenga",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Josiane Mukashema",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Adeline Musabyeyezu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 30
+        },
+        {
+            "name": "Jean Baptiste Ngurinzira",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Yves Nimubona",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Cedrick Niyibizi",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Emmanuel Niyibizi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Samuel Niyonkuru",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Olivier Ntagengwa",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Paul Ntigirinzigo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Valentine Nzayisenga",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Stiven Rukundinka",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Justin Sengiyumva",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Jacqueline Tuyishime",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Etienne Tuyizere",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Byiza Renus Uhiriwe",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Claire Uwitonze",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Jeanne Gentille Uwizeyimana",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Munezero Valentine",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 21
         }
-    ]
+    ],
+    "medalWinners": []
 }

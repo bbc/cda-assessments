@@ -1,96 +1,319 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/mozambique/75dc00f9-86c2-438c-aed7-be26d73dfca8",
     "name": "Mozambique",
+    "id": 9,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Carlos Acacio",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "33"
+            "age": 33
         },
         {
             "name": "Cinthya Kaiana Silvestre Badru",
             "sport": "Judo",
             "gender": "Female",
-            "age": "17"
+            "age": 17
+        },
+        {
+            "name": "Helena Ismael BAGAO",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 22
         },
         {
             "name": "Valentim Cardoso da Costa",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Tatiana Madeira da Fonseca",
             "sport": "Triathlon and Para Triathlon",
             "gender": "Female",
-            "age": "42"
+            "age": 42
         },
         {
             "name": "Patricio de Sousa Leao",
             "sport": "Triathlon and Para Triathlon",
             "gender": "Male",
-            "age": "16"
+            "age": 16
         },
         {
             "name": "Denise Donelli",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Kaio De Araujo Faftine",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "15"
+            "age": 15
         },
         {
             "name": "Jacira Judite Da Costa Ferreira",
             "sport": "Judo",
             "gender": "Female",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Larissa Ferreira Gil",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "16"
+            "age": 16
         },
         {
             "name": "Rady Adosinda Gramane",
             "sport": "Boxing",
             "gender": "Female",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Natalia Intego",
             "sport": "Beach Volleyball",
             "gender": "Female",
-            "age": "20"
-        },
-        {
-            "name": "Helena Ismael",
-            "sport": "Boxing",
-            "gender": "Female",
-            "age": "22"
+            "age": 20
         },
         {
             "name": "Veronica Vicente Jose",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Kyara Dalsuco Langa",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Matthew Lawrence",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "18"
+            "age": 18
+        },
+        {
+            "name": "Caio Miguel Chaby Lobo",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Kevin Vazikakis Loforte",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Valdo Alves De Sousa Lourenco",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Benilde Regina Fernando Macaringue",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Creve Armando Machava",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Alex Macuacua",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "Ancha Ernesto Mandlate",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Leocadia Jose Manhica",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Anaidino Martinho",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Alicia Mateus",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Narciso Matos",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Jessica Moiane",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Jorge Monjane",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Mercia Mucheza",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Vanessa Muianga",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Jennie Muneme",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Domingas Sheidy Paulo Munhemeze",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Edio Mussacate",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Tiago Osorio Muxanga",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Alson Elisio Muzime",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Mauro Nassone",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Adelvino Nguvo",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Justino Pale",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Alcinda Helena Panguane",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Yusra Da Silva Ribeiro",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Paulo Ribeiro Junior",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 15
+        },
+        {
+            "name": "Steven Sabino",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 15
+        },
+        {
+            "name": "Armando Rugoberto Sigauque",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Ana Sinaportar",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Ayton Siquir",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Angela Dercia Tembe",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Justino Tovela",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Shenidy Luana Carlos Tsemane",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Astrid Eva van Hoorn",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Duncan Neville Wyness",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 46
+        },
+        {
+            "name": "Filipa Alexandra Xavier",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 15
         }
-    ]
+    ],
+    "medalWinners": []
 }

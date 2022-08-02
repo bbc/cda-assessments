@@ -1,96 +1,385 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/malawi/73e31de8-4d76-4acb-ac62-5cf033ac6d9b",
     "name": "Malawi",
+    "id": 7,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Asher Alinafe Banda",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "16"
+            "age": 16
         },
         {
             "name": "Beauty Banda",
             "sport": "Netball",
             "gender": "Female",
-            "age": "32"
+            "age": 32
         },
         {
             "name": "Shabel Bengo",
             "sport": "Netball",
             "gender": "Female",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Vera Benjamin",
             "sport": "Judo",
             "gender": "Female",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Harriet Bonface",
             "sport": "Judo",
             "gender": "Female",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Elias Bonzo",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "19"
+            "age": 19
         },
         {
             "name": "Tayamika Chang'anamuno",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Austin Chikwapula",
             "sport": "Judo",
             "gender": "Male",
-            "age": "19"
+            "age": 19
         },
         {
             "name": "Jane Chimaliro",
             "sport": "Netball",
             "gender": "Female",
-            "age": "36"
+            "age": 36
         },
         {
             "name": "Flora Chipeta",
             "sport": "Netball",
             "gender": "Female",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Allan Ngitsi Chirwa",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Nalicy Chirwa",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Molly Chisambiro",
             "sport": "Netball",
             "gender": "Female",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Abdullah Shaibu Chitepete",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Martha Dambo",
             "sport": "Netball",
             "gender": "Female",
-            "age": "28"
+            "age": 28
+        },
+        {
+            "name": "Shira Dimba",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Wyson Dylesi",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Thandie Mwale Galleta",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Florence Gamuka",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Filipe Gomes",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Joanna Dzirimbire Kachilika",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 37
+        },
+        {
+            "name": "Alinafe Kamwala",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Chikondi Samuel Kathewera",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Cynthia Khunga",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Tsinde Andrew Kumbatira",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Bridget Kumwenda",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 30
+        },
+        {
+            "name": "Mwai Jasinta Kumwenda",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 32
+        },
+        {
+            "name": "Patson Ledson",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Stern Liffa",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Daniel Stanley Lombola",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Brenda Luwanda",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Takondwa Lwazi",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Jessica Makwenda",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Tendai Masamba",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Mphatso Mateuzu",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Natasha Maya",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Jessie Anne Mazengera",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 32
+        },
+        {
+            "name": "Luwis Zakeyu Mbewe",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Harvey Mkacha",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Rose Mkanda",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Madalitso Mkandawire",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Abubakar Mkwanda",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Hope Mndala",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Muhammad Ali Moosa",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Chifuniro Moses",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Farook Mponda",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "Ayiche Mtambalika",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Caroline Brighton Mtukule",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 35
+        },
+        {
+            "name": "Snowden Munyanje",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Joyce Mvula",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Grace Mwafulirwa",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 34
+        },
+        {
+            "name": "Colleta Mwalilino",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Chikondi Keneth Mwanyali",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Mphatso Nadolo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Sunganani Namakonje",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Loreen Ngwira",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Mary Nyirenda",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Ammara Pinto",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Maggie Sikwese",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Sindi Simtowe",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 34
+        },
+        {
+            "name": "Asimenye Simwaka",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Towera Angela Vinkhumbo",
+            "sport": "Netball",
+            "gender": "Female",
+            "age": 30
         }
-    ]
+    ],
+    "medalWinners": []
 }

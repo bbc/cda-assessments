@@ -1,96 +1,601 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/cameroon/c632ec46-0614-434b-b347-ab12cd7328f2",
     "name": "Cameroon",
+    "id": 2,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Germaine Abessolo Bivina",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "31"
+            "age": 31
         },
         {
             "name": "Cedric Abossolo",
             "sport": "Wrestling",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Zedong Adrin Virgil",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Madeleine Caren Ltc Akoumba Ze",
             "sport": "Badminton",
             "gender": "Female",
-            "age": "18"
+            "age": 18
         },
         {
             "name": "Paul Jouel Alima Fouda",
             "sport": "Judo",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Simone Edwige Amandi Ngono",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "30"
+            "age": 30
         },
         {
             "name": "Maeva Princia Gertrude Anamba",
             "sport": "Badminton",
             "gender": "Female",
-            "age": "16"
+            "age": 16
         },
         {
             "name": "Linda Angounou",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Ayuk Otay Arrey Sophina",
             "sport": "Judo",
             "gender": "Female",
-            "age": "27"
+            "age": 27
         },
         {
             "name": "Michel Henri Assembe",
             "sport": "Badminton",
             "gender": "Male",
-            "age": "23"
+            "age": 23
         },
         {
             "name": "Benoit Oscar Asso'o Emane Yetmou",
             "sport": "Judo",
             "gender": "Male",
-            "age": "33"
+            "age": 33
         },
         {
             "name": "Conrat Frederic Atangana",
             "sport": "Para Powerlifting",
             "gender": "Male",
-            "age": "34"
+            "age": 34
         },
         {
             "name": "Guillaume Junior Atangana",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Charles Christole Atangana Ntsama",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Aime Blaise Atchoukeu Mbithe",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "32"
+            "age": 32
+        },
+        {
+            "name": "Seraphine Merveille Avidi Meka",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Ingrid Azemo Teka",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Marie Celine Baba Matia",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Jorim Leonard Bangue",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Robert Laurent Raziel Beina Bangmo",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Irene Bell Bonong",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Zita Ornella Biami",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Georgika Wesly Djengue Moune",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Aurelie Borelle Donfack",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Gilles Francis Donguitsop",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Emmanuel Eseme",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Denis Joel Essama Owona",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Clotilde Essiane",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 36
+        },
+        {
+            "name": "Joseph Emilienne Essombe Tiako",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 33
+        },
+        {
+            "name": "Berthe Emilienne Etane Ngolle",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Audrey Jeannette Etoua Biock",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Jeanne Gaelle Eyenga Mboosi",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Manuella Agnes Lucie Fenou Noubissi",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Paola Yvonne Fenou Seugue",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 14
+        },
+        {
+            "name": "Stephane Fondjo Hendjou",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Foundikou Kassimou",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Gwladys Marcelle Gouinwou Kamsu",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Gaetang Steve Guiffo Tagang",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Sarah Hanffou",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 35
+        },
+        {
+            "name": "Joseph Hell Bapou",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Gabin Ulrich Heumou Heumi",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": ". Ibrahim Bouba",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Batambock Jean Tarcisius",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 34
+        },
+        {
+            "name": "Felix Michel Kemene Atangana",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Michael Kengue Meli",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Veronique Kossenda Rey",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Kevine Linda Kouotche",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Cyrille Lombano Bonia",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 44
+        },
+        {
+            "name": "Oscar Ernest Makoube Moussima",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": 40
+        },
+        {
+            "name": "Arlette Mawe Fokoa",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 32
+        },
+        {
+            "name": "Marcel Richard Mayack Ii",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Moise Mbog Dikongue",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Manuela Mefo Meuli Tchouonze",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Thamar Gisele Mengue",
+            "sport": "Para Powerlifting",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Albert Mengue Ayissi",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Suzanne Menye Meto",
+            "sport": "Para Powerlifting",
+            "gender": "Female",
+            "age": 34
+        },
+        {
+            "name": "Cathy Jorel Menzap Tiomo",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Daniel Mepoui Anong",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Jean Junior Messi Elime",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Clementine Meukeugni Noumbissi",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Norah Milanesi",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Oumarou Mohamed Ali",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Estelle Adele Momeni",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Daniel Monthe Tiako",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Jacques Cedric Monty Mbougou",
+            "sport": "Wrestling",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Rebecca Ndolo Muambo",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 36
+        },
+        {
+            "name": "Raoul Ndjima Ehowa",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 34
+        },
+        {
+            "name": "Charly Ndjoume",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 35
+        },
+        {
+            "name": "Williams Julien Ndzana",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Junior Periclex Ngadja Nyabeyeu",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Raphael Ngaguele Mberlina",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Blandine Nyeh Ngiri",
+            "sport": "Wrestling",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Guy Michel Ngongang Tchuissi",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Pauline Raissa Ngouopou",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Estelle Divine Nguelo'o Noubissi",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 13
+        },
+        {
+            "name": "Vladimir Carlos Ngueya Naheu",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Giorgio Armani Nguichie Kamseu Kamogne",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 14
+        },
+        {
+            "name": "Ebenezer Njoh Ndongue Miano",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Stephanie Njuh Nsella",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Felix Dureil Nkonomo Bengono",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Jeanne Louise Nkou Mballa",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Gabriel Marius Ntsilili Amot",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Donard Ndim Nyamjua",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Phalone Leticia Nzimo",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Eric Jean Sebastien Omgba Fouda",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Jean Marie Onana Ngah",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Antoine Eddy Owona Ndimako",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Richelle Anita Soppi Mbella",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Billy Jospen Takougoum Kuitche",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Franck Olivier Stone Tchouachou Nkepya",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 17
+        },
+        {
+            "name": "William Tchuisseu Tchapo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 35
+        },
+        {
+            "name": "Aboubakar Sidick Tetndap Nsangou",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Bernadin Tsala Tsala",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Loic Wandji Ngono",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Johanna Wonyou",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Robin Yantcha Tchatchie",
+            "sport": "Rugby Sevens",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Maxime Yegnong Njieyo",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Appolinaire Yinra",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
         }
-    ]
+    ],
+    "medalWinners": []
 }

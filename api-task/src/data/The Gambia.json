@@ -1,96 +1,175 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/the-gambia/74d4aa84-f17b-4415-87ef-b9651c9c730a",
     "name": "The Gambia",
+    "id": 17,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Christina Pauline Aziz",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Female",
-            "age": "15"
+            "age": 15
         },
         {
             "name": "Foday Badjie",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Ebrima Barry",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "22"
+            "age": 22
         },
         {
             "name": "Gina Bass",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Anna Marie Bojang",
             "sport": "Beach Volleyball",
             "gender": "Female",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Ebrima Sorry Buaro",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Ebrahima Camara",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Abdourahman Ceesay",
             "sport": "Judo",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Ebrima Ceesay",
             "sport": "3x3 Wheelchair Basketball",
             "gender": "Male",
-            "age": "35"
+            "age": 35
         },
         {
             "name": "Musa Cham",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Omar Darboe",
             "sport": "Aquatics - Swimming and Para Swimming",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Modou Gamo",
             "sport": "Para Powerlifting",
             "gender": "Male",
-            "age": "35"
+            "age": 35
         },
         {
             "name": "Adama Jammeh",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Amadou Jarju",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "24"
+            "age": 24
         },
         {
             "name": "Mbye Babou Jarra",
             "sport": "Beach Volleyball",
             "gender": "Male",
-            "age": "22"
+            "age": 22
+        },
+        {
+            "name": "Sainey Jawo",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Sengan Jobe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Alieu Joof",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Ibrahim Kebbeh",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Jahara Koita",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Abie Kujabi",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Salifu Kujabi",
+            "sport": "3x3 Wheelchair Basketball",
+            "gender": "Male",
+            "age": 42
+        },
+        {
+            "name": "Ebrima Mbye",
+            "sport": "3x3 Wheelchair Basketball",
+            "gender": "Male",
+            "age": 37
+        },
+        {
+            "name": "Wurrie Njadoe",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Faye Njie",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Momodou Sey",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Malang Tamba",
+            "sport": "3x3 Wheelchair Basketball",
+            "gender": "Male",
+            "age": 32
         }
-    ]
+    ],
+    "medalWinners": []
 }

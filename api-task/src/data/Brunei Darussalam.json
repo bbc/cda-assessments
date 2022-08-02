@@ -1,96 +1,127 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/brunei-darussalam/52b071ee-2d45-406c-a241-a74a899fdd69",
     "name": "Brunei Darussalam",
+    "id": 21,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Bahren Abdul Rahman",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "42"
+            "age": 42
         },
         {
             "name": "Muhammad Danial Irfan Abdul Rahman",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Ampuan Ahad Ampuan Kasim",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "62"
+            "age": 62
         },
         {
             "name": "Esmawandy Brahim",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Female",
-            "age": "41"
+            "age": 41
         },
         {
             "name": "Mohammad Nashrul Haji Abu Bakar",
             "sport": "Weightlifting",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
             "name": "Haji Amli Haji Gafar",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "53"
+            "age": 53
         },
         {
             "name": "Shelvie Elyanna Haji Sallahuddin",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Female",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Haji Osman Haji Yahya",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "64"
+            "age": 64
         },
         {
             "name": "Mohd Hazmi Hj Idris",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "35"
+            "age": 35
         },
         {
             "name": "Naipsayah Jamal",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Female",
-            "age": "63"
+            "age": 63
         },
         {
             "name": "Nurul Nazzirah Jefri",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Female",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Muhammad Haziq Junaidi",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "19"
+            "age": 19
         },
         {
             "name": "Amaliah Matali",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Female",
-            "age": "44"
+            "age": 44
         },
         {
             "name": "Norafizah Matossen",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Female",
-            "age": "21"
+            "age": 21
         },
         {
             "name": "Mohammad Abdul Raziq Md Sabri",
             "sport": "Lawn Bowls and Para Lawn Bowls",
             "gender": "Male",
-            "age": "18"
+            "age": 18
+        },
+        {
+            "name": "Dayang Isah Muntol",
+            "sport": "Lawn Bowls and Para Lawn Bowls",
+            "gender": "Female",
+            "age": 69
+        },
+        {
+            "name": "Hajah Ajijah Muntol",
+            "sport": "Lawn Bowls and Para Lawn Bowls",
+            "gender": "Female",
+            "age": 72
+        },
+        {
+            "name": "Abdul Fattahulmu'iz Nor Muhamad Fazri",
+            "sport": "Lawn Bowls and Para Lawn Bowls",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Pg Hj Tengah Pg Hj Tajudin",
+            "sport": "Lawn Bowls and Para Lawn Bowls",
+            "gender": "Male",
+            "age": 69
         }
-    ]
+    ],
+    "medalWinners": []
 }

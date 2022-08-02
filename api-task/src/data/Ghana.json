@@ -1,96 +1,1177 @@
 {
     "pageUrl": "https://www.birmingham2022.com/teams/ghana/0c9ad3ed-1ee4-4449-9fae-907471ce9f80",
     "name": "Ghana",
+    "id": 4,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
     "athletes": [
         {
             "name": "Charles Abbiw",
             "sport": "Hockey",
             "gender": "Male",
-            "age": "33"
+            "age": 33
         },
         {
             "name": "Ahmad Abdul Samad",
             "sport": "Badminton",
             "gender": "Male",
-            "age": "20"
+            "age": 20
         },
         {
             "name": "Abdul Rahman Abdul Samed",
             "sport": "Cycling - Road",
             "gender": "Male",
-            "age": "28"
+            "age": 28
         },
         {
             "name": "Derek Abrefa",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Male",
-            "age": "29"
+            "age": 29
         },
         {
             "name": "Mohammed Abubakar",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "26"
+            "age": 26
         },
         {
-            "name": "Eugene Dwomoh Acheampong",
+            "name": "Eugene Acheampong",
             "sport": "Hockey",
             "gender": "Male",
-            "age": "34"
+            "age": 34
         },
         {
             "name": "Felix Acheampong",
             "sport": "Athletics and Para Athletics",
             "gender": "Male",
-            "age": "47"
+            "age": 47
         },
         {
             "name": "Judith Acheampong",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Female",
-            "age": "17"
+            "age": 17
         },
         {
             "name": "Benjamin Kweku Acquah",
             "sport": "Hockey",
             "gender": "Male",
-            "age": "31"
+            "age": 31
         },
         {
             "name": "Deborah Acquah",
             "sport": "Athletics and Para Athletics",
             "gender": "Female",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Juwaila Acquah",
             "sport": "Hockey",
             "gender": "Female",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Jonathan Buerteye Addo",
             "sport": "Squash",
             "gender": "Male",
-            "age": "42"
+            "age": 42
         },
         {
             "name": "Yaw Samuel Addo",
             "sport": "Boxing",
             "gender": "Male",
-            "age": "25"
+            "age": 25
         },
         {
             "name": "Ishmael Addy",
             "sport": "Table Tennis and Para Table Tennis",
             "gender": "Male",
-            "age": "37"
+            "age": 37
         },
         {
             "name": "Bennedicta Adjei",
             "sport": "Hockey",
             "gender": "Female",
-            "age": "28"
+            "age": 28
+        },
+        {
+            "name": "Nubia Adjei",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Richard Adjei",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Eva Adom -Amankwaa",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 32
+        },
+        {
+            "name": "Samuel Afari",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Lydia Afriyie",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Samuel Agbeli",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Hilda Agbottah",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Barnabas Aggerh",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Dominic Agudoo",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Zeo Agudoo",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Kate Agyemang",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Victor Ahiavor",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 37
+        },
+        {
+            "name": "Linus Fiifi Aidoo",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 45
+        },
+        {
+            "name": "Elikem Akaba",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 35
+        },
+        {
+            "name": "Emmanuel Akaba",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Paul Akan",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Charity Akoto",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Godwin Nii Alabi",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Rashid Alhassan",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Latifa Ali",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Theophilus Allotey",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Kelvin Evans Alphous",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Alex Amankwa",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Maxwell Akakpo Amekudzi",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Joseph Paul Amoah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Cecilia Amoako",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Isaac Amoako",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "John Ampomah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "William Amponsah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Clement Anafo",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Emmanuel Ankomah",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Jonathan Ankrah",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 15
+        },
+        {
+            "name": "Millicent Ankude",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Linda Annor",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 33
+        },
+        {
+            "name": "Josephine Anokye",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Sarfo Ansah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Doris Antwi",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Vida Antwi",
+            "sport": "Para Powerlifting",
+            "gender": "Female",
+            "age": 39
+        },
+        {
+            "name": "Emmanuel Kwesi Arthur",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 36
+        },
+        {
+            "name": "Desmond Aryee",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Juliana Otcherewaa Aryee",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Stephen Ofosu Asamoah",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Emmanuel Asante",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Frederick Assor",
+            "sport": "Cycling - Track and Para Track",
+            "gender": "Male",
+            "age": 37
+        },
+        {
+            "name": "Dallas Awenyese",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Rahinatu Awudu",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Belinda Awuku",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Evans Ayih",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Benjamin Azamati",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Bridget Azumah",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Celia Baah-Danso",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Michael Baiden",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Augustine Baidoo",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Racheal Bamfo",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Mavis Berko",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Mary Boakye",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Serwaa Boakye",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Anthony Boafo Boakye Dankwa",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Bernice Borquaye",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 37
+        },
+        {
+            "name": "Nkegbe Botsyo",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 42
+        },
+        {
+            "name": "Benjamin Botwe",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Michael Botwe",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 15
+        },
+        {
+            "name": "Abigail Boye",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 32
+        },
+        {
+            "name": "Safia Bright",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Ernestina Coffie",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Emmanuel Commey",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Joseph Commey",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Hagiet Copson",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Luke Damalie",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Matthew Damalie",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Nii Duodu Dimpson",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 45
+        },
+        {
+            "name": "Henry Djangmah",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 42
+        },
+        {
+            "name": "Eleazer Dodoo",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Christopher Dogbe",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Samuel Essilfie",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Lambert Fiazuku",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Matilda Fodu",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Kaya Forson",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Zaira Forson",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Cecilia Frema",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 31
+        },
+        {
+            "name": "Ibrahim Fuseini",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Edwin Kwabla Gadayi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Godwin Galley",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 34
+        },
+        {
+            "name": "Asana Gbatti",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Jemimah Gyamfi",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Beatrice Gyasi",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 35
+        },
+        {
+            "name": "Tahiru Haruna",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Florence Heridor",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 37
+        },
+        {
+            "name": "Halutie Hor",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Abdul-Hameed Ibrahim",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Sandor Abdullah Iddris",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Abeku Jackson",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Kow Jackson",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Rashaka Katadat",
+            "sport": "Beach Volleyball",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Alfred Kotey",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Rachel Adei Kotey",
+            "sport": "Judo",
+            "gender": "Female",
+            "age": 29
+        },
+        {
+            "name": "Cynthia Kwabi",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Abigail Kwarteng",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Benjamin Kwofie",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Emmanuella Yaa Kyere",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 15
+        },
+        {
+            "name": "Blessing Labanti",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 14
+        },
+        {
+            "name": "Felix Lartey",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 30
+        },
+        {
+            "name": "Jessie Lartey Lartey",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Derick Lee",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Dominic Maccarthy",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Abraham Mensah",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Rudolf Mensah",
+            "sport": "Cycling - Track and Para Track",
+            "gender": "Male",
+            "age": 43
+        },
+        {
+            "name": "Prospera Nantuo",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Vivian Narkuor",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 22
+        },
+        {
+            "name": "Emmanuel Nartey",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 38
+        },
+        {
+            "name": "George Nii Noertey",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": -1
+        },
+        {
+            "name": "Raymond Normeshie",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 43
+        },
+        {
+            "name": "Alfred Ntiamoah",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Winnifred Ntumi",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Ibrahim Gado Nuhu",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 14
+        },
+        {
+            "name": "Rafiatu Nuhu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 21
+        },
+        {
+            "name": "Atsu Nyamadi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Isaac Obeng",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": 38
+        },
+        {
+            "name": "Patrick Yaw Obeng",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 45
+        },
+        {
+            "name": "Francis Nii Addo Obeng-Shang",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 13
+        },
+        {
+            "name": "Grace Obour",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Dorothy Efua Obuobi",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Nii Nortey Solomon Ocquaye",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Joseph Oduro Manu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Duisberg Offei",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Emmanuel Ofori",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 21
+        },
+        {
+            "name": "Mark Ofosu",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Dede Okine",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Emmanuel Nii Tettey Oku",
+            "sport": "Para Powerlifting",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Gifty Kwakyewaa Oku",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Abdul Wahib Omar",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Elizabeth Opoku",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 27
+        },
+        {
+            "name": "Ernest Opoku",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Cosmos Oppong",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 35
+        },
+        {
+            "name": "Ebenezer Osabutey",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Male",
+            "age": 19
+        },
+        {
+            "name": "Elvis Osei",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 16
+        },
+        {
+            "name": "Forrester Christopher Osei",
+            "sport": "Weightlifting",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Mohammed Osumanu",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Eleanor Otoo",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 20
+        },
+        {
+            "name": "Mark Owiredu-Gyening",
+            "sport": "Squash",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Gad Owusu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Roberta Owusu",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Sandra Mensimah Owusu",
+            "sport": "Weightlifting",
+            "gender": "Female",
+            "age": 19
+        },
+        {
+            "name": "Martin Owusu Antwi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Margaret Owusuwaa",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 18
+        },
+        {
+            "name": "Mercy Jane Adorkor Pappoe",
+            "sport": "Triathlon and Para Triathlon",
+            "gender": "Female",
+            "age": 23
+        },
+        {
+            "name": "Papa Yaw Dwumoh Poku-Dwumoh",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 18
+        },
+        {
+            "name": "Ernest Mawutor Quarcoo",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 27
+        },
+        {
+            "name": "Racheal Quarcoo",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 12
+        },
+        {
+            "name": "Rudduck Quarcoo",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Abubakari Kwesi Quartey",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 25
+        },
+        {
+            "name": "Emmanuel Otokunor Sackey",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 32
+        },
+        {
+            "name": "Sean Safo-Antwi",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 31
+        },
+        {
+            "name": "Jacob Saikum",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 28
+        },
+        {
+            "name": "Juliana Sakat",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 25
+        },
+        {
+            "name": "Bernard Sam",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Male",
+            "age": 33
+        },
+        {
+            "name": "Gideon Sama",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Shakul Samed",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Abdul-Rasheed Saminu",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Martha Sarfoa",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Ornella Sathoud",
+            "sport": "Boxing",
+            "gender": "Female",
+            "age": 34
+        },
+        {
+            "name": "Erica Sedzro",
+            "sport": "Cycling - Road",
+            "gender": "Female",
+            "age": 26
+        },
+        {
+            "name": "Adizatu Sulemana",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 24
+        },
+        {
+            "name": "Christopher Bennet Symonds",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 48
+        },
+        {
+            "name": "Solomon Tagoe",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Unilez Takyi",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Female",
+            "age": 17
+        },
+        {
+            "name": "Aaron Dromo Tamakloe",
+            "sport": "Badminton",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Sulemanu Tetteh",
+            "sport": "Boxing",
+            "gender": "Male",
+            "age": 29
+        },
+        {
+            "name": "Francis Tettey",
+            "sport": "Hockey",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Gabriel Tettey",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 22
+        },
+        {
+            "name": "Rachel Oboshie Torgbor",
+            "sport": "Table Tennis and Para Table Tennis",
+            "gender": "Female",
+            "age": 37
+        },
+        {
+            "name": "Cindy Etornam Esi Tornyenyor",
+            "sport": "Badminton",
+            "gender": "Female",
+            "age": 16
+        },
+        {
+            "name": "Eric Tsatsu",
+            "sport": "Beach Volleyball",
+            "gender": "Male",
+            "age": 20
+        },
+        {
+            "name": "Abdul Razak Umar",
+            "sport": "Cycling - Road",
+            "gender": "Male",
+            "age": 26
+        },
+        {
+            "name": "Nafisatu Umaru",
+            "sport": "Hockey",
+            "gender": "Female",
+            "age": 28
+        },
+        {
+            "name": "Bismark Yartey",
+            "sport": "Judo",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Emmanuel Yeboah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Male",
+            "age": 24
+        },
+        {
+            "name": "Niklas David Yeboah",
+            "sport": "Aquatics - Swimming and Para Swimming",
+            "gender": "Male",
+            "age": 23
+        },
+        {
+            "name": "Rose Amoanimaa Yeboah",
+            "sport": "Athletics and Para Athletics",
+            "gender": "Female",
+            "age": 20
         }
-    ]
+    ],
+    "medalWinners": []
 }
