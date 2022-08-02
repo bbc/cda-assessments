@@ -1,5 +1,5 @@
 const request = require('supertest')
-const { default: expressServer, resetResults } = require('../')
+const { default: expressServer, resetResults } = require('..')
 const { loadTeams } = require('../utilities/loadTeams')
 
 const fetchTop10 = (server) => {
@@ -23,7 +23,6 @@ describe('Commonwealth Results', () => {
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
             expect(top10._body[0].name).toEqual('South Africa')
-            // expect(top10._body[0].totalMedals).toEqual(12)
         })
 
         test('second team', async () => {
@@ -31,7 +30,6 @@ describe('Commonwealth Results', () => {
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
             expect(top10._body[1].name).toEqual('India')
-            // expect(top10._body[1].totalMedals).toEqual(9)
         })
 
         test('third team', async () => {
@@ -39,7 +37,6 @@ describe('Commonwealth Results', () => {
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
             expect(top10._body[2].name).toEqual('Nigeria')
-            // expect(top10._body[2].totalMedals).toEqual(4)
         })
 
         test('bottom team', async () => {
@@ -47,7 +44,6 @@ describe('Commonwealth Results', () => {
             const top10 = await fetchTop10(server)
             expect(top10._body).not.toBeNull()
             expect(top10._body[9].name).toEqual('Botswana')
-            // expect(top10._body[9].totalMedals).toEqual(0)
         })
     })
 
