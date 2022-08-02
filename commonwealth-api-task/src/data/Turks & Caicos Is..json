@@ -1,0 +1,229 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/turks-caicos-is-/3cc9e144-ccb5-4c8d-95d4-67d85c2026ec",
+    "name": "Turks & Caicos Is.",
+    "id": 48,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Emmanuel Agenor",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61950.jpg"
+        },
+        {
+            "name": "Rebecca Bernardin",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64177.jpg"
+        },
+        {
+            "name": "Chevorn Bishop",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59005.jpg"
+        },
+        {
+            "name": "Aleiandio Durham",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64563.jpg"
+        },
+        {
+            "name": "Kavin Ewing",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 51,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/55356.jpg"
+        },
+        {
+            "name": "Wilkinson Fenelon",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64409.jpg"
+        },
+        {
+            "name": "Devante Gardiner",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": null
+        },
+        {
+            "name": "Omard Gardiner",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 39,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52295.jpg"
+        },
+        {
+            "name": "Tanesia Sylvina Gardiner",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61926.jpg"
+        },
+        {
+            "name": "Angelo Garland",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63199.jpg"
+        },
+        {
+            "name": "Arleigha Hall",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59106.jpg"
+        },
+        {
+            "name": "Kivarno Handfield",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/102728.jpg"
+        },
+        {
+            "name": "Wooslyn Harvey",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61957.jpg"
+        },
+        {
+            "name": "Yanique Haye-Smith",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64146.jpg"
+        },
+        {
+            "name": "Courtney Missick",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/64304.jpg"
+        },
+        {
+            "name": "Ifeanyichukwu Otuonye",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/63053.jpg"
+        },
+        {
+            "name": "Ken Reyes",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/65325.jpg"
+        },
+        {
+            "name": "Darvioun Rigby",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61909.jpg"
+        },
+        {
+            "name": "Sean Rodgers",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 51,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52300.jpg"
+        },
+        {
+            "name": "Rohan Karim Shearer",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61783.jpg"
+        },
+        {
+            "name": "Sophie Beth Taylor",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59101.jpg"
+        },
+        {
+            "name": "Antwon Hilly Fuller Walkin",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/61873.jpg"
+        },
+        {
+            "name": "Sean Enzario Walters",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/59098.jpg"
+        },
+        {
+            "name": "De'vaughn Williams",
+            "sports": [
+                "Cycling - Road"
+            ],
+            "gender": "M",
+            "age": 44,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/52312.jpg"
+        }
+    ],
+    "medalWinners": []
+}

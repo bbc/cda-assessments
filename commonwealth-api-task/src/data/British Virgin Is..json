@@ -1,0 +1,350 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/british-virgin-is-/7c5a9db1-a6d0-422a-8f6b-36919d543916",
+    "name": "British Virgin Is.",
+    "id": 33,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Dion Anselm",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 47,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24456.jpg"
+        },
+        {
+            "name": "Wanyae Belle",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24438.jpg"
+        },
+        {
+            "name": "Jolene Bowens",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/31799.jpg"
+        },
+        {
+            "name": "Rikkoi Brathwaite",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/8763.jpg"
+        },
+        {
+            "name": "Zara Brown",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24124.jpg"
+        },
+        {
+            "name": "Joe Chapman",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/8665.jpg"
+        },
+        {
+            "name": "Darel Christopher Jr",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/87866.jpg"
+        },
+        {
+            "name": "Alejandro Cox",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24650.jpg"
+        },
+        {
+            "name": "Jaleel Croal",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24123.jpg"
+        },
+        {
+            "name": "Beyonce Defreitas",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24603.jpg"
+        },
+        {
+            "name": "Deya Erickson",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24635.jpg"
+        },
+        {
+            "name": "Akrisa Eristee",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24125.jpg"
+        },
+        {
+            "name": "Shauliqua Fahie",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/29598.jpg"
+        },
+        {
+            "name": "Adriano Gumbs",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24130.jpg"
+        },
+        {
+            "name": "Diamante Gumbs",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24432.jpg"
+        },
+        {
+            "name": "Djimon Gumbs",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24433.jpg"
+        },
+        {
+            "name": "Trevia Gumbs",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24126.jpg"
+        },
+        {
+            "name": "Tynelle Gumbs",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24127.jpg"
+        },
+        {
+            "name": "Arianna Hayde",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24441.jpg"
+        },
+        {
+            "name": "Eldred Henry",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 27,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/8761.jpg"
+        },
+        {
+            "name": "Khari Herbert",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24647.jpg"
+        },
+        {
+            "name": "Joshua Hill",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24434.jpg"
+        },
+        {
+            "name": "Ashley Kelly",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/8762.jpg"
+        },
+        {
+            "name": "Chantel Malone",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 30,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/8758.jpg"
+        },
+        {
+            "name": "Kyron McMaster",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/8760.jpg"
+        },
+        {
+            "name": "Kala Penn",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24447.jpg"
+        },
+        {
+            "name": "Akira Phillip",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24440.jpg"
+        },
+        {
+            "name": "Mahkayla Pickering",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/31796.jpg"
+        },
+        {
+            "name": "Luca Reich",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 18,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24131.jpg"
+        },
+        {
+            "name": "Keithrece Smith",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "F",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/31766.jpg"
+        },
+        {
+            "name": "Kimberly Smith",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24451.jpg"
+        },
+        {
+            "name": "Neville Sorrentino",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 59,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24455.jpg"
+        },
+        {
+            "name": "Vadley Sylvester",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24435.jpg"
+        },
+        {
+            "name": "Sam Talbot",
+            "sports": [
+                "Cycling - Road",
+                "Cycling - Track and Para Track",
+                "Cycling - Mountain Bike"
+            ],
+            "gender": "M",
+            "age": 34,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/87886.jpg"
+        },
+        {
+            "name": "Rory Thornton",
+            "sports": [
+                "Squash"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/24605.jpg"
+        },
+        {
+            "name": "Joy Victor",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "F",
+            "age": 23,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/31798.jpg"
+        },
+        {
+            "name": "Kiara Woodley",
+            "sports": [
+                "3x3 Basketball"
+            ],
+            "gender": "F",
+            "age": 19,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/128706.jpg"
+        }
+    ],
+    "medalWinners": []
+}

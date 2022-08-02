@@ -1,0 +1,112 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/st-helena/246f0d1f-a4a3-4866-88b1-465ebd4ba168",
+    "name": "St Helena",
+    "id": 42,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "William Caswell",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 13,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32764.jpg"
+        },
+        {
+            "name": "Sean Crowie",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/26804.jpg"
+        },
+        {
+            "name": "Poppy Davis-Coyle",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 14,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32773.jpg"
+        },
+        {
+            "name": "Tye Leo-Stroud",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27040.jpg"
+        },
+        {
+            "name": "Vivienne Ponsford",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32766.jpg"
+        },
+        {
+            "name": "Vernon Smeed",
+            "sports": [
+                "Badminton"
+            ],
+            "gender": "M",
+            "age": 44,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39522.jpg"
+        },
+        {
+            "name": "Stefan Thomas",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/39637.jpg"
+        },
+        {
+            "name": "Brooke Yon",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27277.jpg"
+        },
+        {
+            "name": "Duwaine Yon",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32762.jpg"
+        },
+        {
+            "name": "Joshua Yon",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/32763.jpg"
+        },
+        {
+            "name": "Aiden Yon-Stevens",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 16,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/27024.jpg"
+        }
+    ],
+    "medalWinners": []
+}

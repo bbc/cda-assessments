@@ -1,0 +1,256 @@
+{
+    "pageUrl": "https://www.birmingham2022.com/teams/the-gambia/74d4aa84-f17b-4415-87ef-b9651c9c730a",
+    "name": "The Gambia",
+    "id": 17,
+    "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    },
+    "athletes": [
+        {
+            "name": "Christina Pauline Aziz",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "F",
+            "age": 15,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33836.jpg"
+        },
+        {
+            "name": "Foday Badjie",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/125034.jpg"
+        },
+        {
+            "name": "Ebrima Barry",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33913.jpg"
+        },
+        {
+            "name": "Gina Bass",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33667.jpg"
+        },
+        {
+            "name": "Anna Marie Bojang",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 17,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33808.jpg"
+        },
+        {
+            "name": "Ebrima Sorry Buaro",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33829.jpg"
+        },
+        {
+            "name": "Ebrahima Camara",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 25,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33657.jpg"
+        },
+        {
+            "name": "Abdourahman Ceesay",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 29,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33679.jpg"
+        },
+        {
+            "name": "Ebrima Ceesay",
+            "sports": [
+                "3x3 Wheelchair Basketball"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62870.jpg"
+        },
+        {
+            "name": "Musa Cham",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 26,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33916.jpg"
+        },
+        {
+            "name": "Omar Darboe",
+            "sports": [
+                "Aquatics - Swimming and Para Swimming"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62898.jpg"
+        },
+        {
+            "name": "Modou Gamo",
+            "sports": [
+                "Para Powerlifting"
+            ],
+            "gender": "M",
+            "age": 35,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33900.jpg"
+        },
+        {
+            "name": "Adama Jammeh",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33626.jpg"
+        },
+        {
+            "name": "Amadou Jarju",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/101225.jpg"
+        },
+        {
+            "name": "Mbye Babou Jarra",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33795.jpg"
+        },
+        {
+            "name": "Sainey Jawo",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33778.jpg"
+        },
+        {
+            "name": "Sengan Jobe",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 21,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33669.jpg"
+        },
+        {
+            "name": "Alieu Joof",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33665.jpg"
+        },
+        {
+            "name": "Ibrahim Kebbeh",
+            "sports": [
+                "Boxing"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/60282.jpg"
+        },
+        {
+            "name": "Jahara Koita",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "M",
+            "age": 20,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/101339.jpg"
+        },
+        {
+            "name": "Abie Kujabi",
+            "sports": [
+                "Beach Volleyball"
+            ],
+            "gender": "F",
+            "age": 31,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/33801.jpg"
+        },
+        {
+            "name": "Salifu Kujabi",
+            "sports": [
+                "3x3 Wheelchair Basketball"
+            ],
+            "gender": "M",
+            "age": 42,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62807.jpg"
+        },
+        {
+            "name": "Ebrima Mbye",
+            "sports": [
+                "3x3 Wheelchair Basketball"
+            ],
+            "gender": "M",
+            "age": 37,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62848.jpg"
+        },
+        {
+            "name": "Wurrie Njadoe",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "F",
+            "age": 24,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41050.jpg"
+        },
+        {
+            "name": "Faye Njie",
+            "sports": [
+                "Judo"
+            ],
+            "gender": "M",
+            "age": 28,
+            "image": null
+        },
+        {
+            "name": "Momodou Sey",
+            "sports": [
+                "Athletics and Para Athletics"
+            ],
+            "gender": "M",
+            "age": 22,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/41053.jpg"
+        },
+        {
+            "name": "Malang Tamba",
+            "sports": [
+                "3x3 Wheelchair Basketball"
+            ],
+            "gender": "M",
+            "age": 32,
+            "image": "https://b2022-images.microplustimingservices.com/DT_PIC/62766.jpg"
+        }
+    ],
+    "medalWinners": []
+}
