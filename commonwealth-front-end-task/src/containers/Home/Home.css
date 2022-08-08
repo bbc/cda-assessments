@@ -1,4 +1,10 @@
 .home {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+}
+
+.home .medals-filter {
+  width: 200px;
+  align-self: center;
+  margin-bottom: 20px;
 }

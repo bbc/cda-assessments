@@ -11,6 +11,18 @@ const getAllMedals = async () => {
   })
 }
 
+const getMedalsByCountryId = async countryId => {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      const countryMedals = medals.medals.find(medal => medal.countryId === countryId)
+      if (!countryMedals) {
+        reject(`No medals found for country ${countryId}`)
+      }
+      resolve(countryMedals)
+    }, randomTimeout())
+  })
+}
+
 const getAllCountries = async () => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
@@ -32,4 +44,4 @@ const getCountryById = async id => {
   })
 }
 
-export { getAllMedals, getAllCountries, getCountryById }
+export { getAllMedals, getAllCountries, getCountryById, getMedalsByCountryId }

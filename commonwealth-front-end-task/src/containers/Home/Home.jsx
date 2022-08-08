@@ -23,9 +23,17 @@ const Medals = () => {
       })
   }, [])
 
+  if (medalsLoading) {
+    return <p>Loading...</p>
+  }
+
   return (
     <div data-testid="home-container" className="home">
-      {medalsLoading ? <p>Loading</p> : <MedalsTable medals={medals} />}
+      <div className="medals-filter">
+        <label htmlFor="medals-filter-text">Filter medals by country</label>
+        <input id="medals-filter-text" type="text"></input>
+      </div>
+      <MedalsTable medals={medals} />
     </div>
   )
 }
