@@ -1,6 +1,5 @@
 .App header {
   background-color: #804f9b;
-  color: white;
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
@@ -8,6 +7,11 @@
 
 .App header h1 {
   margin: 0;
+}
+
+.App header h1 a {
+  text-decoration: none;
+  color: white;
 }
 
 body {

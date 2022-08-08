@@ -34,12 +34,12 @@ const getAllCountries = async () => {
 const getCountryById = async id => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      const country = countries.countries.find(country => country.id === id)
+      const country = countries.countries.find(country => country.id.toString() === id)
       if (country === undefined) {
         reject(`No country with id ${id}`)
       }
 
-      resolve({ countries: countries.countries })
+      resolve(country)
     }, randomTimeout())
   })
 }

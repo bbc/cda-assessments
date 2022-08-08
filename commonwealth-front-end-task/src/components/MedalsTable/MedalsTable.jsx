@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import './MedalsTable.css'
 
 const MedalsTable = ({ medals }) => {
@@ -9,17 +10,19 @@ const MedalsTable = ({ medals }) => {
           <th>Gold</th>
           <th>Silver</th>
           <th>Bronze</th>
-          <th>Total</th>
+          <th>Total Points</th>
         </tr>
       </thead>
       <tbody>
         {medals.map((medal, i) => (
           <tr key={i}>
-            <td>{medal.countryId}</td>
+            <td>
+              <Link to={`/country/${medal.countryId}`}>{medal.countryId}</Link>
+            </td>
             <td>{medal.gold}</td>
             <td>{medal.silver}</td>
             <td>{medal.bronze}</td>
-            <td>{medal.gold}</td>
+            <td></td>
           </tr>
         ))}
       </tbody>
