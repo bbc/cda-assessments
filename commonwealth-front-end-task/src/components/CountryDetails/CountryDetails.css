@@ -1,0 +1,11 @@
+.country-details {
+  align-self: center;
+  width: 300px;
+  border-radius: 10px;
+  border: 1px black solid;
+  padding: 5px 30px;
+}
+
+.country-details img {
+  width: 100px;
+}

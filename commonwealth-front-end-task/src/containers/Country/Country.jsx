@@ -1,9 +1,12 @@
 import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
+import CountryDetails from '../../components/CountryDetails'
 
 import { getCountryById } from '../../services/dataFetcher'
 
-const Country = ({}) => {
+import './Country.css'
+
+const Country = () => {
   const { id } = useParams()
 
   const [loading, setLoading] = useState(false)
@@ -33,11 +36,9 @@ const Country = ({}) => {
   }
 
   return (
-    <>
-      <h2>Country: {id}</h2>
-      <p>Name: {countryDetails.name}</p>
-      <p>Code: {countryDetails.code}</p>
-    </>
+    <div className="country-container">
+      <CountryDetails details={countryDetails} />
+    </div>
   )
 }
 
