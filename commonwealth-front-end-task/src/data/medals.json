@@ -1,0 +1,20 @@
+{
+  "medals": [
+    { "countryId": 1, "gold": 1, "silver": 2, "bronze": 3 },
+    { "countryId": 2, "gold": 0, "silver": 4, "bronze": 2 },
+    { "countryId": 3, "gold": 2, "silver": 6, "bronze": 4 },
+    { "countryId": 4, "gold": 1, "silver": 10, "bronze": 1 },
+    { "countryId": 5, "gold": 2, "silver": 2, "bronze": 0 },
+    { "countryId": 6, "gold": 6, "silver": 9, "bronze": 0 },
+    { "countryId": 7, "gold": 5, "silver": 0, "bronze": 10 },
+    { "countryId": 8, "gold": 8, "silver": 4, "bronze": 6 },
+    { "countryId": 9, "gold": 2, "silver": 15, "bronze": 2 },
+    { "countryId": 10, "gold": 0, "silver": 7, "bronze": 8 },
+    { "countryId": 11, "gold": 8, "silver": 7, "bronze": 7 },
+    { "countryId": 12, "gold": 3, "silver": 6, "bronze": 11 },
+    { "countryId": 13, "gold": 5, "silver": 2, "bronze": 9 },
+    { "countryId": 14, "gold": 2, "silver": 14, "bronze": 12 },
+    { "countryId": 15, "gold": 1, "silver": 9, "bronze": 15 },
+    { "countryId": 16, "gold": 12, "silver": 2, "bronze": 18 }
+  ]
+}

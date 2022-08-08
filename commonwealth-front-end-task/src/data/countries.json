@@ -1,0 +1,100 @@
+{
+  "countries": [
+    {
+      "countryId": 1,
+      "countryCode": "ENG",
+      "countryName": "England",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/ENG.png"
+    },
+    {
+      "countryId": 2,
+      "countryCode": "GHA",
+      "countryName": "Ghana",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/GHA.png"
+    },
+    {
+      "countryId": 3,
+      "countryCode": "KEN",
+      "countryName": "Kenya",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/KEN.png"
+    },
+    {
+      "countryId": 4,
+      "countryCode": "RSA",
+      "countryName": "South Africa",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/RSA.png"
+    },
+    {
+      "countryId": 5,
+      "countryCode": "UGA",
+      "countryName": "Uganda",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/UGA.png"
+    },
+    {
+      "countryId": 6,
+      "countryCode": "IND",
+      "countryName": "India",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/IND.png"
+    },
+    {
+      "countryId": 7,
+      "countryCode": "MAS",
+      "countryName": "Malaysia",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/MAS.png"
+    },
+    {
+      "countryId": 8,
+      "countryCode": "SRI",
+      "countryName": "Sri Lanka",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/SRI.png"
+    },
+    {
+      "countryId": 9,
+      "countryCode": "SGP",
+      "countryName": "Singapore",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/SGP.png"
+    },
+    {
+      "countryId": 10,
+      "countryCode": "BAR",
+      "countryName": "Barbados",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/BAR.png"
+    },
+    {
+      "countryId": 11,
+      "countryCode": "GUY",
+      "countryName": "Guyana",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/GUY.png"
+    },
+    {
+      "countryId": 12,
+      "countryCode": "JAM",
+      "countryName": "Jamaica",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/JAM.png"
+    },
+    {
+      "countryId": 13,
+      "countryCode": "SCO",
+      "countryName": "Scotland",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/SCO.png"
+    },
+    {
+      "countryId": 14,
+      "countryCode": "WAL",
+      "countryName": "Wales",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/WAL.png"
+    },
+    {
+      "countryId": 15,
+      "countryCode": "AUS",
+      "countryName": "Australia",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/AUS.png"
+    },
+    {
+      "countryId": 16,
+      "countryCode": "TGA",
+      "countryName": "Tonga",
+      "flagUrl": "https://static-files.birmingham2022.com/photos/flags/TGA.png"
+    }
+  ]
+}
