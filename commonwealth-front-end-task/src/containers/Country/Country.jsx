@@ -36,7 +36,7 @@ const Country = () => {
   }
 
   return (
-    <div className="country-container">
+    <div data-testId="country-container" className="country-container">
       <CountryDetails details={countryDetails} />
     </div>
   )
