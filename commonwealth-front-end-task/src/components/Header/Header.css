@@ -1,0 +1,21 @@
+header {
+  background-color: #804f9b;
+  display: flex;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  align-self: center;
+  padding-left: 24px;
+  margin: 0;
+}
+
+header h1 a {
+  text-decoration: none;
+  color: white;
+}
+
+header img {
+  height: 70px;
+}
