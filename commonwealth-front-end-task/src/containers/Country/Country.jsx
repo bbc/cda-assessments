@@ -18,7 +18,6 @@ const Country = () => {
 
     getCountryById(id)
       .then(country => {
-        console.log(country)
         setCountryDetails(country)
       })
       .catch(e => setCountryDetails(null))
@@ -36,7 +35,7 @@ const Country = () => {
   }
 
   return (
-    <div data-testId="country-container" className="country-container">
+    <div data-testid="country-container" className="country-container">
       <CountryDetails details={countryDetails} />
     </div>
   )

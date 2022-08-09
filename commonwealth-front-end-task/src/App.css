@@ -1,20 +1,5 @@
-.App header {
-  background-color: #804f9b;
-  text-align: center;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-.App header h1 {
-  margin: 0;
-}
-
-.App header h1 a {
-  text-decoration: none;
-  color: white;
-}
-
 body {
+  background-color: #ede4f1;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
     'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
