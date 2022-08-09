@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 import { useState } from 'react'
 
 // Services
-import { getAllMedals } from '../../services/dataFetcher'
+import { getAllMedals } from '../../services/medals'
 
 // Components
 import MedalsTable from '../../components/MedalsTable'

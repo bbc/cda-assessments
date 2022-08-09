@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import CountryDetails from '../../components/CountryDetails'
 
-import { getCountryById } from '../../services/dataFetcher'
+import { getCountryById } from '../../services/country'
 
 import './Country.css'
 
