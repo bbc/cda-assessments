@@ -4,9 +4,10 @@ Welcome 👋
 
 This is where we keep some small projects to assess candidates joining our team.
 
-Currently there's only one task to choose from:
+There are two directories, one for an api task and another for a front end task. Both in the theme of the recent commonwealth games
 
-- `commonwealth-api-task` A fake NodeJS API to fetch data about teams from the commonwealth games
+- `commonwealth-api-task` A fake NodeJS API to fetch data about teams
+- `commonwealth-front-end-task` A basic React application to see results and country details utilising a mocked api
 
 ## How it works
 

@@ -29,9 +29,9 @@ npm start
 npm test
 ```
 
-## Before the assessment
+## Before the interview
 
 - Clone the repo
 - Install packages `npm install`
 - Ensure that the app runs with `npm start`
-- Check that all tests pass with `npm start`
+- Check that all tests pass with `npm test`
