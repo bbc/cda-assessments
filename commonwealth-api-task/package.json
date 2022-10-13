@@ -4,13 +4,14 @@
 	"description": "API technical task for the CDA team",
 	"main": "src/index.js",
 	"scripts": {
-		"start": "node src/index.js",
+		"start": "nodemon src/index.js",
 		"test": "jest",
 		"test:watch": "jest --watch"
 	},
 	"author": "CDA",
 	"license": "ISC",
 	"devDependencies": {
+		"nodemon": "^2.0.20",
 		"supertest": "^6.2.4"
 	},
 	"dependencies": {
