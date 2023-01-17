@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react'
+import { render, screen, within } from '@testing-library/react'
 import { MemoryRouter } from 'react-router'
 import MedalsTable from './MedalsTable'
 
@@ -37,11 +37,15 @@ describe('MedalsTable', () => {
       </MemoryRouter>
     )
 
+    const secondRow = screen.getAllByRole('row')[2]
+
     // Assert
-    expect(screen.getAllByRole('row')[2]).toHaveTextContent(4713)
+    expect(within(secondRow).getAllByRole('cell')[1]).toHaveTextContent(4)
+    expect(within(secondRow).getAllByRole('cell')[2]).toHaveTextContent(7)
+    expect(within(secondRow).getAllByRole('cell')[3]).toHaveTextContent(13)
   })
 
-  it('should display medals in order of most total medals', () => {
+  it('should display medals in order of most medals', () => {
     // Arrange
     const medals = [
       { id: '3', gold: 6, silver: 14, bronze: 8 },
@@ -56,9 +60,21 @@ describe('MedalsTable', () => {
       </MemoryRouter>
     )
 
+    // Row 0 is the header
+    const rows = screen.getAllByRole('row')
+
     // Assert
-    expect(screen.getAllByRole('row')[1]).toHaveTextContent(/6148/)
-    expect(screen.getAllByRole('row')[2]).toHaveTextContent(/4711/)
-    expect(screen.getAllByRole('row')[3]).toHaveTextContent(/124/)
+    // Col 0 is the country
+    expect(within(rows[1]).getAllByRole('cell')[1]).toHaveTextContent(6)
+    expect(within(rows[1]).getAllByRole('cell')[2]).toHaveTextContent(14)
+    expect(within(rows[1]).getAllByRole('cell')[3]).toHaveTextContent(8)
+
+    expect(within(rows[2]).getAllByRole('cell')[1]).toHaveTextContent(4)
+    expect(within(rows[2]).getAllByRole('cell')[2]).toHaveTextContent(7)
+    expect(within(rows[2]).getAllByRole('cell')[3]).toHaveTextContent(11)
+
+    expect(within(rows[3]).getAllByRole('cell')[1]).toHaveTextContent(1)
+    expect(within(rows[3]).getAllByRole('cell')[2]).toHaveTextContent(2)
+    expect(within(rows[3]).getAllByRole('cell')[3]).toHaveTextContent(4)
   })
 })
