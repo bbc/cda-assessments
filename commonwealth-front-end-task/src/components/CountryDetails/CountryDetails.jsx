@@ -1,11 +1,11 @@
 import './CountryDetails.css'
 
-const CountryDetails = ({ details }) => (
+const CountryDetails = ({ country }) => (
   <div className="country-details">
-    <h2>Country: {details.name}</h2>
-    <p>Id: {details.id}</p>
-    <p>Code: {details.code}</p>
-    <img src={details.flagUrl} alt={`${details.name} flag`} />
+    <h2>Country: {country.name}</h2>
+    <p>Id: {country.id}</p>
+    <p>Code: {country.code}</p>
+    <img src={country.flagUrl} alt={`${country.name} flag`} />
   </div>
 )
 
