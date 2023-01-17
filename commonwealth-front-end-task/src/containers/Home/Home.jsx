@@ -25,17 +25,7 @@ const Medals = () => {
 
   return (
     <div data-testid="home-container" className="home">
-      {medalsLoading ? (
-        <p>Loading...</p>
-      ) : (
-        <>
-          <div className="medals-filter">
-            <label htmlFor="medals-filter-text">Filter</label>
-            <input id="medals-filter-text" type="text"></input>
-          </div>
-          <MedalsTable medals={medals} />
-        </>
-      )}
+      {medalsLoading ? <p>Loading...</p> : <MedalsTable medals={medals} />}
     </div>
   )
 }
