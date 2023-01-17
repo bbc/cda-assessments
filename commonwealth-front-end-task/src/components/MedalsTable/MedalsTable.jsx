@@ -10,7 +10,6 @@ const MedalsTable = ({ medals }) => {
           <th>Gold</th>
           <th>Silver</th>
           <th>Bronze</th>
-          <th>Total Medals</th>
         </tr>
       </thead>
       <tbody>
@@ -22,7 +21,6 @@ const MedalsTable = ({ medals }) => {
             <td>{medal.gold}</td>
             <td>{medal.silver}</td>
             <td>{medal.bronze}</td>
-            <td>{medal.gold * 3}</td>
           </tr>
         ))}
       </tbody>
