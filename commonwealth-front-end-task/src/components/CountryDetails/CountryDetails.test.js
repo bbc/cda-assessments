@@ -13,7 +13,7 @@ describe('CountryDetails', () => {
     }
 
     // Act
-    render(<CountryDetails details={country} />)
+    render(<CountryDetails country={country} />)
 
     // Assert
     expect(screen.getByText('Country: Scotland')).toBeInTheDocument()
