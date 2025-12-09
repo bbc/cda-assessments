@@ -14,7 +14,7 @@ GET `/top10` - gets a list of the top 10 countries according to medals won
 
 ### Requirements
 
-- node 14+ (see https://nodejs.org/en/download/)
+- node 20+ (see https://nodejs.org/en/download/)
 
 ### Running the API
 
