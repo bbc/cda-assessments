@@ -20,6 +20,22 @@ describe('MedalsTable', () => {
 
     // Assert
     expect(screen.getAllByRole('row')).toHaveLength(4)
+  })
+
+  it('should render gold, silver and bronze medal values', () => {
+    // Arrange
+    const medals = [
+      { countryId: 1, gold: 1, silver: 2, bronze: 2 }
+    ]
+
+    // Act
+    render(
+      <MemoryRouter>
+        <MedalsTable medals={medals} />
+      </MemoryRouter>
+    )
+
+    // Assert
     const firstRow = screen.getAllByRole('row')[1]
     expect(within(firstRow).getAllByRole('cell')[1]).toHaveTextContent(1)
     expect(within(firstRow).getAllByRole('cell')[2]).toHaveTextContent(2)
