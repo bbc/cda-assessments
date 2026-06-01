@@ -1,6 +1,6 @@
 # Commonwealth Front End Task
 
-This project is a simple create react app to view details about the commonwealth games results.
+This project is a simple react app to view details about the commonwealth games results.
 
 ## Setup
 
