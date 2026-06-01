@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router'
 import './MedalsTable.css'
 
 const MedalsTable = ({ medals }) => {

@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react'
-import { MemoryRouter } from 'react-router-dom'
+import { MemoryRouter } from 'react-router'
 import Header from './Header'
 
 describe('Header', () => {
@@ -38,7 +38,7 @@ describe('Header', () => {
     // Assert
     expect(screen.getByRole('img', { name: 'comonwealth logo' })).toHaveAttribute(
       'src',
-      'logo.webp'
+      '/src/assets/logo.webp'
     )
   })
 })
