@@ -24,9 +24,7 @@ describe('MedalsTable', () => {
 
   it('should render gold, silver and bronze medal values', () => {
     // Arrange
-    const medals = [
-      { countryId: 1, gold: 1, silver: 2, bronze: 2 }
-    ]
+    const medals = [{ countryId: 1, gold: 1, silver: 2, bronze: 2 }]
 
     // Act
     render(
